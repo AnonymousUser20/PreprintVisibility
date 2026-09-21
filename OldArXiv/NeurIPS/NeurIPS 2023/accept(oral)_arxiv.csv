@@ -1,0 +1,68 @@
+Title,Submission Date
+Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation,"1 March, 2023"
+Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures,"25 September, 2023"
+"Spatial-frequency channels, shape bias, and adversarial robustness","22 September, 2023"
+Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment,"15 June, 2023"
+The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation,"2 June, 2023"
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model,"29 May, 2023"
+Ordering-based Conditions for Global Convergence of Policy Gradient Methods,April 2025
+Tester-Learners for Halfspaces: Universal Algorithms,May 2023
+Conformal Meta-learners for Predictive Inference of Individual Treatment Effects,"7 February, 2024"
+Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Method,"8 October, 2023"
+Learning Transformer Programs,August 2025
+Clifford Group Equivariant Neural Networks,July 2024
+Learning Linear Causal Representations from Interventions under General Nonlinear Mixing,"3 June, 2023"
+How to Turn Your Knowledge Graph Embeddings into Generative Models,"25 May, 2023"
+Rotating Features for Object Discovery,"1 June, 2023"
+Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity,October 2023
+DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models,November 2023
+Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture,October 2023
+QLoRA: Efficient Finetuning of Quantized LLMs,May 2023
+User-Level Differential Privacy With Few Examples Per User,September 2023
+Why think step by step? Reasoning emerges from the locality of experience,Not Found
+Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models,"5 June, 2023"
+Are Emergent Abilities of Large Language Models a Mirage?,Not Found
+Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation,"5 July, 2023"
+Fine-Tuning Language Models with Just Forward Passes,"26 May, 2023"
+Going beyond persistent homology using persistent homology,November 2023
+Optimal Learners for Realizable Regression: PAC Learning and Online Learning,"7 July, 2023"
+When Demonstrations meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning,"14 February, 2023"
+Bridging RL Theory and Practice with the Effective Horizon,"19 April, 2023"
+Students Parrot Their Teachers: Membership Inference on Model Distillation,March 2023
+Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language,"5 June, 2023"
+Siamese Masked Autoencoders,"26 March, 2024"
+Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent,"20 June, 2023"
+Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization,"20 July, 2023"
+EgoEnv: Human-centric environment representations from egocentric video,"22 July, 2022"
+A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning,October 2023
+The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks,"30 June, 2023"
+Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore,Not Found
+Tree of Thoughts: Deliberate Problem Solving with Large Language Models,"17 May, 2023"
+Image Captioners Are Scalable Vision Learners Too,"13 June, 2023"
+Scaling Data-Constrained Language Models,October 2024
+Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models,"22 May, 2023"
+Causal normalizing flows: from theory to practice,"8 June, 2023"
+Nearly Tight Bounds For Differentially Private Multiway Cut,December 2023
+Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models,May 2023
+Toolformer: Language Models Can Teach Themselves to Use Tools,February 2023
+Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity,May 2023
+Private Everlasting Prediction,January 2024
+ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings,"19 May, 2023"
+Visual Instruction Tuning,October 2025
+A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization,Not Found
+Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis,Not Found
+Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective,"24 May, 2023"
+Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach,"26 May, 2023"
+Bridging Discrete and Backpropagation: Straight-Through and Beyond,"17 April, 2023"
+A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods,"24 May, 2023"
+Random Cuts are Optimal for Explainable k-Medians,April 2023
+Entropic Neural Optimal Transport via Diffusion Processes,"2 November, 2022"
+Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection,"7 June, 2023"
+A Measure-Theoretic Axiomatisation of Causality,"19 May, 2023"
+Abide by the law and follow the flow: conservation laws for gradient flows,"30 June, 2023"
+Jailbroken: How Does LLM Safety Training Fail?,Not Found
+Characteristic Circuits,June 2025
+Generalizing Nonlinear ICA Beyond Structural Sparsity,November 2023
+When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment,Not Found
+Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition,"18 October, 2022"
+Privacy Auditing with One (1) Training Run,May 2023

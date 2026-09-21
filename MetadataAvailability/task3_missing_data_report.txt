@@ -1,0 +1,64 @@
+Task 3 metadata availability report
+Sources: OldOutputs + Outputs + ReviewerPlots/paper_review_scores.csv
+         + NeurIPS Dataset and Benchmark (D&B)
+         + Reviews* reject folders for ICLR/ICML/NeurIPS
+Papers = sum of tracks (Main/Findings/Demo/D&B/Appl./Industry[/Rejected]).
+Track column in Table 3 left blank by design.
+
+Total unique papers: 75990
+
+Track breakdown by venue-year (should sum to Papers):
+  ICLR     2023: Papers= 3743 | Main=1574, Rejected=2169
+  ICLR     2024: Papers= 5457 | Main=2260, Rejected=3197
+  ICLR     2025: Papers=11672 | Main=3704, Rejected=7968
+  ICML     2023: Papers= 1828 | Main=1828
+  ICML     2024: Papers= 2610 | Main=2610
+  ICML     2025: Papers= 3422 | Main=3257, Rejected=165
+  NeurIPS  2023: Papers= 3716 | D&B=322, Main=3218, Rejected=176
+  NeurIPS  2024: Papers= 4695 | D&B=459, Main=4035, Rejected=201
+  NeurIPS  2025: Papers= 6037 | D&B=497, Main=5286, Rejected=254
+  AAAI     2023: Papers= 2023 | Main=2023
+  AAAI     2024: Papers= 2864 | Main=2864
+  AAAI     2025: Papers= 3486 | Main=3486
+  ACL      2023: Papers= 1795 | Demo=47, Findings=749, Industry=63, Main=936
+  ACL      2024: Papers= 1649 | Demo=32, Findings=824, Main=793
+  ACL      2025: Papers= 2381 | Demo=57, Findings=801, Industry=95, Main=1428
+  EMNLP    2023: Papers= 1428 | Demo=40, Findings=412, Industry=68, Main=908
+  EMNLP    2024: Papers= 2468 | Findings=850, Industry=112, Main=1506
+  EMNLP    2025: Papers= 2911 | Findings=1203, Industry=162, Main=1546
+  COLING   2024: Papers= 1871 | Main=1871
+  COLING   2025: Papers=  405 | Demo=18, Industry=60, Main=327
+  KDD      2023: Papers=  313 | Main=313
+  KDD      2024: Papers=  563 | Industry=152, Main=411
+  KDD      2025: Papers=  707 | Industry=155, Main=552
+  CVPR     2023: Papers= 2359 | Main=2359
+  CVPR     2024: Papers= 2716 | Main=2716
+  CVPR     2025: Papers= 2871 | Main=2871
+
+Table 3 preview:
+  ICLR     2023  papers= 3743  arXiv=    1557 (41.6%)  Affil.=    2599 (69.4%)  Country=    1343 (35.9%)  Tier=    1121 (29.9%)  Rating=    1573 (42.0%)  Conf.=    1573 (42.0%)
+  ICLR     2024  papers= 5457  arXiv=    3242 (59.4%)  Affil.=    5404 (99.0%)  Country=    4417 (80.9%)  Tier=    3681 (67.5%)  Rating=    2260 (41.4%)  Conf.=    2260 (41.4%)
+  ICLR     2025  papers=11672  arXiv=    3877 (33.2%)  Affil.=    6880 (58.9%)  Country=    2699 (23.1%)  Tier=    2263 (19.4%)  Rating=    3704 (31.7%)  Conf.=    3704 (31.7%)
+  ICML     2023  papers= 1828  arXiv=    1485 (81.2%)  Affil.=   1828 (100.0%)  Country=     894 (48.9%)  Tier=     738 (40.4%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  ICML     2024  papers= 2610  arXiv=    2026 (77.6%)  Affil.=   2610 (100.0%)  Country=    1157 (44.3%)  Tier=     966 (37.0%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  ICML     2025  papers= 3422  arXiv=    2430 (71.0%)  Affil.=    3257 (95.2%)  Country=    1486 (43.4%)  Tier=    1255 (36.7%)  Rating=    3257 (95.2%)  Conf.=        0 (0.0%)
+  NeurIPS  2023  papers= 3716  arXiv=    2524 (67.9%)  Affil.=    3218 (86.6%)  Country=    3090 (83.2%)  Tier=    2592 (69.8%)  Rating=    3218 (86.6%)  Conf.=    3218 (86.6%)
+  NeurIPS  2024  papers= 4695  arXiv=    3150 (67.1%)  Affil.=    4035 (85.9%)  Country=    3866 (82.3%)  Tier=    3331 (70.9%)  Rating=    4035 (85.9%)  Conf.=    4035 (85.9%)
+  NeurIPS  2025  papers= 6037  arXiv=    4045 (67.0%)  Affil.=    5286 (87.6%)  Country=      150 (2.5%)  Tier=      139 (2.3%)  Rating=    5286 (87.6%)  Conf.=    5286 (87.6%)
+  AAAI     2023  papers= 2023  arXiv=    1163 (57.5%)  Affil.=   2023 (100.0%)  Country=    1718 (84.9%)  Tier=    1528 (75.5%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  AAAI     2024  papers= 2864  arXiv=    1649 (57.6%)  Affil.=   2864 (100.0%)  Country=    2436 (85.1%)  Tier=    2157 (75.3%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  AAAI     2025  papers= 3486  arXiv=    2110 (60.5%)  Affil.=   3486 (100.0%)  Country=    2975 (85.3%)  Tier=    2553 (73.2%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  ACL      2023  papers= 1795  arXiv=    1201 (66.9%)  Affil.=   1795 (100.0%)  Country=    1715 (95.5%)  Tier=    1329 (74.0%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  ACL      2024  papers= 1649  arXiv=    1344 (81.5%)  Affil.=   1649 (100.0%)  Country=    1586 (96.2%)  Tier=    1271 (77.1%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  ACL      2025  papers= 2381  arXiv=    1347 (56.6%)  Affil.=   2381 (100.0%)  Country=    2312 (97.1%)  Tier=    1835 (77.1%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  EMNLP    2023  papers= 1428  arXiv=    1022 (71.6%)  Affil.=   1428 (100.0%)  Country=    1365 (95.6%)  Tier=    1066 (74.6%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  EMNLP    2024  papers= 2468  arXiv=    1913 (77.5%)  Affil.=   2468 (100.0%)  Country=    2389 (96.8%)  Tier=    1862 (75.4%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  EMNLP    2025  papers= 2911  arXiv=    2071 (71.1%)  Affil.=   2911 (100.0%)  Country=    2813 (96.6%)  Tier=    2183 (75.0%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  COLING   2024  papers= 1871  arXiv=     745 (39.8%)  Affil.=   1871 (100.0%)  Country=    1807 (96.6%)  Tier=    1185 (63.3%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  COLING   2025  papers=  405  arXiv=     235 (58.0%)  Affil.=    405 (100.0%)  Country=     398 (98.3%)  Tier=     251 (62.0%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  KDD      2023  papers=  313  arXiv=     166 (53.0%)  Affil.=    313 (100.0%)  Country=     289 (92.3%)  Tier=     236 (75.4%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  KDD      2024  papers=  563  arXiv=     363 (64.5%)  Affil.=    563 (100.0%)  Country=     512 (90.9%)  Tier=     414 (73.5%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  KDD      2025  papers=  707  arXiv=     409 (57.9%)  Affil.=    707 (100.0%)  Country=     667 (94.3%)  Tier=     513 (72.6%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  CVPR     2023  papers= 2359  arXiv=    1768 (74.9%)  Affil.=   2359 (100.0%)  Country=    2224 (94.3%)  Tier=    1740 (73.8%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  CVPR     2024  papers= 2716  arXiv=    2173 (80.0%)  Affil.=   2716 (100.0%)  Country=    2580 (95.0%)  Tier=    2073 (76.3%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)
+  CVPR     2025  papers= 2871  arXiv=    2253 (78.5%)  Affil.=   2871 (100.0%)  Country=    2731 (95.1%)  Tier=    2144 (74.7%)  Rating=        0 (0.0%)  Conf.=        0 (0.0%)

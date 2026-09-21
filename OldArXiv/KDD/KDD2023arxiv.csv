@@ -1,0 +1,314 @@
+Title,Submission Date
+Anomaly Detection with Score Distribution Discrimination,June 2023
+Data-Efficient and Interpretable Tabular Anomaly Detection,"3 March, 2022"
+DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection,"17 June, 2023"
+Deep Weakly-Supervised Anomaly Detection,"29 October, 2019"
+Learning from Positive and Unlabeled Multi-Instance Bags in Anomaly Detection,Not Found
+Precursor-of-Anomaly Detection for Irregular Time Series,"27 June, 2023"
+MSSRNet: Manipulating Sequential Style Representation for Unsupervised Text Style Transfer,June 2023
+CLUR: Uncertainty Estimation for Few-Shot Text Classification with Contrastive Learning,Not Found
+MetricPrompt: Prompting Model as a Relevance Metric for Few-Shot Text Classification,June 2023
+Neural-Hidden-CRF: A Robust Weakly-Supervised Sequence Labeler,"10 September, 2023"
+A Sequence-to-Sequence Approach with Mixed Pointers to Topic Segmentation and Segment Labeling,Not Found
+Open-Set Semi-Supervised Text Classification with Latent Outlier Softening,Not Found
+Constraint-Aware and Ranking-Distilled Token Pruning for Efficient Transformer Inference,June 2023
+COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search,June 2023
+Kernel Ridge Regression-Based Graph Dataset Distillation,Not Found
+Efficient Coreset Selection with Cluster-Based Methods,Not Found
+The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles,June 2023
+Off-Policy Evaluation of Ranking Policies under Diverse User Behavior,June 2023
+Generative Flow Network for Listwise Recommendation,"3 June, 2023"
+Rank-heterogeneous Preference Models for School Choice,June 2023
+Querywise Fair Learning to Rank through Multi-Objective Optimization,Not Found
+PSLOG: Pretraining with Search Logs for Document Ranking,Not Found
+Reducing Exposure to Harmful Content via Graph Rewiring,June 2023
+Efficient Approximation Algorithms for Spanning Centrality,"25 May, 2023"
+A Higher-Order Temporal H-Index for Evolving Networks,May 2023
+Quantifying Node Importance over Network Structural Stability,Not Found
+Efficient Centrality Maximization with Rademacher Averages,June 2023
+Accelerating Personalized PageRank Vector Computation,"3 June, 2023"
+Community-based Dynamic Graph Learning for Popularity Prediction,Not Found
+"Fair Allocation Over Time, with Applications to Content Moderation",Not Found
+A Sublinear Time Algorithm for Opinion Optimization in Directed Social Networks via Edge Recommendation,Not Found
+Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting,"14 June, 2021"
+How Transitive Are Real-World Group Interactions? Measurement and Reproduction,Not Found
+Predicting Information Pathways Across Online Communities,June 2023
+Test Accuracy vs. Generalization Gap: Model Selection in NLP without Accessing Training or Testing Data,Not Found
+Deep Pipeline Embeddings for AutoML,"23 May, 2023"
+Dependence and Model Selection in LLP: The Problem of Variants,Not Found
+Rapid Image Labeling via Neuro-Symbolic Learning,June 2023
+Efficient and Joint Hyperparameter and Architecture Search for Collaborative Filtering,July 2023
+CFGL-LCR: A Counterfactual Graph Learning framework for Legal Case Retrieval,Not Found
+Dense Representation Learning and Retrieval for Tabular Data Prediction,Not Found
+LEA: Improving Sentence Similarity Robustness to Typos Using Lexical Attention Bias,July 2023
+LightToken: A Task and Model-Agnostic Lightweight Token Embedding Framework for Pre-trained Language Models,Not Found
+DyGen: Learning from Noisy Labels via Dynamics-Enhanced Generative Modeling,"30 May, 2023"
+GetPt: Graph-enhanced General Table Pre-training with Alternate Attention Network,Not Found
+Empower Post-hoc Graph Explanations with Information Bottleneck: A Pre-training and Fine-tuning Perspective,Not Found
+MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation,July 2023
+CounterNet: End-to-End Training of Prediction Aware Counterfactual Explanations,"15 September, 2021"
+Fire: An Optimization Approach for Fast Interpretable Rule Extraction,June 2023
+ESSA: Explanation Iterative Supervision via Saliency-Guided Data Augmentation,Not Found
+A Causality Inspired Framework for Model Interpretation,Not Found
+Pyramid Graph Neural Network: A Graph Sampling and Filtering Approach for Multi-Scale Disentangled Representations,Not Found
+What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders,"20 May, 2022"
+Efficient and Effective Edge-Wise Graph Representation Learning,Not Found
+Towards Graph-Level Anomaly Detection via Deep Evolutionary Mapping,Not Found
+VQNE: Variational Quantum Network Embedding with Application to Network Alignment,Not Found
+CARL-G: Clustering-Accelerated Representation Learning on Graphs,"12 June, 2023"
+Optimal Dynamic Subset Sampling: Theory and Applications,"30 May, 2023"
+Capacity Constrained Influence Maximization in Social Networks,June 2023
+"On Improving the Cohesiveness of Graphs by Merging Nodes: Formulation, Analysis, and Algorithms",June 2023
+Densest Diverse Subgraphs: How to Plan a Successful Cocktail Party with Diversity,June 2023
+Minimizing Hitting Time between Disparate Groups with Shortcut Edges,"6 June, 2023"
+Sequential Learning Algorithms for Contextual Model-Free Influence Maximization,Not Found
+Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning,Not Found
+Generalizable Low-Resource Activity Recognition with Diverse and Discriminative Representation Learning,"25 May, 2023"
+Localised Adaptive Spatial-Temporal Graph Neural Network,"12 June, 2023"
+Spatio-Temporal Diffusion Point Processes,"21 May, 2023"
+ST-iFGSM: Enhancing Robustness of Human Mobility Signature Identification Model via Spatial-Temporal Iterative FGSM,Not Found
+On Hierarchical Disentanglement of Interactive Behaviors for Multimodal Spatiotemporal Data with Incompleteness,Not Found
+Complementary Classifier Induced Partial Label Learning,May 2023
+Deep Encoders with Auxiliary Parameters for Extreme Classification,Not Found
+Semantic Dissimilarity Guided Locality Preserving Projections for Partial Label Dimensionality Reduction,Not Found
+To Aggregate or Not? Learning with Separate Noisy Labels,Not Found
+Partial-label Learning with Mixed Closed-Set and Open-Set Out-of-Candidate Examples,"2 July, 2023"
+Local Boosting for Weakly-Supervised Learning,June 2023
+One for All: Unified Workload Prediction for Dynamic Multi-Tenant Edge Cloud Platforms,June 2023
+GAL-VNE: Solving the VNE Problem with Global Reinforcement Learning and Local One-Shot Neural Prediction,Not Found
+Learning Autoregressive Model in LSM-Tree based Store,Not Found
+PERT-GNN: Latency Prediction for Microservice-Based Cloud-Native Applications via Graph Neural Networks,Not Found
+IPOC: An Adaptive Interval Prediction Model based on Online Chasing and Conformal Inference for Large-Scale Systems,Not Found
+A Dual-Agent Scheduler for Distributed Deep Learning Jobs on Public Cloud via Reinforcement Learning,Not Found
+Treatment Effect Estimation with Adjustment Feature Selection,Not Found
+Specify Robust Causal Representation from Mixed Observations,October 2023
+CF-GODE: Continuous-Time Causal Inference for Multi-Agent Dynamical Systems,June 2023
+Detecting Interference in Online Controlled Experiments with Increasing Allocation,Not Found
+Causal Effect Estimation on Hierarchical Spatial Graph Data,Not Found
+Communication Efficient Distributed Newton Method with Fast Convergence Rates,May 2023
+Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint,"22 May, 2023"
+Sharpness-Aware Minimization Revisited: Weighted Sharpness as a Regularization Term,"25 May, 2023"
+Fragility Index: A New Approach for Binary Classification,Not Found
+Approximation Algorithms for Size-Constrained Non-Monotone Submodular Maximization in Deterministic Linear Time,"14 April, 2021"
+Efficient Sparse Linear Bandits under High Dimensional Data,Not Found
+Improving the Expressiveness of K-hop Message-Passing GNNs by Injecting Contextualized Substructure Information,June 2024
+A Message Passing Neural Network Space for Better Capturing Data-dependent Receptive Fields,Not Found
+On Structural Expressive Power of Graph Transformers,May 2023
+MGNN: Graph Neural Networks Inspired by Distance Geometry Problem,"30 January, 2022"
+Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization,"31 May, 2023"
+Text Is All You Need: Learning Language Representations for Sequential Recommendation,"23 May, 2023"
+MAP: A Model-agnostic Pretraining Framework for Click-Through Rate Prediction,August 2023
+Cognitive Evolutionary Search to Select Feature Interactions for Click-Through Rate Prediction,Not Found
+PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-Term User Engagement,"6 December, 2022"
+Efficient Bi-Level Optimization for Recommendation Denoising,"19 October, 2022"
+Adaptive Disentangled Transformer for Sequential Recommendation,Not Found
+Learning Strong Graph Neural Networks with Weak Information,May 2023
+Clenshaw Graph Neural Networks,"29 October, 2022"
+All in One: Multi-Task Prompting for Graph Neural Networks,March 2024
+Certified Edge Unlearning for Graph Neural Networks,Not Found
+Augmenting Recurrent Graph Neural Networks with a Cache,Not Found
+Narrow the Input Mismatch in Deep Graph Neural Network Distillation,Not Found
+Finding Favourite Tuples on Data Streams with Provably Few Comparisons,July 2023
+SketchPolymer: Estimate Per-Item Tail Quantile Using One Sketch,Not Found
+Hyper-USS: Answering Subset Query Over Multi-Attribute Data Stream,Not Found
+Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors – Algorithm and Application,May 2023
+MicroscopeSketch: Accurate Sliding Estimation Using Adaptive Zooming,Not Found
+Sketch-Based Anomaly Detection in Streaming Graphs,"8 June, 2021"
+Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge,Not Found
+Knowledge Graph Reasoning over Entities and Numerical Values,June 2023
+Exploiting Relation-Aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning,Not Found
+AdaProp: Learning Adaptive Propagation for Graph Neural Network based Knowledge Graph Reasoning,"30 May, 2022"
+Context-Aware Event Forecasting via Graph Disentanglement,August 2023
+Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers,"29 May, 2023"
+GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks,June 2023
+Generative Causal Interpretation Model for Spatio-Temporal Representation Learning,Not Found
+MM-DAG: Multi-task DAG Learning for Multi-Modal Data with Application for Traffic Congestion Analysis,June 2023
+Deception by Omission: Using Adversarial Missingness to Poison Causal Structure Learning,May 2023
+Discovering Dynamic Causal Space for DAG Structure Learning,"5 June, 2023"
+Node Classification Beyond Homophily: Towards a General Solution,Not Found
+Grace: Graph Self-Distillation and Completion to Mitigate Degree-Relatednesses,Not Found
+GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification,June 2023
+Classification of Edge-Dependent Labels of Nodes in Hypergraphs,June 2023
+Enhancing Graph Representations Learning with Decorrelated Propagation,Not Found
+HGCN: Tree-Likeness Modeling via Continuous and Discrete Curvature Learning,Not Found
+Path-Specific Counterfactual Fairness for Recommender Systems,June 2023
+"SURE: Robust, Explainable, and Fair Classification without Sensitive Attributes",Not Found
+Learning for Counterfactual Fairness from Observational Data,July 2023
+Online Fairness Auditing through Iterative Refinement,Not Found
+Towards Fair Disentangled Online Learning for Changing Environments,"31 May, 2023"
+Meta Graph Learning for Long-Tail Recommendation,Not Found
+Graph Neural Bandits,"20 September, 2024"
+E-commerce Search via Content Collaborative Graph Neural Network,Not Found
+Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation,"30 May, 2023"
+Knowledge Graph Self-Supervised Rationalization for Recommendation,July 2023
+On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering,June 2023
+Towards Understanding and Enhancing Robustness of Deep Learning Models against Malicious Unlearning Attacks,Not Found
+Incremental Causal Graph Learning for Online Root Cause Analysis,Not Found
+Cracking White-Box DNN Watermarks via Invariant Neuron Transforms,"30 April, 2022"
+Machine Unlearning in Gradient Boosting Decision Trees,November 2023
+3D-IDS: Doubly Disentangled Dynamic Intrusion Detection,"1 July, 2023"
+Transferable Graph Structure Learning for Graph-Based Traffic Forecasting Across Cities,Not Found
+TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting,"14 June, 2023"
+Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting,"28 November, 2022"
+FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework,Not Found
+When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting,"17 October, 2023"
+Warpformer: A Multi-Scale Modeling Approach for Irregular Clinical Time Series,June 2023
+CampER: An Effective Framework for Privacy-Aware Deep Entity Resolution,Not Found
+Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-Source Knowledge Graphs,June 2023
+Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation,"14 June, 2023"
+Few-Shot Low-Resource Knowledge Graph Completion with Multi-view Task Representation Generation,Not Found
+Multi-Grained Multimodal Interaction Network for Entity Linking,July 2023
+Prescriptive PCA: Dimensionality Reduction for Two-Stage Stochastic Optimization,June 2023
+Online Level-Wise Hierarchical Clustering,Not Found
+"Connecting the Dots: Density-Connectivity Distance unifies DBSCAN, k-Center and Spectral Clustering",Not Found
+Spatial Clustering Regression of Count Value Data via Bayesian Mixture of Finite Mixtures,"16 February, 2020"
+Hyperbolic Graph Topic Modeling Network with Continuously Updated Topic Tree,Not Found
+PROSE: Graph Structure Learning via Progressive Strategy,Not Found
+Contrastive Meta-Learning for Few-Shot Node Classification,June 2023
+"Less is More: SlimG for Accurate, Robust, and Interpretable Graph Mining","8 October, 2022"
+Virtual Node Tuning for Few-Shot Node Classification,June 2023
+Task-Equivariant Graph Few-Shot Learning,"30 May, 2023"
+FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity,Not Found
+DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization,Not Found
+FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy,"1 July, 2023"
+Personalized Federated Learning with Parameter Propagation,Not Found
+Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework,"1 January, 2023"
+HiMacMic: Hierarchical Multi-Agent Deep Reinforcement Learning with Dynamic Asynchronous Macro Strategy,Not Found
+GAT-MF: Graph Attention Mean Field for Very Large Scale Multi-Agent Reinforcement Learning,Not Found
+Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations,June 2023
+Internal Logical Induction for Pixel-Symbolic Reinforcement Learning,Not Found
+Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay,"19 July, 2023"
+Towards Variance Reduction for Reinforcement Learning of Industrial Decision-Making Tasks: A Bi-Critic based Demand-Constraint Decoupling Approach,Not Found
+Dual-view Molecular Pre-training,Not Found
+Shift-Robust Molecular Relational Learning with Causal Substructure,"29 May, 2023"
+Accelerating Antimicrobial Peptide Discovery with Latent Structure,"28 November, 2022"
+ExplainableFold: Understanding AlphaFold Prediction with Explainable AI,"27 January, 2023"
+Automated 3D Pre-Training for Molecular Property Prediction,"13 June, 2023"
+Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design,Not Found
+WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis,Not Found
+Source-Free Domain Adaptation with Temporal Imputation for Time Series Data,July 2023
+Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders,"29 May, 2023"
+Sparse Binary Transformers for Multivariate Time Series Modeling,August 2023
+Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models,Not Found
+An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series,Not Found
+Preemptive Detection of Fake Accounts on Social Networks via Multi-Class Preferential Attachment Classifiers,August 2023
+Rumor Detection with Diverse Counterfactual Evidence,July 2023
+Adversaries with Limited Information in the Friedkin-Johnsen Model,"17 June, 2023"
+Shilling Black-Box Review-Based Recommender Systems through Fake Review Generation,June 2023
+Maximizing Neutrality in News Ordering,"25 May, 2023"
+DECOR: Degree-Corrected Social Graph Refinement for Fake News Detection,July 2023
+Improving Conversational Recommendation Systems via Counterfactual Data Simulation,June 2023
+Improving Search Clarification with Structured Information Extracted from Search Results,Not Found
+LATTE: A Framework for Learning Item-Features to Make a Domain-Expert for Effective Conversational Recommendation,Not Found
+Delving into Global Dialogue Structures: Structure Planning Augmented Response Selection for Multi-Turn Conversations,Not Found
+Learning to Relate to Previous Turns in Conversational Search,June 2023
+User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback,Not Found
+Domain-Specific Risk Minimization for Domain Generalization,"18 August, 2022"
+Causal Inference via Style Transfer for Out-of-Distribution Generalisation,"6 December, 2022"
+FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs,Not Found
+Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization,"25 May, 2023"
+A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability,Not Found
+CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning,Not Found
+Federated Few-Shot Learning,July 2025
+FedDefender: Client-Side Attack-Tolerant Federated Learning,July 2023
+Serverless Federated AUPRC Optimization for Multi-Party Collaborative Imbalanced Data Mining,August 2023
+Theoretical Convergence Guaranteed Resource-Adaptive Federated Learning with Mixed Heterogeneity,Not Found
+ShapleyFL: Robust Federated Learning Based on Shapley Value,Not Found
+Hierarchical Invariant Learning for Domain Generalization Recommendation,Not Found
+UCEpic: Unifying Aspect Planning and Lexical Constraints for Generating Explanations in Recommendation,"28 September, 2022"
+Debiasing Recommendation by Learning Identifiable Latent Confounders,"10 February, 2023"
+Reconsidering Learning Objectives in Unbiased Recommendation: A Distribution Shift Perspective,Not Found
+Who Should Be Given Incentives? Counterfactual Optimal Treatment Regimes Learning for Recommendation,Not Found
+Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction,July 2023
+Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts,Not Found
+Financial Default Prediction via Motif-Preserving Graph Neural Network with Curriculum Learning,March 2024
+DoubleAdapt: A Meta-Learning Approach to Incremental Learning for Stock Trend Forecasting,"16 June, 2023"
+Towards Reliable Rare Category Analysis on Graphs via Individual Calibration,July 2023
+QTIAH-GNN: Quantity and Topology Imbalance-Aware Heterogeneous Graph Neural Network for Bankruptcy Prediction,Not Found
+Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning,June 2023
+Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling,Not Found
+End-to-End Inventory Prediction and Contract Allocation for Guaranteed Delivery Advertising,Not Found
+Contrastive Learning for User Sequence Representation in Personalized Product Search,Not Found
+Empowering General-purpose User Representation with Full-life Cycle Behavior Modeling,"20 October, 2021"
+Task Relation-aware Continual User Representation Learning,"1 June, 2023"
+Learning-Based Ad Auction Design with Externalities: The Framework and a Matching-Based Approach,Not Found
+Locality Sensitive Hashing for Optimizing Subgraph Query Processing in Parallel Computing Systems,Not Found
+Efficient Single-Source SimRank Query by Path Aggregation,Not Found
+DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication,May 2023
+OPORP: One Permutation + One Random Projection,"7 February, 2023"
+Efficient Distributed Approximate k-Nearest Neighbor Graph Construction by Multiway Random Division Forest,Not Found
+Learning Balanced Tree Indexes for Large-Scale Vector Retrieval,Not Found
+Accelerating Dynamic Network Embedding with Billions of Parameter Updates to Milliseconds,June 2023
+Fairness-Aware Continuous Predictions of Multiple Analytics Targets in Dynamic Networks,Not Found
+DyTed: Disentangled Representation Learning for Discrete-Time Dynamic Graph,"19 October, 2022"
+Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks,"20 May, 2022"
+Counterfactual Learning on Heterogeneous Graphs with Greedy Perturbation,Not Found
+WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window,Not Found
+EXTRACT and REFINE: Finding a Support Subgraph Set for Graph Representation,Not Found
+Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation,Not Found
+Below the Surface: Summarizing Event Sequences with Generalized Sequential Patterns,Not Found
+Using Motif Transitions for Temporal Graph Generation,June 2023
+MimoSketch: A Framework to Mine Item Frequency on Multiple Nodes with Sketches,Not Found
+Generalized Matrix Local Low Rank Representation by Random Projection and Submatrix Propagation,Not Found
+3D-Polishing for Triangular Mesh Compression of Point Cloud Data,Not Found
+Domain-Guided Spatio-Temporal Self-Attention for Egocentric 3D Pose Estimation,Not Found
+Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks,June 2023
+"One-shot Joint Extraction, Registration and Segmentation of Neuroimaging Data",July 2023
+MBrain: A Multi-Channel Self-Supervised Learning Framework for Brain Signals,June 2023
+PAT: Geometry-Aware Hard-Label Black-Box Adversarial Attacks on Text,Not Found
+Enhancing Node-Level Adversarial Defenses by Lipschitz Regularization of Graph Neural Networks,Not Found
+Robustness Certification for Structured Prediction with General Inputs via Safe Region Modeling in the Semimetric Output Space,Not Found
+Temporal Dynamics-Aware Adversarial Attacks on Discrete-Time Dynamic Graph Models,Not Found
+Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware,Not Found
+A Unified Framework of Graph Information Bottleneck for Robustness and Membership Privacy,June 2023
+Granger Causal Chain Discovery for Sepsis-Associated Derangements via Continuous-Time Hawkes Processes,"9 September, 2022"
+TWIN: Personalized Clinical Trial Digital Twin Generation,Not Found
+R-Mixup: Riemannian Mixup for Biological Networks,June 2023
+Web-Based Long-Term Spine Treatment Outcome Forecasting,Not Found
+MedLink: De-Identified Patient Health Record Linkage,Not Found
+FedPseudo: Privacy-Preserving Pseudo Value-Based Deep Learning Models for Federated Survival Analysis,Not Found
+Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training,June 2023
+Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction,Not Found
+TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer,Not Found
+Optimizing Traffic Control with Model-Based Learning: A Pessimistic Approach to Data-Efficient Policy Inference,Not Found
+Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning,Not Found
+Spatial Heterophily Aware Graph Neural Networks,June 2023
+MAPLE: Semi-Supervised Learning with Multi-Alignment and Pseudo-Learning,Not Found
+Leveraging Relational Graph Neural Network for Transductive Model Ensemble,Not Found
+Automatic Temporal Relation in Multi-Task Learning,Not Found
+When to Pre-Train Graph Neural Networks? From Data Generation Perspective!,Not Found
+Boosting Multitask Learning on Graphs through Higher-Order Task Affinities,"24 June, 2023"
+Graph Neural Processes for Spatio-Temporal Extrapolation,May 2023
+Reconstructing Graph Diffusion History from a Single Snapshot,"1 June, 2023"
+Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations,"2 June, 2021"
+Learning to Schedule in Diffusion Probabilistic Models,Not Found
+Generalizing Graph ODE for Learning Complex System Dynamics across Environments,July 2023
+Deep Bayesian Active Learning for Accelerating Stochastic Simulation,"4 June, 2021"
+Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations,"27 September, 2022"
+Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting,Not Found
+Unbiased Locally Private Estimator for Polynomials of Laplacian Variables,Not Found
+Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation,Not Found
+FedSkill: Privacy Preserved Interpretable Skill Learning via Imitation,Not Found
+B2-Sampling: Fusing Balanced and Biased Sampling for Graph Contrastive Learning,Not Found
+Similarity Preserving Adversarial Graph Contrastive Learning,June 2023
+HomoGCL: Rethinking Homophily in Graph Contrastive Learning,June 2023
+Contrastive Cross-scale Graph Knowledge Synergy,Not Found
+Graph Contrastive Learning with Generative Adversarial Network,August 2023
+"BatchSampler: Sampling Mini-Batches for Contrastive Learning in Vision, Language, and Graphs",June 2023
+How does the Memorization of Neural Networks Impact Adversarial Robust Models?,Not Found
+Enhance Diffusion to Improve Robust Generalization,"5 June, 2023"
+Generative Perturbation Analysis for Probabilistic Black-Box Anomaly Attribution,August 2023
+Doubly Robust AUC Optimization against Noisy and Adversarial Samples,Not Found
+Robust Positive-Unlabeled Learning via Noise Negative Sample Self-Correction,August 2023
+Self-Adaptive Perturbation Radii for Adversarial Training,Not Found
+Learning Behavior-Oriented Knowledge Tracing,Not Found
+IDToolkit: A Toolkit for Benchmarking and Developing Inverse Design Algorithms in Nanophotonics,"30 May, 2023"
+GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing,October 2023
+Semi-Supervised Graph Imbalanced Regression,May 2023
+Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers,June 2023
+Meta Multi-Agent Exercise Recommendation: A Game Application Perspective,Not Found
+LightPath: Lightweight and Scalable Path Representation Learning,July 2023
+Urban Region Representation Learning with OpenStreetMap Building Footprints,Not Found
+Multi-Temporal Relationship Inference in Urban Areas,June 2023
+A Study of Situational Reasoning for Traffic Understanding,"4 June, 2023"
+Frigate: Frugal Spatio-temporal Forecasting on Road Networks,June 2023

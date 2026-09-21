@@ -1,0 +1,4 @@
+Tier definition,Outcome,Odds ratio,95% CI,p-value,N,Notes
+Top-10 vs Bottom-10,Pre-submission preprint visibility,1.54,"[0.54, 4.43]",4.2e-1,1931,"n_top=1897, n_bottom=34"
+Top-20 vs Bottom-20,Pre-submission preprint visibility,1.80,"[0.63, 5.13]",2.7e-1,3307,"n_top=3273, n_bottom=34"
+Top-50 vs Non-top-50,Pre-submission preprint visibility,0.94,"[0.86, 1.04]",2.5e-1,9862,"n_top=5553, n_non_top=4309"

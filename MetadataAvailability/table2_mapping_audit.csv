@@ -1,0 +1,6 @@
+Field audited,Sample size,Correct,Incorrect,Uncertain,Accuracy
+First-author affiliation,1278,953,205,120,74.6%
+Last-author affiliation,1278,939,217,122,73.5%
+Country mapping,2134,1755,137,242,82.2%
+CSRankings match,22,11,10,1,50.0%
+Institutional tier,22,11,10,1,50.0%

@@ -1,0 +1,274 @@
+{
+  "n_csvs": 64,
+  "n_papers": 1278,
+  "papers_per_csv": 20,
+  "table": {
+    "First-author affiliation": {
+      "sample_size": 1278,
+      "correct": 953,
+      "incorrect": 205,
+      "uncertain": 120,
+      "accuracy": 0.7456964006259781
+    },
+    "Last-author affiliation": {
+      "sample_size": 1278,
+      "correct": 939,
+      "incorrect": 217,
+      "uncertain": 122,
+      "accuracy": 0.7347417840375586
+    },
+    "Country mapping": {
+      "sample_size": 2134,
+      "correct": 1755,
+      "incorrect": 137,
+      "uncertain": 242,
+      "accuracy": 0.8223992502343018
+    },
+    "CSRankings match": {
+      "sample_size": 22,
+      "correct": 11,
+      "incorrect": 10,
+      "uncertain": 1,
+      "accuracy": 0.5
+    },
+    "Institutional tier": {
+      "sample_size": 22,
+      "correct": 11,
+      "incorrect": 10,
+      "uncertain": 1,
+      "accuracy": 0.5
+    }
+  },
+  "iit_examples": [
+    {
+      "source": "OldOutputs\\AAAI\\AAAI2025.csv",
+      "role": "first",
+      "affiliation": "Indian Institute of Technology Palakkad",
+      "assigned_rank": "",
+      "recoverable_rank": "",
+      "cs_status": "uncertain",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "OldOutputs\\CVPR\\CVPR2024.csv",
+      "role": "first",
+      "affiliation": "IIT Jodhpur",
+      "assigned_rank": "261",
+      "recoverable_rank": "261",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "OldOutputs\\CVPR\\CVPR2024.csv",
+      "role": "last",
+      "affiliation": "IIT Jodhpur",
+      "assigned_rank": "261",
+      "recoverable_rank": "261",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "OldOutputs\\ICLR\\ICLR 2024\\accepted(poster).csv",
+      "role": "first",
+      "affiliation": "Yardi School of Artificial Intelligence,Indian Institute of Technology, Delhi(iitd.ac.in)",
+      "assigned_rank": "",
+      "recoverable_rank": "142",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "OldOutputs\\ICLR\\ICLR 2024\\accepted(poster).csv",
+      "role": "last",
+      "affiliation": "Computer Science & Engineering,Indian Institute of Technology Delhi(iitd.ac.in)",
+      "assigned_rank": "",
+      "recoverable_rank": "142",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\acl_2023_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "Department of Computer Science and Engineering, IIT Bombay, India",
+      "assigned_rank": "146",
+      "recoverable_rank": "146",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\acl_2023_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Department of Computer Science and Engineering, IIT Bombay, India",
+      "assigned_rank": "146",
+      "recoverable_rank": "146",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\acl_2023_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "CFILT, Indian Institute of Technology Bombay, Mumbai, India.",
+      "assigned_rank": "",
+      "recoverable_rank": "146",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\acl_2025_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Indian Institute of Technology Kanpur",
+      "assigned_rank": "",
+      "recoverable_rank": "296",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\acl_2025_industry_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "IIT Bombay",
+      "assigned_rank": "165",
+      "recoverable_rank": "165",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\acl_2025_industry_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "IIT Bombay",
+      "assigned_rank": "165",
+      "recoverable_rank": "165",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\coling_2025_main_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "Indian Institute of Technology Delhi, India",
+      "assigned_rank": "",
+      "recoverable_rank": "165",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\coling_2025_main_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Indian Institute of Technology Delhi, India",
+      "assigned_rank": "",
+      "recoverable_rank": "165",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2023_industry_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "Department of Computer Science and Engineering, IIT Bombay, India",
+      "assigned_rank": "146",
+      "recoverable_rank": "146",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2023_industry_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Department of Computer Science and Engineering, IIT Bombay, India",
+      "assigned_rank": "146",
+      "recoverable_rank": "146",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2024_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "Computer Science and Engineering Department, IIT Kharagpur, India",
+      "assigned_rank": "160",
+      "recoverable_rank": "160",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2024_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Computer Science and Engineering Department, IIT Kharagpur, India",
+      "assigned_rank": "160",
+      "recoverable_rank": "160",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2024_industry_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "Indian Institute of Technology Kharagpur, India",
+      "assigned_rank": "",
+      "recoverable_rank": "160",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2024_industry_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Indian Institute of Technology Kharagpur, India",
+      "assigned_rank": "",
+      "recoverable_rank": "160",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2024_main_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "IIT Bombay, India",
+      "assigned_rank": "152",
+      "recoverable_rank": "152",
+      "cs_status": "correct",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2025_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "first",
+      "affiliation": "Indian Institute of Technology Delhi",
+      "assigned_rank": "",
+      "recoverable_rank": "165",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    },
+    {
+      "source": "Outputs\\emnlp_2025_findings_author_output_country_mapped_ranked_preprint.csv",
+      "role": "last",
+      "affiliation": "Indian Institute of Technology Delhi",
+      "assigned_rank": "",
+      "recoverable_rank": "165",
+      "cs_status": "incorrect",
+      "assigned_tier": "not_listed",
+      "true_tier": "not_listed"
+    }
+  ],
+  "iit_status_counts": {
+    "uncertain": 1,
+    "correct": 11,
+    "incorrect": 10
+  },
+  "notes": {
+    "country": "Industry orgs (Google, Meta, Amazon, Microsoft, etc.) without a country in the affiliation string are marked uncertain; they are excluded from institution_tier regressions because they are not listed in CSRankings.",
+    "csrankings": "Sample is IIT / Indian Institute of Technology first- or last-author affiliations in the top-20-per-CSV audit set. Incorrect = expanded name that should match a CSRankings campus but did not. Uncertain = no campus specified.",
+    "tier": "CSRankings errors carry forward: unmatched IIT campuses become not_listed instead of their year-specific AI/DS rank band. Rankings are year-specific (2023/2024/2025) from the CSRankings UI, Artificial Intelligence / Data Science domain."
+  }
+}

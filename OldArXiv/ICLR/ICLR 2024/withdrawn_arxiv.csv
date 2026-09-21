@@ -1,0 +1,1659 @@
+Title,Submission Date
+FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search,April 2024
+Temporal Parallelization for GPU Acceleration of Spiking Neural Networks,Not Found
+FSN: Feature Shift Network for Load-Domain Domain Generalization,Not Found
+Object-Relational Graph Framework for Zero-Shot 3D Scene Segmentation,Not Found
+AdaptIP: Transferring Cross-modal Information to Temporal Modeling for Video-Language Representation Learning,Not Found
+Real-time computer vision on low-end boards via clustering motion vectors,Not Found
+AdaLomo: Low-memory Optimization with Adaptive Learning Rate,"16 October, 2023"
+Towards Relaxing the Unbiasedness Condition of Doubly Robust Estimators for Debiased Recommendation,Not Found
+Trust-Region Method Based on Probabilistic Models for Multi-Objective Optimization,Not Found
+Significance of Fairly Distributed Instances and Optimal Ratio for Validation Set in Machine Learning,Not Found
+Object-Centric Noise Filtering in Neural Radiance Fields via Influence Functions and Segmentation,Not Found
+Why are hyperbolic neural networks effective? A study on hierarchical representation capability,Not Found
+InstaTAP: Instance Motion Estimation for Tracking Any Point,Not Found
+Trolley Problems for Large Language Models Across 100+ Languages,Not Found
+Physics-informed neural networks for transformed geometries and manifolds,"27 November, 2023"
+Causal Impact Index: A Causal Formulation of Citations,Not Found
+Node-CwR: Node Classification with Reject Option,Not Found
+Segment Anything Meets Universal Adversarial Perturbation,"18 October, 2023"
+Episode Transformer: Model-based Episodic Reinforcement Learning,Not Found
+Bi-GCL: Efficient Search on Networks,Not Found
+Tracking Cognitive Development of Large Language Models,"17 August, 2024"
+Black-box Targeted Adversarial Attack on Segment Anything (SAM),"15 October, 2023"
+Do not Start with Trembling Hands: Improving Multi-agent Reinforcement Learning with Stable Prefix Policy,Not Found
+Decoding LLM's: The Interplay of Transformation Matrices and Input Complexity,Not Found
+Vision Transformer with Irregular Attention,Not Found
+UBERT: Unsupervised adaptive early exits in BERT,Not Found
+PEACH: Pretrained-embedding Explanation Across Contextual and Hierarchical Structure,April 2024
+MetaFormer with Holistic Attention Modelling Improves Few-Shot Classification,Not Found
+Stealing the Invisible: Unveiling Pre-Trained CNN Models through Adversarial Examples and Timing Side-Channels,February 2024
+A Weakly Supervised and Globally Explainable Learning Framework for Brain Tumor Segmentation,August 2024
+Multi-modal Domain Adapter Through Hyperbolic and Topic Space,Not Found
+AN ENTROPY PERSPECTIVE IN KNOWLEDGE DISTILLATION,Not Found
+OPTIMIZING STABILIZATION IN SINGULARLY PER- TURBED PROBLEMS WITH SUPG SCHEME,Not Found
+Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning,Not Found
+Universal Algorithm for Extreme Bandits with the Minimal Complexities,Not Found
+Harnessing Text to Image Diffusion for Dense Prediction Tasks,Not Found
+Prototypes-Injected Prompt for Federated Class Incremental Learning,July 2024
+BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving,Not Found
+Brain-inspired Geometry Constrain on Represention for Compositional Generalization,Not Found
+Mask Frozen-DETR: High Quality Instance Segmentation with One GPU,August 2023
+Adapting ConvNets for New Cameras without Retraining,Not Found
+IKL: Boosting Long-Tail Recognition with Implicit Knowledge Learning,Not Found
+Language-Independent Embeddings for Entity Recognition via LLM Data-Level Knowledge Distillation,Not Found
+CodeComplex: A Time-complexity Dataset for Multi-language Source Codes,Not Found
+Emergent representations in networks trained with the Forward-Forward algorithm,"26 May, 2023"
+Screening Unlearnable Examples via Iterative Self Regression,Not Found
+Retrieving Texts by Abstract Descriptions,Not Found
+Sensitivity-Aware Differentially Private Decentralized Learning with Adaptive Noise,Not Found
+LMExplainer: A Knowledge-Enhanced Explainer for Language Models,Not Found
+Optimal spherical codes for locality-sensitive hashing,Not Found
+ProtChatGPT: Towards Understanding Proteins with Large Language Models,"14 February, 2024"
+Efficient architectural aspects for text-to-video generation pipeline,"21 November, 2023"
+Subject-specific Deep Neural Networks for Count Data with High-cardinality Categorical Features,October 2023
+ProteinAdapter: Adapting Pre-trained Large Protein Models for Efficient Protein Representation Learning,Not Found
+Let's reward step by step: Step-Level reward model as the Navigators for  Reasoning,October 2023
+Slot Structured World Models,February 2024
+Contrastive Implicit Representation Learning,October 2025
+SupMem: Support Memorization for Semiparametric Language Models,Not Found
+DAS$^2$C: A Distributed Adaptive Minimax Method with Near-Optimal Convergence,Not Found
+Disentangling Covariates to Predict Counterfactuals for single-cell data,Not Found
+SR-OOD: Out-of-Distribution Detection via Sample Repairing,"26 May, 2023"
+Can General-Purpose Language Models Emulate a General-Purpose Computer In-Context?,Not Found
+VRAda: A Variance Reduced Adaptive Algorithm for Stochastic Parameter-Agnostic Minimax Optimizations,Not Found
+Do LLMs understand Pragmatics? An Extensive Benchmark for Evaluating Pragmatic Understanding of LLMs,Not Found
+Efficient Denoising Diffusion via Probabilistic Masking,Not Found
+Two subspace clustering methods with prior masks,Not Found
+Latent Lie Group Representations,Not Found
+A Convergent Federated Clustering  Algorithm without Initial Condition,Not Found
+Where is the Invisible: Spatial-Temporal Reasoning with Object Permanence,Not Found
+Data-Efficient Group Robustness via Out of Distribution Concepts,Not Found
+2D-Supervised Monocular 3D Object Detection by Global-to-Local Reconstruction,Not Found
+Enhancing Large Language Reasoning through Multi-Modal Reasoning,Not Found
+Feature Selection in the Presence of Monotone Batch Effects,Not Found
+Supervision for Free: Enhancing Depth Estimation for Ground Robots Based on Supervision from Mono Camera Model Parameters,Not Found
+Implicit Neural Representation Image Codec with Mixed Context for Fast Decoding,Not Found
+Leveraging Cross-Modal Neighbor Representation for Improved CLIP Classification,April 2024
+Poisoning-based Backdoor Attack against Vision-Language Model,Not Found
+Principal Component Analysis for Cross-Sectionally Correlated Pricing Errors,Not Found
+How does Architecture Influence the Base Capabilities of Pre-trained Language Models? A Case Study Based on Wider Transformer Models,Not Found
+Bounding the Robustness and Generalization for Individual Treatment Effect,Not Found
+TPA-Gen: A Multi-modal Data Generative Method for Text and Physics-based Animation,Not Found
+Combine and Compare: Graph Rationale Learning with Conditional Non-Rationale Sampling,Not Found
+Who’s Harry Potter? Approximate Unlearning for LLMs,Not Found
+LR-XFL: Logical Reasoning-based Explainable Federated Learning,"24 August, 2023"
+Generalization Error Analysis of Deep Physical Models With Latent Variables Trained on Trajectory Data,Not Found
+Investigating the Fairness of Large Language Models for Predictions on Tabular Data,Not Found
+ScoreFlow: Bridging Score and Neural ODE for Reversible Generative Modeling,Not Found
+Moral High Ground: A text-based games benchmark for moral evaluation,Not Found
+STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models,June 2024
+Explanation-aware Soft Ensemble Empowers Large Language Model In-context Learning,November 2023
+Faster Maximum Inner Product Search in High Dimensions,"14 December, 2022"
+Value-Evolutionary-Based Reinforcement Learning,Not Found
+OpenReviewer: Mitigating Challenges in LLM Reviewing,Not Found
+AdaO2B: Adaptive Online to Batch Conversion for Out-of-Distribution Generalization,Not Found
+Group Robustness via Adaptive Class-Specific Scaling,December 2024
+CT++: Complementary Co-Training for Semi-Supervised Semantic Segmentation,Not Found
+Causal Feature Attribution: Towards a Trustworthy and Actionable Explanations of Deep Neural Network,Not Found
+EMP-SSL: Towards Self-Supervised Learning in One Training Epoch,April 2023
+OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning,March 2024
+Data Refinement: Mitigating Reward Over-Optimization in Reinforcement Learning with Human Feedback,Not Found
+Referring Expression Matters: Multi-referring Feature Aggregation for Referring Video Object Segmentation,Not Found
+Weight Uncertainty in Individual Treatment Effect,Not Found
+Adaptive Memory Module for Sequential Planning and Reasoning,Not Found
+A Data-Centric Approach for Financial Large Language Models with Abductive Augmentation Reasoning,Not Found
+Submodular Minimax Optimization: Finding Effective Sets,May 2023
+A graph transformer for symbolic regression,Not Found
+Flexible Diffusion for Graph Neural Networks,Not Found
+Beyond Policy Transfer: Self-Supervised Reward Adaptation in New Environments,Not Found
+Emergent Corpus Pretraining Benefits Vision Language Modeling,Not Found
+Learning to Play Atari in a World of Tokens,June 2024
+LLMSelect: Knowledge-based Feature Selection with Large Language Models,Not Found
+"AceGPT, Localizing Large Language Models in Arabic","21 September, 2023"
+Imitation Bootstrapped Reinforcement Learning,"7 August, 2024"
+Uncovering Causal Variables in Transformers Using Circuit Probing,Not Found
+Ensemble Systems Representation for Function Learning over Manifolds,Not Found
+In-context Curriculum for Mathematical Reasoning in Small Language Models,Not Found
+Adaptive Pairwise Encodings for Link Prediction,Not Found
+X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning,"30 November, 2023"
+Can LLMs Effectively Leverage Graph Structural Information: When and Why,Not Found
+Optimal algorithms for group distributionally robust optimization and beyond,"6 March, 2024"
+Is the Glass Half-Empty or Half-Full? A Mixture-Of-Tasks Perspective on Missing Modality,Not Found
+Unveiling the Potential of Probabilistic Embeddings in Self-Supervised Learning,October 2023
+Lung Nodule Segmentation Network with Self-Supervised Learning and Attention Mechanisms,Not Found
+Unleashing the Potential of LLMs for Quantum Computing: A Study in Quantum Architecture Design,July 2023
+ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation,Not Found
+Llamas Know What GPTs Don't Show: Surrogate Models for Selective Classification,Not Found
+Framework Adapts PLMs towards Target Domain via Correcting Knowledge Bias,Not Found
+Towards Understanding The Winner-Take-Most Behavior Of Neural Network Representations,Not Found
+Semi-Supervised Learning of Tree-Based Models Using Uncertain Interpretation of Data,Not Found
+Parameter-Efficient Tuning Helps Language Model Alignment,October 2023
+MIMIC: Masked Image Modeling with Image Correspondences,"26 June, 2023"
+Understanding Contrastive Learning Through the Lens of Margins,"20 June, 2023"
+Depth From Camera Model,May 2024
+SafeDiffuser: Safe Planning with Diffusion Probabilistic Models,June 2023
+Logic-Based Adaptive Reward Shaping for Reinforcement Learning,Not Found
+Revisitng graph neural networks for traffic forecasting,Not Found
+Ghostbuster: Detecting Text Ghostwritten by Large Language Models,"24 May, 2023"
+Contrastive Post-training Large Language Models on Data Curriculum,Not Found
+Learning to Reach Goals via Diffusion,"3 October, 2023"
+CrysFormer: Protein Structure Prediction via 3d Patterson Maps and Partial Structure Attention,October 2023
+Latent Space Simulator for Unveiling Molecular Free Energy Landscapes and Predicting Transition Dynamics,Not Found
+An empirical investigation of generalization dynamics in deep ReLU networks via nonlinear mode decomposition,Not Found
+Learning Diverse Quadruped Locomotion Gaits via Reward Machines,Not Found
+Absolute Policy Optimization,September 2025
+VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning,"26 September, 2023"
+Out-of-domain Fact Checking,"30 November, 2021"
+A Theoretical Study of the Jacobian Matrix in Deep Neural Networks,Not Found
+Why Do We Need Weight Decay in Modern Deep Learning?,Not Found
+"Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard",Not Found
+Delayed Generalization: Bridging Double Descent and Grokking,Not Found
+On the benefits of pixel-based hierarchical policies for task generalization,July 2024
+GUARD: A Safe Reinforcement Learning Benchmark,"23 May, 2023"
+Multisensory Geospatial Models via Cross-Sensor Pretraining,Not Found
+GEO: Generative Engine Optimization,"16 November, 2023"
+Clarify When Necessary: Resolving Ambiguity with Language Models,Not Found
+From gradient attacks to data poisoning,Not Found
+State-wise Constrained Policy Optimization,October 2024
+Amortized Bayesian Inference with Hybrid Expert-in-the-Loop and Learnable Summary Statistics,Not Found
+Test,October 2025
+Robustness to Multi-Modal Environment Uncertainty in MARL using Curriculum Learning,October 2023
+Causal Representation Learning in Temporal Data via Single-Parent Decoding,October 2024
+Relational Constraints On Neural Networks Reproduce Human Biases towards Abstract Geometric Regularity,September 2023
+Efficient Value Propagation with the Compositional Optimality Equation,Not Found
+RPNet: Robust Non-Interactive Private Inference against Malicious Clients with Adversarial Attacks,Not Found
+A Systematic Comparison of Syllogistic Reasoning in Humans and Language Models,"1 November, 2023"
+Learning Structured Sparse Neural Networks Using Group Envelope Regularization,"25 December, 2022"
+MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers,"19 December, 2023"
+Stochastic Zeroth-Order Optimization under Strongly Convexity and Lipschitz Hessian: Minimax Sample Complexity,June 2024
+Regret Rates for $\epsilon$-Greedy Strategies for Nonparametric Bandits with Delayed Rewards,Not Found
+Large Language Models Can Design Game-Theoretic Objectives for Multi-Agent Planning,Not Found
+GOODFIT: A Deep Learning Optimizer Fine Tuned for Fine Tuning,Not Found
+Consensus Optimization at Representation: Improving Personalized Federated Learning via Data-Centric Regularization,Not Found
+A Theoretical and Empirical Analysis on Reconstruction Attacks and Defenses,Not Found
+Machine learning pipelines synthesis with large language models,Not Found
+Travelling Salesman Problem Goes Sparse With Graph Neural Networks,Not Found
+Imitation Learning Using Generalized Sliced Wasserstein Distances,Not Found
+URDFormer: Constructing interactive Realistic Scenes from Real Images via Simulation and Generative Modeling,Not Found
+UnifiedGT: Exploring the Effective Ingredients of Transformers in Large Graphs,Not Found
+Robustness Evaluation Using Local Substitute Networks,Not Found
+Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain,November 2023
+SAFHE: Defending Against Backdoor and Gradient Inversion Attacks in Federated Learning,Not Found
+SurroCBM: Concept Bottleneck Surrogate Models for Joint Unsupervised Concept Discovery and Post-hoc Explanation,Not Found
+In-Context Learning for Few-Shot Molecular Property Prediction,October 2023
+Algorithm Design for Learned Algorithms,October 2025
+A Mechanism for Solving Relational Tasks in Transformer Language Models,Not Found
+Controllable Data Generation via Iterative Data-Property Mutual Mappings,October 2023
+"Generation, Reconstruction, Representation All-in-One: A Joint Autoencoding Diffusion Model",Not Found
+Recurrent Neural Cellular Automata with Self-Attention for Multi-agent System,Not Found
+Mitigating Accumulated Distribution Divergence in Batch Normalization for Unsupervised Domain Adaptation,Not Found
+Composite Backdoor Attacks Against Large Language Models,"11 October, 2023"
+Enhanced Adversarial Domain Generation via Optimized Batch Normalization and Classifier,Not Found
+Identifying Drivers of Predictive Uncertainty using Variance Feature Attribution,Not Found
+PhaseFusion: A Diffusion-based Periodic Parameterized Motion Generation Framework,Not Found
+Identifying Spurious Biases Early in Training through the Lens of Simplicity Bias,"30 May, 2023"
+Probing Innocuous Overfitting within Robust Linear Analytical Classifications,Not Found
+Learning Dynamics on Manifolds with Neural Ordinary Differential Equations,Not Found
+Detecting Deepfakes Without Seeing Any,November 2023
+OBSERVATIONAL DATA ONLY: Inferring Protein Signaling Pathways with Local Information- Rewarded Generative Flow Networks,Not Found
+On the memorisation of image classifiers,October 2023
+A Two-Branch Neural Network Architecture for Model Protection within Trusted Execution Environments,Not Found
+A Novel Autoencoder Based Approach for Counterfactual Estimation Using Sparsity Constraints,Not Found
+CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment,October 2023
+Exploring the Edge of Stability: Insights from a Fine-Grained Analysis of Gradient Descent in Shallow ReLU Networks,Not Found
+"Explaining Contrastive Models using Exemplars: Explanation, Confidence, and Knowledge Limits",Not Found
+Proximal Preference Optimization for Diffusion Models,Not Found
+FStega: Fourier Neural Operators for printer-proof steganography,Not Found
+Bring Your Own Data!  Self-Supervised Evaluation for Large Language Models,"23 June, 2023"
+Optimization for Neural Operator Learning: Wider Networks are Better,Not Found
+A Simple and Efficient Baseline for Data Attribution on Images,November 2023
+PLPP: PROMPT LEARNING WITH PERPLEXITY FOR VISION-LANGUAGE MODELS,December 2024
+High-Order Tensor Recovery with A Tensor $U_1$ Norm,Not Found
+Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers,October 2023
+On Memorization and Privacy Risks of Sharpness Aware Minimization,Not Found
+ADJUSTING THE INDUCTIVE BIAS OF DIFFUSION MODELS,Not Found
+Multimodal Procedural Planning via Dual Text-Image Prompting,May 2023
+SPFormer: Enhancing Vision Transformer with Superpixel Representation,January 2024
+Head Information Bottleneck: An Evaluation Method for Transformer Head Contributions in Speech Task,Not Found
+Two-Stage Diffusion Models: Better Image Synthesis by Explicitly Modeling Semantics,Not Found
+Robust Policy Optimization with Evolutionary Techniques,Not Found
+Temporal graph models fail to capture global temporal dynamics,"27 September, 2023"
+Controllable Pareto Trade-off between Fairness and Accuracy,September 2025
+Spectral Highways: Injecting Homophily into Heterophilic Graphs,Not Found
+QualEval: Qualitative Evaluation for Model Improvement,"5 November, 2023"
+AgentMixer: Multi-Agent Correlated Policy Factorization,"16 January, 2024"
+Enhancement-Driven Pretraining for Robust Fingerprint Representation Learning,February 2024
+Bridging Debiasing Tasks with Sufficient Projection: A General Theoretical Framework for Vector Representations,Not Found
+Inverse Decision Making via Inverse Generative Modeling,Not Found
+Can We Generate Realistic Hands Using Only Convolution?,Not Found
+Fairness-aware Message Passing for Graph Neural Networks,June 2023
+SARI: SIMPLISTIC AVERAGE AND ROBUST IDENTIFICATION BASED NOISY PARTIAL LABEL LEARNING,Not Found
+From Local Explainability to Global Robustness: Improving the Robustness of Machine Learning Models Using Counterfactual Explanations,Not Found
+Backdoor Attack for Federated Learning with Fake Clients,Not Found
+Two-sided Competing Matching Markets With Complementary Preferences,"24 January, 2023"
+Tab2Gan: Utilizing image conversion and Gan inversion for tabular model robustness,Not Found
+Do different self-supervised learning tasks for medical imaging result in better downstreaming performance?,Not Found
+FedDRO: Federated Compositional Optimization for Distributionally Robust Learning,November 2023
+Robust Reinforcement Learning for Portfolio Management via Competition and Cooperation Strategies,Not Found
+Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers,May 2024
+On the Geometry of Reinforcement Learning in Continuous State and Action Spaces,July 2025
+Predicting the Encoding Error of Implicit Neural Representations,Not Found
+Reason to Behave: Achieving Human-Like Task Execution for Physics-Based Characters,Not Found
+Reducing the Need for Backpropagation and Discovering Better Optima With Explicit Optimizations of Neural Networks,November 2023
+IMPROVING ADVERSARIAL TRAINING WITH MARGIN- WEIGHTED PERTURBATION BUDGET,Not Found
+The common Stability Mechanism behind most Self-Supervised Learning Approaches,February 2024
+Orthogonal Sequential Fusion in Multimodal Learning,Not Found
+"EXPLEME: A Study in Meme Interpretability, Diving Beyond Input Attribution",Not Found
+A Generative Model for Game Theory with Flow Equilibrium,Not Found
+Discouraging Posterior Collapse in Hierarchical Variational Autoencoders Using Context,"20 February, 2023"
+Differentiable Tree Search in Latent State Space,Not Found
+Prompt-aware Adapter: Towards Learning Effective Visual Tokens for GPT4-Style Multimodal Models,Not Found
+CAMMARL: Conformal Action Modeling in Multi Agent Reinforcement Learning,"19 June, 2023"
+High Dimensional Causal Inference with Variational Backdoor Adjustment,October 2023
+Exploring the Limitations of Graph-based Logical Reasoning in Large Language Models,Not Found
+RetroTune: Mitigating spurious features via retrospective fine-tuning,Not Found
+Fake News Detection via an Adaptive Feature Matching Optimization Framework,Not Found
+Conditional Guided Diffusion Probabilistic Models for Image Super-Resolution,Not Found
+Playing repeated games with Large Language Models,"26 May, 2023"
+To guide or not to guide: Improving diffusion sampling with progressive guidance,Not Found
+MeRino: Entropy-driven Design for Mobile-friendly Generative Language Models,Not Found
+"Follow-the-Perturbed-Leader for Adversarial Bandits: Heavy Tails, Robustness, and Privacy",Not Found
+CL-Calib: Enhancing Post-training Quantization Calibration through Contrastive Learning,Not Found
+Learning with Language Inference and Tips for Continual Reinforcement Learning,Not Found
+Pruning via Ranking (PvR): A unified structured pruning approach,Not Found
+CUS3D: A New Comprehensive Urban-Scale Semantic Segmentation 3D Benchmark Dataset,Not Found
+GIFF: Generalized Inference Friendly Forward-Forward Algorithm,Not Found
+MoMA: Model-based Mirror Ascent for Offline Reinforcement Learning,January 2024
+Progressive Pseudo Bag Augmentation with Instance Importance Estimation for Whole Slide Image Classification,Not Found
+Rigid Motion Compensated Compressed Sensing MRI with Untrained Neural Networks,Not Found
+Extrapolating Large Language Models to Non-English by Aligning Languages,"9 August, 2023"
+From Fourier to Neural ODEs: Flow matching for modeling complex systems,"19 May, 2024"
+Bayesian Exploration Networks,"30 January, 2025"
+TinyStories: How Small Can Language Models Be and Still Speak Coherent English,"12 May, 2023"
+Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors,"29 September, 2023"
+Causal-based Analysis on Credibility of Feedforward Neural Network,Not Found
+MPformer: Advancing Graph Modeling Through Heterophily Relationship-Based Position Encoding,Not Found
+WaveFluid: A New Adversarial Approach for Efficient High-Fidelity Speech Synthesis,Not Found
+Bit Cipher — A Simple yet Powerful Word Representation System that Integrates Efficiently with Language-Models,November 2023
+Quantifying Classification Performance through Combinatorial Geometry and Localized Data Analysis,Not Found
+What Makes for Robust Multi-Modal Models in the Face of Missing Modalities?,Not Found
+"WHICH RESTRAINS FEW-SHOT CLASS-INCREMENTAL LEARNING, FORGETTING OR FEW-SHOT LEARNING?",Not Found
+BackBench: Are Vision Language Models Resilient to Object-to-Background Context?,Not Found
+Linguistic Image Understanding,Not Found
+Tube Loss: A Novel Approach for High Quality Prediction Interval Estimation,Not Found
+Learning to Select In-context Examples from Reward,Not Found
+Towards Plastic and Stable Exemplar-Free Incremental Learning: A Dual-Learner Framework with Cumulative Parameter Averaging,"28 October, 2023"
+Learning Symbolic Interactions for Interpretable State-Space Modeling,Not Found
+A Geometric Perspective on Diffusion Models,"31 May, 2023"
+SEEKING THE SEARCH SPACE FOR SIZE-AWARE VISION TRANSFORMER ARCHITECTURE,Not Found
+Leveraging Print Debugging to Improve Code Generation in Large Language Models,January 2024
+Quality Control at Your Fingertips: Quality-Aware Translation Models,Not Found
+Active Question Learning: learning a partial annotation policy in hierarchical label spaces,Not Found
+S4++: Elevating Long Sequence Modeling with State Memory Reply,Not Found
+Fill with Anything: High-Resolution and Prompt-Faithful Image Completion,Not Found
+DAMO: Dynamic Adversarial defense with Multi-branch Orthogonality,Not Found
+Provably Efficient Policy Optimization with Rare Policy Switches,Not Found
+Multimodal Question Answering for Unified Information Extraction,October 2023
+Iterative Graph Neural Network Enhancement Using Explanations,Not Found
+Rethinking The Dependence Between Gradients and The Initial Point in Deep Learning,Not Found
+Efficient and scalable reinforcement learning via hypermodel,Not Found
+MoteS: Memory Optimization via Fine-grained Scheduling for DNNs on Tiny Devices,Not Found
+StyleDreamer: Make Your 3D Style Avatar from a Single View with Consistency Score Distillation,Not Found
+Matrix-wise Class Imbalance Matters: On the Generalization of Micro-AUC in Multi-label Learning,Not Found
+Autonomous Tree-search Ability of Large Language Models,October 2023
+Meta-Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems,Not Found
+Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes,Not Found
+VQ-CAD: Computer-Aided Design Model Generation with Vector Quantized Diffusion,Not Found
+Heterogeneous Value Alignment Evaluation for Large Language Models,"25 May, 2023"
+Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance,"31 July, 2023"
+M-IDAS: MULTI-MODAL INTRUSION DETECTION AND ANALYTIC SYSTEM,Not Found
+Transformers Perform In-Context Learning through Neural Networks,Not Found
+Violence Detection and Localization in Video Through Subgroup Analysis,Not Found
+Motor Imagery Decoding Using Ensemble Curriculum Learning and Collaborative Training,"21 November, 2022"
+Architectural Insights for efficient Physics-Informed Neural Network optimization,Not Found
+Double Rounding Quantization for Flexible Deep Neural Network Compression,Not Found
+HiFi-123: Towards High-fidelity One Image to 3D Content Generation,"10 October, 2023"
+PlatoLM: Teaching LLMs  via a Socratic  Questioning User Simulator,Not Found
+BENCHMARKING SEQUENTIAL VISUAL INPUT REASONING AND PREDICTION IN MULTIMODAL LARGE LANGUAGE MODELS,October 2023
+Geometry-Guided Conditional Adaption for Surrogate Models of Large-Scale 3D PDEs on Arbitrary Geometries,Not Found
+PEPNet: A Lightweight Point-based Event Camera 6-DOFs Pose Relocalization Network,Not Found
+Analyzing Local Representations of Self-supervised Vision Transformers,"31 December, 2023"
+Towards Robust 3D Pose Transfer with Adversarial Learning,April 2024
+ROBUST DIFFUSION GAN USING SEMI-UNBALANCED OPTIMAL TRANSPORT,Not Found
+One is More: Diverse Perspectives within a Single Network for Efficient DRL,"21 October, 2023"
+Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All,"26 November, 2023"
+Continual Knowledge Graph Link Prediction: Beyond Experience Replay,Not Found
+Balance Beam: adaptive computation for affordable training and inference with high-throughput offloading for LLMs,Not Found
+Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace,Not Found
+Semantic-Enhanced Prototypical Network for Universal Novel Category Discovery,Not Found
+Attend to Context for Refining Embeddings in Deep Metric Learning,Not Found
+Imbalanced data robust online continual learning based on evolving class aware memory selection and built-in contrastive representation learning,Not Found
+OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models,December 2022
+Beyond Graphs: Learning with Relational DBs,Not Found
+XIMAGENET-12: An Explainable AI Benchmark Dataset for Model Robustness Evaluation,"12 October, 2023"
+Full Elastic Weight Consolidation via the Surrogate Hessian-Vector Product,Not Found
+Towards Better Orthogonality Regularization with Disentangled Norm in Training Deep CNNs,June 2023
+Domain Adaptation for Large-Vocabulary Object Detectors,"12 January, 2024"
+Exploring the Relationship between In-Context Learning and Instruction Tuning,November 2023
+Prompt Backdoors in Visual Prompt Learning,October 2023
+Enhancing Deep Graph Neural Networks via Improving Signal Propagation,Not Found
+Domain Feature Perturbation for Domain Generalization,"23 July, 2023"
+Rethinking the Effectiveness of Graph Classification Datasets in Benchmarks for Assessing GNNs,July 2024
+SAGMAN: Stability Analysis of Graph Neural Networks (GNNs) on the Manifolds,Not Found
+"Stop overkilling simple tasks with black-box models, use more transparent models instead",Not Found
+CompanyKG: A Large-Scale Heterogeneous Graph for Company Similarity Quantification,"18 June, 2023"
+WASSERSTEIN-GUIDED SYMBOLIC REGRESSION: MODEL DISCOVERY OF NETWORK DYNAMICS,Not Found
+Enhancing Medical Image Generation with Anatomical Precision: A Multi-Headed VAE-Based Diffusion Model,Not Found
+State Chrono Representation for Enhancing Generalization in Reinforcement Learning,November 2024
+Restorer Guided Diffusion Models for Variational Inverse Problems,Not Found
+On the Relation between Gradient Directions and Systematic Generalization,Not Found
+Unsupervised Learning of Object-Centric Representation from Multi-Viewpoint Scenes,Not Found
+Effective and Parameter-Efficient Reusing Fine-Tuned Models,Not Found
+Delayed Spiking Neural Network and Exponential Time Dependent Plasticity Algorithm,Not Found
+Post-prediction confidence training complements supervised learning,Not Found
+Augmented Policy Optimization for Safe Reinforcement Learning,Not Found
+Personalized Facial Expressions and Head Poses for Speech-Driven 3D Facial Animation,"11 October, 2023"
+TADIS: Steering Models for Deep-Thinking about Demonstration Examples,Not Found
+Learn What You Need  in Personalized Federated Learning,January 2024
+SENSITIVITY-INFORMED REGULARIZATION FOR OFFLINE BLACK-BOX OPTIMIZATION,Not Found
+CoDBench: A Critical Evaluation of Data-driven Models for Continuous Dynamical Systems,October 2023
+SketchEdit: Editing Freehand Sketches At The Stroke-Level,Not Found
+HP$^3$-NS: Hybrid Perovskite Property Prediction Using Nested Subgraph,Not Found
+Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation from GNNs to MLPs,"23 March, 2023"
+Early Weight Averaging Meets High Learning Rates for LLM Pre-training,"5 June, 2023"
+Dual-target Point Cloud Registration Using Representative Overlapping Points,Not Found
+Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling,"24 November, 2023"
+Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face,Not Found
+Marginal Benefit Induced Unsupervised Environment Design,Not Found
+Test Time Augmentations are Worth One Million Images for Out-of-Distribution Detection,Not Found
+"First-Explore, then Exploit: Meta-Learning Intelligent Exploration",Not Found
+A Neural Tangent Kernel Approach for Constrained Policy Gradient Reinforcement Learning,"19 July, 2021"
+Language-Conditioned Imitation Learning With Base Skill Priors Under Unstructured Data,"30 May, 2023"
+Margin Discrepancy-based Adversarial Training for Multi-Domain Text Classification,March 2024
+TKG-LM: Temporal Knowledge Graph Extrapolation Enhanced by Language Models,Not Found
+Stochastic Adversarial Networks for Multi-Domain Text Classification,June 2024
+A space-continuous implementation of Proper Orthogonal Decomposition by means of Neural Networks,Not Found
+A Dataset and Benchmark for Copyright Protection from Text-to-Image Diffusion Models,Not Found
+Unlocking the Potential of Federated Learning for Deeper Models,June 2023
+Towards Cost-Efficient Federated Multi-Agent Reinforcement Learning with Learnable Aggregation,Not Found
+Towards Predicate-powered Learning,Not Found
+Customizing Global Model for Diverse Target Distributions in Federated Learning,Not Found
+In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Induced Search,Not Found
+Learning from Shortcut: A Shortcut-guided Approach for Graph Rationalization,Not Found
+Semi-HyperGraph Benchmark: Enhancing Flexibility of Hypergraph Learning with Datasets and Benchmarks,Not Found
+Small Visual Language Models can also be Open-Ended Few-Shot Learners,Not Found
+Optimal Neural Network Approximation for High-Dimensional Continuous Functions,"3 September, 2024"
+Quantum sequential scattering model for quantum state learning,October 2023
+Spatial Matching Loss Function for Mass Segmentation on Whole Mammography Images,Not Found
+Who SAID that? Benchmarking Social Media AI Detection,Not Found
+DECap: Towards Generalized Explicit Caption Editing via Diffusion Mechanism,"24 November, 2023"
+S$^6$-DAMON: Unlocking Structured Sparsity in Self-Supervised Speech Models via Data-Model Co-Compression,Not Found
+Perceptual Context and Sensitivity in Image Quality Assessment: A Human-Centric Approach,Not Found
+Generative AI in healthcare: A trustworthy approach,Not Found
+Automatic Hallucination Assessment for Aligned Large Language Models via Transferable Adversarial Attacks,Not Found
+FedBiF: Communication-Efficient Federated Learning via Bits Freezing,September 2025
+Low-Rank Robust Graph Contrastive Learning,Not Found
+Federated Tuning for Black Box Large Models,November 2024
+A Geometric Analysis of Multi-label Learning under Pick-all-label Loss via Neural Collapse,Not Found
+Learning UI-to-Code Reverse Generator Using Visual Critic Without Rendering,"23 May, 2023"
+Efficient PDE Solutions using Hartley Neural Operators in Physics-Informed Networks: Potentials and Limitations,Not Found
+Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling,October 2023
+Discovering Mathematical Formulas from Data via LSTM-guided Monte Carlo Tree Search,Not Found
+Evade ChatGPT Detectors via A Single Space,"5 July, 2023"
+Complex Logical Reasoning over Knowledge Graphs using Large Language Models,"1 May, 2023"
+GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond,"28 September, 2023"
+RoboGPT : An intelligent agent of making embodied long-term decisions for daily instruction tasks,"27 November, 2023"
+AudoFormer: An Efficient Transformer with Consistent Auxiliary Domain for Source-free Domain Adaptation,Not Found
+Symmetrized Schrödinger Bridge Matching,Not Found
+Batch Bayesian Optimization of Delayed Effects Corrections for Thompson Sampling Bandits: A Practical Tuning Algorithm for Adaptive Interventions,Not Found
+From Stability to Chaos: Analyzing Gradient Descent Dynamics in Quadratic Regression,October 2023
+On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?,Not Found
+Revisiting Subsampling and Mixup for WSI Classification: A Slot-Attention-Based Approach,Not Found
+A Symmetry-Aware Learning Approach for Solving Mixed-Integer Linear Programs,Not Found
+Provable Benefit of Adaptivity in Adam,Not Found
+Online Continual Learning via Pursuing Class-conditional Funtion,Not Found
+The Impact of Depth and Width on Transformer Language Model Generalization,Not Found
+Efficient OCR for Building a Diverse Digital History,"5 April, 2023"
+Online Learning in Varying Feature Spaces with Informative Variation,Not Found
+Enhancing Clinical Note Summarization: Iterative Reflexions with Small-model Supervision and Error2Correct Demonstrations,Not Found
+SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation,"5 October, 2023"
+Attacking for Inspection and Instruction: Debiasing Self-explaining Text Classification,Not Found
+One Training Fits All: Addressing Model-Heterogeneity Federated Learning via Architecture Probing,Not Found
+Spiking Mixers for Robust and Energy-efficient Vision-and-Language Learning,Not Found
+Multi-agent Optimistic Soft Q-Learning: A co-MARL Algorithm with a Global Convergence Guarantee,Not Found
+Efficient Parameter Tuning of Large Protein Language Models for De Novo Protein Design,Not Found
+SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization,"2 January, 2024"
+DISTPAR:TENSOR PARTITIONING FOR DISTRIBUTED NEURAL NETWORK COMPUTING,Not Found
+Accurate Link Prediction via PU Learning,"20 May, 2024"
+Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads,Not Found
+Learning the Unseen: Peer-to-Peer Fine-tuning of Vision Transformers,Not Found
+InsightMapper: A closer look at inner-instance information for vectorized High-Definition Mapping,Not Found
+"X-SHOT: A Single System to Handle Frequent, Few-shot and Zero-shot Labels in Classification",Not Found
+Learning A Disentangling Representation For PU Learning,October 2023
+Interpreting Age Predictions from Brain Maps via Deep Neural Activations and Tensor Decomposition,Not Found
+Missing Data Imputation for Large-Scale Longitudinal Physical Activity Data,Not Found
+Hybrid Reinforcement Learning for Optimizing Pump Sustainability in Real-World Water Distribution Networks,October 2023
+scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain,October 2023
+PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning,June 2024
+Evaluating Adversarial Defense in the Era of Large Language Models,Not Found
+Deep Generalized Prediction Set Classifier and Its Theoretical Guarantees,Not Found
+Operator Learning Meets Numerical Analysis: Improving Neural Networks through Iterative Methods,October 2023
+Variational Language Concepts for Interpreting Pretrained Language Models,Not Found
+SuperFormer: Superpixel-based Transformers for Salient Object Detection,Not Found
+Structured Fine-Tuning Enables Data-Efficient Adaptation of Code Language Models,Not Found
+Guiding RL Agents with Classical Algorithms and Heuristics to Solve Combinatorial Optimization Problems on Graphs,Not Found
+Self-Specialization: Uncovering Latent Expertise within Large Language Models,"29 September, 2023"
+Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection,"31 July, 2023"
+Revisiting differentially private XGBoost: are random decision trees really better than greedy ones?,Not Found
+FAIR-Ensemble: Homogeneous Deep Ensembling Naturally Attenuates Disparate Group Performances,Not Found
+EFFICIENT QUANTUM STATE RECONSTRUCTION USING UNSUPERVISED LEARNING FOR QUANTUM CIRCUIT CUTTING,Not Found
+Deep Learning-based Discrimination of Pause Episodes in Insertable Cardiac Monitors,Not Found
+Fast and Reliable Generation of EHR Time Series via Diffusion Models,Not Found
+Learning Conditional Policy for Crystal Design using Offline Reinforcement Learning,Not Found
+DEBOSH: Deep Bayesian Shape Optimization,"28 September, 2021"
+Towards Neural Architecture Search through Hierarchical Generative Modeling,Not Found
+Conditional Diffusion Distillation,"3 April, 2025"
+Approximate Clustering for Extracting Task Relationships in Multi-Instruction Tuning,Not Found
+Efficient VideoMAE via Temporal Progressive  Training,Not Found
+SCALE: Scaling up the Complexity for Advanced Language Model Evaluation,Not Found
+De Novo Drug Design with Joint Transformers,"3 October, 2023"
+A Neural Syntax Parser for Joint Segmentation and Anatomical Labelling of Vascular Tree Structures,Not Found
+Novel Domain Extrapolation with Large Language Models,Not Found
+AMPNet: Attention as Message Passing for Graph Neural Networks,Not Found
+EXPLORING BATTERY USAGE IN ELECTRIC VEHICLES THROUGH GRAPH BASED CASCADED CLUSTERING,Not Found
+RECURSIVE NEURAL ORDINARY DIFFERENTIAL EQUATIONS FOR PARTIALLY OBSERVED SYSTEM,Not Found
+MAMS: MODEL-AGNOSTIC MODULE SELECTION FRAMEWORK FOR VIDEO CAPTIONING,January 2025
+A foundation model for time-series forecasting,October 2025
+Simplicial SMOTE: Oversampling Solution to the Imbalanced Learning Problem,March 2025
+Model Breadcrumbs: Crafting Multi-Task Models from Pre-Existing Fine-Tuned Foundation Models,Not Found
+Denoising Low-Rank Data Under Distribution Shift: Double Descent and Data Augmentation,Not Found
+Time-sensitive Weight Averaging for Practical Temporal Domain Generalization,Not Found
+Learning to reason iteratively and parallelly for complex visual reasoning,November 2024
+Signatures Meet Dynamic Programming: Generalizing Bellman Equations for Trajectory Following,"9 December, 2023"
+Implicit Latent Causal Representation Learning through Soft Interventions,Not Found
+Semantic Attribution For Explainable Uncertainty Quantification,Not Found
+Hierarchical Probabilistic Neural Network: Efficient and Accurate Uncertainty Quantification,Not Found
+OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation,"11 October, 2023"
+Sample as you Infer: Predictive Coding with Langevin Dynamics,"22 November, 2023"
+Beyond Joint Demonstrations: Personalized Expert Guidance for Efficient Multi-Agent Reinforcement Learning,"13 March, 2024"
+Unsupervised Learning Based Object Detection Using Contrastive Learning,February 2024
+Neural mechanisms of cognitive flexibility: Belief updating in dynamic environments with sparse rewards,Not Found
+XAI Procedural Fairness Auditing Framework: avoid misguided outcomes by refocusing on fairness properties,Not Found
+HeteroSFL: Split Federated Learning with heterogeneous clients and non-IID data,Not Found
+Variance-Covariance Regularization Improves Representation Learning,"23 June, 2023"
+Multi-Image Zero-Shot Subject Generation for Visual Storytelling,Not Found
+Node-wise Calibration of Graph Neural Networks under Out-of-Distribution Nodes via Reinforcement Learning,Not Found
+"Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers","25 August, 2023"
+Wording Image for Domain-Invariant Representation in Domain Generalization,May 2024
+Fairness Under Demographic Scarce Regime,"24 July, 2023"
+Personalized Residuals for Concept-Driven Text-to-Image Generation,May 2024
+RAND: Robustness Aware Norm Decay For Quantized Seq2seq Models,May 2023
+Complete and continuous representations of Euclidean graphs,Not Found
+Prompt-Free Diffusion: Taking “Text” out of Text-to-Image Diffusion Models,"25 May, 2023"
+POET: Prompt Offset Tuning for Continual Few-Shot Action Recognition,Not Found
+ON TRAINING DERIVATIVE-CONSTRAINED NEURAL NETWORKS,"2 October, 2023"
+FedPnP:A Plug and Play Approach For Personalized Graph-Structured Federated Learning,Not Found
+Don't forget private retrieval: distributed private similarity search for large language models,November 2023
+A Shot-Efficient Differential Equation Integrator using Quantum Neural Networks,Not Found
+On Robustness-Accuracy Characterization of Large Language Models using Synthetic Datasets,Not Found
+An Invariant Information Geometric Method for High-dimensional Online Optimization,January 2024
+Are training trajectories of deep single-spike and deep ReLU network equivalent?,Not Found
+Explicit Foundation Model Optimization with Self-Attentive Feed-Forward Neural Units,November 2023
+Fast Stochastic Kernel Approximation by Dual Wasserstein Distance Method,Not Found
+E$^{2}$GAN: Efficient Training of Efficient GANs for Image-to-Image Translation,"11 January, 2024"
+CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers,"27 May, 2023"
+Improved DDIM Sampling with Moment Matching Gaussian Mixtures,"7 November, 2023"
+Parallel-in-Time Diffusion Model Sampling,May 2024
+Inference from Real-World Sparse Measurements,"20 October, 2022"
+Efficient Graph Representation Learning by Non-Local Information Exchange,Not Found
+DPAF: Image Synthesis via Differentially Private Aggregation in Forward Phase,April 2023
+realSEUDO for real-time calcium imaging analysis,May 2024
+"Divergence at the Interpolation Threshold: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle",Not Found
+Estimating Performative Effects in Dynamical Systems: the advantage of sequential observations,Not Found
+$\sigma$-PCA: a unified neural model for linear and nonlinear principal component analysis,Not Found
+Stream: A Generalized Continual Learning Benchmark and Baseline,Not Found
+Correct-by-design Safety Critics using Non-contractive Binary Bellman Operators,Not Found
+Diversity-aware Continual Learning with Latent Knowledge Hypergraph,Not Found
+Generalized Category Discovery with Hierarchical Label Smoothing,Not Found
+Compositional Generalization in Multimodal Foundation Models,Not Found
+Visual Topics via Visual Vocabularies,Not Found
+"What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions",Not Found
+SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding,"23 October, 2023"
+Optimal Rates for Convex Optimization with Multiway Preferences,Not Found
+Reducing distortions in Real World Image Super Resolution using Attention,Not Found
+Promoting Sparsity in Continuous-time Neural Networks to Learn Dependence Structures,Not Found
+Characterizing Long-Tail Categories on Graphs via A Theory-Driven Framework,Not Found
+Masked AutoDecoder is Effective Multi-Task Vision Generalist,"12 March, 2024"
+HeroLT: Benchmarking Heterogeneous Long-Tailed Learning,Not Found
+CoNO: Complex Neural Operator for Continuous Dynamical Systems,"3 October, 2023"
+Addressing Challenges in Reinforcement Learning for Recommender Systems with Conservative Objectives,Not Found
+ReLU for Inference Acceleration,Not Found
+Formal Verification for Neural Networks with General Nonlinearities via Branch-and-Bound,Not Found
+PEMs: Pre-trained Epidemic Time-Series Models,"13 November, 2023"
+Automatic Calibration and Error Correction for Generative Large Language Models via Pareto Optimal Self-Supervision,Not Found
+A UCB-type of Approach for Nonstationary MDPs with General Function Approximation,Not Found
+ERM++: An Improved Baseline for Domain Generalization,"4 April, 2023"
+Anomaly Detection with Variance Stabilized Density Estimation,"1 June, 2023"
+Learning Fair Representations with High-Confidence Guarantees,October 2025
+Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks,"15 December, 2023"
+Combine and Conquer: A Meta-Analysis on Data Shift and Out-of-Distribution Detection,June 2024
+Task-to-Instance Prompt Learning for Vision-Language Models at Test Time,Not Found
+Automatically Eliciting Toxic Outputs from Pre-trained Language Models,Not Found
+CLAM: Class-wise Layer-wise Attribute Model for Explaining Neural Networks,Not Found
+InfoNet: Missing Information Retrieval in Multi-Stream Sensing Systems,Not Found
+Mitigating Estimation Errors By Twin TD-Regularized Actor and Critic for Deep Reinforcement Learning,November 2023
+Distributed Linear Dimensionality Reduction Assisted by Centralized NN for Classification,Not Found
+Graph-PDE: Coupled ODE Structure for Graph Neural Networks,Not Found
+Generating Explanations From Linear Structural Causal Models,Not Found
+EchoPrompt: Instructing the Model to Rephrase Queries for Improved In-context Learning,"15 September, 2023"
+Generalized Adversarial Learning--An Innovative Unsupervised Paradigm In LLM's Calibration,Not Found
+Neural Coherence,September 2025
+Quality-Diversity Transfer Learning (QDTL),Not Found
+Pre-trained Neural Recommenders: Learning Statistical Representations for Zero-shot Recommender Systems,Not Found
+From PDEs to Wingbeats: A Novel Convolutional Fourier Layer-based ResNet Model,Not Found
+Reinforcement Learning with Partial Order Representation for Monotonic Physical System,Not Found
+Beyond Implicit Bias: The Insignificance of SGD Noise in Online Learning,"14 June, 2023"
+Large Language Models as Gaming Agents,October 2025
+Learning with Instance-Dependent Noisy Labels by Hard Sample Selection with Anchor Hallucination,Not Found
+Simplifying Self-Supervised Object Detection Pretraining,Not Found
+VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation,Not Found
+Enhancing Graph Neural Networks with Quantum Computed Encodings,October 2023
+Accelerated Deep Learning by Gaussian Continuation,Not Found
+A Lennard-Jones Layer for Distribution Normalization,February 2024
+How far can we go without finetuning?,Not Found
+Stochastic Competition Networks for Deep Learning on Tabular Data,Not Found
+ARTIST: Towards Disentangled Text Painter with Diffusion Models,Not Found
+Efficiently Quantifying Individual Agent Importance in Cooperative MARL,"13 December, 2023"
+Identifying Interpretable Features in Convolutional Neural Networks,Not Found
+DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing,"16 October, 2023"
+Language Decision Transformers with Exponential Tilt for Interactive Text Environments,"10 February, 2023"
+Learning Multi-Objective Program Through Online Learning,Not Found
+FedEve: On Bridging the Client Drift and Period Drift for Cross-device Federated Learning,August 2025
+"Part-based bird classifiers with an explainable, editable language bottleneck",Not Found
+DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing,"26 June, 2023"
+Robust Stochastic Graph Generator for Counterfactual Explanations,"18 December, 2023"
+Leveraging Heterogeneous Side Information via Diffusion Models for Time-series Anomaly Detection,Not Found
+LNL+K: Enhancing Learning with Noisy Labels Through Noise Source Knowledge Integration,"20 June, 2023"
+FTFT: efficient and robust Fine-Tuning by transFerring Training dynamics,"10 October, 2023"
+CAUSAL NEURAL NETWORKS FOR CONTINUOUS TREATMENT EFFECT ESTIMATION,Not Found
+Model-Based Transfer RL with Task-Agnostic Offline Pretraining,Not Found
+Multi-Level Contrastive Learning for Dense Prediction Task,April 2023
+Model-Decoupling-Based Federated Learning with Consistency via Knowledge Distillation Using Conditional Generator,Not Found
+Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling,"26 May, 2023"
+Learning Team-Level Information Integration in Multi-Agent Communication,Not Found
+Are machines automating morality?,Not Found
+3D Tissue Reconstruction and Generation for Single-Cell Spatial Transcriptomics using Neural Radiance Fields,Not Found
+Complex QA with Diverse Knowledge Sources:  Novel Benchmark  and Approach,Not Found
+The Devil is in the Edges: Monocular Depth Estimation with Edge-aware Consistency Fusion,April 2024
+Quantifying and Defending against the Privacy Risk in Logit-based Federated Learning,Not Found
+Subgraph Mining for Graph Neural Networks,March 2024
+DOMAIN-GROUNDING OF NEURAL NETWORKS FOR SPATIOTEMPORAL REASONING,Not Found
+Knowledge Accumulation in Continually Learned Representations and the Issue of Feature Forgetting,"3 April, 2023"
+WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition,"11 April, 2023"
+Complexity-Limited Multi-Task Training for Compositional Emergent Communication,Not Found
+Diffusion Models for Open-Vocabulary Segmentation,May 2025
+Audio Image Generation for Denoising,June 2024
+Diffusion Random Feature Model,"1 February, 2025"
+Enhancing Robustness of Visual Object Localization by Introducing Retina-Inspired Mapping to Convolutional Neural Networks,Not Found
+From Malicious to Marvelous: The Art of Adversarial Attack as Diffusion,Not Found
+"Nash Equilibria in Reward-Potential Markov Games: Algorithms, Complexity, and Applications",Not Found
+TopoFormer: Topology-aware Transformer for Reactive Motion Prediction in Close Interactions,Not Found
+Distilling ODE Solvers of Diffusion Models into Smaller Steps,"28 September, 2023"
+Learning to Count without Annotations,"17 July, 2023"
+Exploiting Implicit Rigidity Constraints via Weight-Sharing Aggregation for Scene Flow Estimation from Point Clouds,"4 March, 2023"
+Retro: Reusing teacher projection head for efficient embedding distillation on Lightweight Models via Self-supervised Learning,"24 May, 2024"
+From Categories to Classifier: Name-Only Continual Learning by Exploring the Web,"19 November, 2023"
+Stochastic Re-weighted Gradient Descent via Distributionally Robust Optimization,"15 June, 2023"
+A Symbolic Framework for Evaluating Mathematical Reasoning with Transformers,"21 May, 2023"
+"Self, Semi and Fully Supervised Training for Autoencoders using Ternary Classification",Not Found
+Homotopy Relaxation Training Algorithms for Infinite-Width Two-Layer ReLU Neural Networks,"26 September, 2023"
+"EXPLAIN, AGREE and LEARN: A Recipe for Scalable Neural-Symbolic Learning",Not Found
+Intuitive or Dependent? Investigating LLms’ Robustness to Conflicting Prompts,Not Found
+A Bayesian Framework for Clustered Federated Learning,"20 October, 2024"
+A Theoretically Grounded Extension of Universal Attacks from the Attacker's Viewpoint,Not Found
+DAG-based Generative Regression,Not Found
+Rethinking Self-Supervise Learning: An Instance-wise Similarity Perspective,Not Found
+Central Force Field: Unifying Generative and Discriminative Models While Harmonizing Energy-Based and Score-Based Models,Not Found
+Collaborative Prompt Tuning for Black-Box Vision-Language Models,Not Found
+The RL Perceptron: Generalisation Dynamics of Policy Learning in High Dimensions,"17 June, 2023"
+Localized Text-to-Image Generation For Free via Cross Attention Control,June 2023
+Afterstate Reinforcement Learning for Continuous Control,Not Found
+Quantum Architecture Search with Unsupervised Representation Learning,"21 January, 2024"
+A Game Theoretic Approach to Meta-Learning: Nash Model-Agnostic Meta-Learning,Not Found
+FedORION: Aggregation-Assisted Proxyless Distillation for Heterogeneous Federated Learning,Not Found
+SQS: Speech Quality Assessment in the Data Annotation Context,Not Found
+FLea: Improving federated learning on scarce and label-skewed data via  privacy-preserving feature augmentation,Not Found
+MPPN: Multi-Resolution Periodic Pattern Network  For Long-Term Time Series Forecasting,June 2023
+Fine-tuning can cripple foundation models; preserving features may be the solution,"25 August, 2023"
+Untrained Networks' Class Bias: A Theoretical Investigation,Not Found
+Towards Pareto-Optimality for Test-Time Adaptation,Not Found
+Identifiable State Disentanglement for Reinforcement Learning with Policy Optimality,Not Found
+Learned Mixing Weights for Transferable Tabular Data Augmentation,Not Found
+$MC^2$: Multimodal Concept-based Continual learning,August 2022
+GPT as Visual Explainer,Not Found
+Understanding Deep Neural Networks as Dynamical Systems: Insights into Training and Fine-tuning,Not Found
+Freenets: Learning Layerfree Neural Network Topologies,Not Found
+A Dynamic Mixup Approach Towards Improved Robustness of Classifiers,Not Found
+SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving,October 2023
+Towards Demystifying the Generalization Behaviors When Neural Collapse Emerges,October 2023
+Evolving Computation Graphs,September 2024
+Pseudo-Mask and Language: A Simple Recipe for Open-Vocabulary Semantic Segmentation,Not Found
+EdVAE: Mitigating Codebook Collapse with Evidential Discrete Variational Autoencoders,"9 October, 2023"
+PIANO PERFORMANCE EVALUATION DATASET WITH MULTI-LEVEL PERCEPTUAL FEATURES,Not Found
+Riemannian Multiclass Logistics Regression for SPD Neural Networks,Not Found
+Variational Bayes Classifier,Not Found
+Bayesian Uncertainty Quantification Meets Topology,Not Found
+A Weight Variation-Aware Training Method for Hardware Neuromorphic Chips,Not Found
+Tree-based Action-Manipulation Attack Against Continuous Reinforcement Learning with Provably Efficient Support,Not Found
+Domain Generalization Using Large Pretrained Models With Mixture-of-Adapters,"17 October, 2023"
+Causal Inference on Distributional Outcomes under Continuous Treatments,Not Found
+FedCR: Federated Face Recognition with Inter-Class Representation Learning,Not Found
+MMPareto: Innocent Uni-modal Assistance for Enhanced Multi-modal Learning,Not Found
+Learning Interpretable Characteristic Kernels via Decision Forests,"30 November, 2018"
+LLaMA Rider: Spurring Large Language Models to Explore the Open World,October 2023
+DURENDAL: Graph deep learning framework for temporal heterogeneous networks,October 2023
+Self-supervised debiasing using low rank regularization,"11 October, 2022"
+Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning,September 2023
+Bridging Sub-Tasks to Long-Horizon Task in Hierarchical Goal-Based Reinforcement Learning,Not Found
+Revisiting Collaborative Filtering,August 2022
+Mitigating Uni-modal Sensory Bias in Multimodal Object Detection with Counterfactual Intervention and Causal Mode Multiplexing,Not Found
+Can long-context large language models understand long contexts?,Not Found
+AFFINE INVARIANCE IN CONTINUOUS-DOMAIN CONVOLUTIONAL NEURAL NETWORKS,"13 November, 2023"
+Solving Continual Offline Reinforcement Learning with Decision Transformer,"16 January, 2024"
+Invisible and Adaptive Training-Phase Target-Conditioned Backdoors,Not Found
+The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization,Not Found
+Neural Translation of Input Specifications into Formal Grammars for Test Case Generation,Not Found
+AV-PEA: PARAMETER-EFFICIENT ADAPTER FOR AUDIO-VISUAL MULTIMODAL LEARNING,Not Found
+Multi-Label Generalized Zero Shot Chest Xray Classification  Using Feature Disentanglement and Multi-Modal Dictionaries,Not Found
+AROID: Improving Adversarial Robustness through Online Instance-wise Data Augmentation,"12 June, 2023"
+Semi-supervised batch learning from logged data,"15 September, 2022"
+Getting a-Round Guarantees: Floating-Point Attacks on Certified Robustness,"20 May, 2022"
+Spectral Self-supervised Feature Selection,"12 July, 2024"
+Iterative Search Attribution for Deep Neural Networks,Not Found
+Revisiting Traffic Forecasting from a PINN Perspective,Not Found
+What Do GNNs Actually Learn? Towards Understanding their Representations,Not Found
+Constructive Large Language Model Alignment with Diverse Feedback,"10 October, 2023"
+TabGFN: Tabular data generation based on GFlowNets,Not Found
+Balanced learning with Token Selection for Few-shot Classification,Not Found
+Attribute-Guided Diffusion for Unsupervised Few-Shot Font Generation,Not Found
+Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models,October 2023
+PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer,"9 August, 2023"
+NaturalSigner: Diffusion Models are Natural Sign Language Generator,Not Found
+TeG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Task Design,Not Found
+LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation,"9 November, 2024"
+Data Descriptions from Large Language Models with Influence Estimation,Not Found
+"BTBS-LNS: A Binarized-Tightening, Branch and Search Approach of Learning Large Neighborhood Search Policies for MIP",Not Found
+AnoRand - Deep Learning-Based Semi-Supervised Anomaly Detection with Synthetic Labels,Not Found
+Protein Captioning: Bridging the Gap between Protein Sequences and Natural Languages,Not Found
+Label Space-Induced Pseudo Label Refinement for Multi-Source Black-Box Domain Adaptation,Not Found
+Finite Sample Analysis for Single-Loop Single-Timescale Natural Actor-Critic Algorithm,Not Found
+Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization,Not Found
+MIXCON3D: SYNERGIZING MULTI-VIEW AND CROSS-MODAL CONTRASTIVE LEARNING FOR ENHANCING 3D REPRESENTATION,Not Found
+Connectivity-based Token Condensation for Efficient Vision Transformer,Not Found
+Large Scene Synthesis Controlled With Detailed Text Using View-wise Conditional Joint Diffusion With Hierarchical Spatial Controls,Not Found
+Why Diffusion Models Are Stable and How to Make Them Faster: An Empirical Investigation and Optimization,Not Found
+Model2Scene: Learning 3D Scene Representation via Contrastive Language-CAD Models Pre-training,September 2023
+Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity,"22 June, 2023"
+Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection,"2 February, 2024"
+PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation,October 2023
+Unleash Data Generation for Efficient and Effective Data-free Knowledge Distillation,Not Found
+Memory-Modular Classification: Learning to Generalize with Memory Replacement,April 2025
+Domain-Agnostic Self-Training for Semi-Supervised Learning,Not Found
+Large Language Models Can Be Good Privacy Protection Learners,Not Found
+Enhancing Weakly Supervised 3D Medical Image Segmentation through Probabilistic-aware Learning,"4 March, 2024"
+Weakly Supervised Fine-grained Scene Graph Generation via Large Language Model,Not Found
+A General Formulation of Independent Policy Optimization in Fully Decentralized MARL,Not Found
+Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models,Not Found
+Guide Your Anomaly with Language,Not Found
+DeformUX-Net: Exploring a 3D Foundation Backbone for Medical Image Segmentation with Depthwise Deformable Convolution,"29 September, 2023"
+Creative Style Transfer,"25 September, 2024"
+Permutations improve performance in three-dimensional bin packing problem,Not Found
+Go beyond End-to-End Training: Boosting Greedy Local Learning with Context Supply,"12 December, 2023"
+Communication-Efficient Federated Learning with Accelerated Client Gradient,"10 January, 2022"
+BeGin: Extensive Benchmark Scenarios and An Easy-to-use Framework for Graph Continual Learning,"26 November, 2022"
+L2B: Learning to Bootstrap Robust Models for Combating Label Noise,"9 February, 2022"
+RSAM: Learning on Manifolds with Riemannian Sharpness-Aware Minimization,Not Found
+StudentEval: A Benchmark of Student-Written Prompts for Large Language Models of Code,June 2023
+Hierarchical Classification by Training to Diffuse on the Manifold,Not Found
+In-Context Learning with Iterative Demonstration Selection,"15 October, 2023"
+Knowledge Is Not Wisdom: Weight Balancing Mechanism for Local and Global Training in Federated Learning,Not Found
+Key point is key in resolving the offline three-dimensional bin packing problem,Not Found
+Source-Free Unsupervised Domain Adaptation with Hypothesis Consolidation of Prediction Rationale,February 2024
+"Train Short, Test Long In Combinatorial Optimization",Not Found
+Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,Not Found
+Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction,"8 October, 2023"
+Bayesian Pseudo-Coresets via Contrastive Divergence,"20 March, 2023"
+Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models,"23 April, 2023"
+How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition,"9 October, 2023"
+Prompt-Based Length Controlled Generation with Reinforcement Learning,"23 August, 2023"
+Benchmarking Multivariate Time Series Anomaly Detection with Large-Scale Real-World Datasets,Not Found
+T1: Scaling Diffusion Probabilistic Fields to High-Resolution on Unified Visual Modalities,May 2023
+A Vision-free Baseline for Multimodal Grammar Induction,Not Found
+SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views,Not Found
+pFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization,Not Found
+Parsimonious Demonstrations and Fine-Tuning for Large Language Models,Not Found
+Interpreting Reward Models in RLHF-Tuned Language Models Using Sparse Autoencoders,Not Found
+Benchmarks and Custom Package for Electrical Load Forecasting,Not Found
+Coreset Selection For Object Detection,April 2024
+Rethinking the OoD Generalization for Deep Neural Network: A Frequency Domain Perspective,Not Found
+SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation,"29 August, 2023"
+LLM-driven Hateful Meme Detection via Cross-modal Memorizing and Self-rejection Training,Not Found
+Diffusion-Stego: Training-free Diffusion Generative Steganography via Message Projection,May 2023
+Neural Architecture Search for TinyML with Reinforcement Learning,Not Found
+A Novel Evaluation Framework for Image Inpainting via Multi-Pass Self-Consistency,Not Found
+UniInsertion: A Unified Model-based Insertion Skill Learning via Differentiable Physics-based Simulation,Not Found
+PyTrial: Machine Learning Software and Benchmark for Clinical Trial Applications,"6 June, 2023"
+What Text Do Language Models Trust?,Not Found
+PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought,Not Found
+Generalized Supervised Contrastive Learning,September 2025
+Knowledge-Augmented Large Vision-and-Language Assistant,Not Found
+A One-Step MSE Estimation of Models in Production,Not Found
+Model Inversion Robustness: Can Transfer Learning Help?,Not Found
+VariedVision: Employing Adaptive Patching Mechanisms in Vision Transformer Models,Not Found
+How to Guess a Gradient,December 2023
+STAGE Net: Spatio-Temporal Attention-based Graph Encoding for Learning Multi-Agent Interactions in the presence of Hidden Agents,Not Found
+Efficient Realistic Avatar Generation via Model Compression and Enhanced Rendering,Not Found
+HOVER: Hyperbolic Video-text Retrieval,Not Found
+Towards Better Propagation of Non-parametric GNNs,Not Found
+Learning Spatio-Temporal Representation for Multivariate Time Series,"1 October, 2021"
+Unleashing the Power of Visual Prompting At the Pixel Level,"20 December, 2022"
+Evaluating Multi-Agent Coordination Abilities in Large Language Models,"5 October, 2023"
+Non-Visible Light Data Synthesis: A Case Study for Synthetic Aperture Radar Imagery,November 2023
+Open Domain Generalized Semantic Segmentation,"11 June, 2025"
+Error-Feedback Meets Stochastic Approximation with Two Time Scales,Not Found
+Exploring Counterfactual Alignment Loss towards Human-Centered AI,Not Found
+The Blessings of Multiple Treatments and Outcomes in Treatment Effect Estimation,"29 September, 2023"
+Visual Attention-Prompted Prediction and Learning,"12 October, 2023"
+Rehearsal NeRF: Disentangling Dynamic Illuminations in Neural Radiance Fields,Not Found
+Complex-valued Scattering Representations,Not Found
+A Latent Generative Model for Closed-set and Open-set Recognition,Not Found
+Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models,"31 August, 2023"
+Data Curation for Large Scale Detection Pretraining,Not Found
+Prediction-Consistent Koopman Autoencoders,Not Found
+Meta-Transformer: A Unified Framework for Multimodal Learning,July 2023
+Harnessing the Power of Federated Learning in Federated Contextual Bandits,"26 December, 2023"
+Causal Discovery with Unobserved Variables: A Proxy Variable Approach,Not Found
+Enhancing Neural Network Performance with Leader-Follower Architecture and Local Error Signals,Not Found
+Exploring Federated Optimization by Reducing Variance of Adaptive Unbiased Client Sampling,Not Found
+Adversarially Robust and Privacy-Preserving Representation Learning via Information Theory,Not Found
+DIA: Diffusion based Inverse Network Attack on Collaborative Inference,Not Found
+LeetPrompt: Leveraging Collective Human Intelligence to Study LLMs,Not Found
+Score-based Neural Processes,October 2023
+On Formal Feature Attribution and Its Approximation,"7 July, 2023"
+Traceable Federated Continual Learning,Not Found
+Diffusion Models without Attention,November 2023
+Spatial-Temporal Mutual Distillation for Lightweight Sleep Stage Classification,Not Found
+Meta Koopman Decomposition for Time Series Forecasting Under Distribution Shifts,Not Found
+CaStRL: Context-Aware State Representation learning with Transformer,Not Found
+CCA Merge: Merging Many Neural Networks with Canonical Correlation Analysis,Not Found
+MoveAnything: Controllable Scene Generation with Text-to-Image Diffusion Models,Not Found
+ControlVideo: Conditional Control for Text-driven Video Editing and Beyond,"26 May, 2023"
+Align before Adapt: Efficient and Generalizable Video Action Recognition with Text Corpus,Not Found
+Causal Disentangled Representation Learning with VAE and Causal Flows,Not Found
+InfoIGL: Invariant Graph Learning Driven by Information Theory,Not Found
+Enhanced Gradient Aligned Continual Learning via Pareto Optimization,Not Found
+AugUndo: Scaling Up Augmentations for Unsupervised Depth Completion,Not Found
+A Database-based Rather Than a Language Model-based Natural Language Processing Method,Not Found
+Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models,Not Found
+Text-Free Federated Transformers Knowledge Distillation Without GAN,Not Found
+LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model,March 2024
+TransNeXt: Aggregating Diverse Attentions in One Vision Model,Not Found
+BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping,June 2023
+Continual Learning Knowledge Graph Embeddings for Dynamic Knowledge Graphs,Not Found
+On the Similarity between Attention and SVM on the Token Separation and Selection Behavior,Not Found
+Image-driven Video Editing with Latent Diffusion Models,Not Found
+HGAMLP: A Scalable Training Framework for Heterogeneous Graph Learning,Not Found
+TROJFSL: TROJAN INSERTION IN FEW SHOT PROMPT LEARNING,Not Found
+Multil-Level Multimodal Alignment with Knowledge-Guided Instance-Wise Discrimination,Not Found
+BCN: Batch Channel Normalization,December 2023
+Unsupervised Event Outlier Detection in Continuous Time,November 2024
+Symmetrization of Loss Functions for Robust Training of Neural Networks in the Presence of Noisy Labels and the Multi-class Unhinged Loss Function,Not Found
+Weakly Supervised Monocular 3D Detection with a Single-View Image,February 2024
+Multiclass Alignment of Confidences and Softened Target Occurrences for Train-time Calibration,Not Found
+Visual Analysis of the Bumpiness and Ruggedness of Residual Neural Network Landscapes,Not Found
+Revisiting the Temporal Modeling in Spatio-Temporal Predictive Learning under A Unified View,Not Found
+Semi-supervised Diffusion Solver for Travelling Salesman Problem,Not Found
+Source-free Cross-modal Knowledge Transfer by Unleashing the Potential of Task-Irrelevant Data,January 2024
+Observable Propagation: Uncovering Feature Vectors in Transformers,"26 December, 2023"
+ACHIEVING DYNAMIC ACCURACY IN MACHINE-LEARNED CG POTENTIALS BY MODULATING POTENTIAL ENERGY LANDSCAPE,Not Found
+Objective-Agnostic Enhancement of Molecule Properties via Multi-Stage VAE,"24 August, 2023"
+Learning to (Learn at Test Time),October 2025
+Adaptive Multi-head Contrastive Learning,"9 October, 2023"
+Find Your Optimal Assignments On-the-fly: A Holistic Framework for Clustered Federated Learning,Not Found
+Theoretical insights into pseudo-label-based semi-supervised learning: Convergence rate and sample complexity analysis,Not Found
+Clustering for Protein Representation Learning,April 2024
+Representation Norm Amplification for Out-of-Distribution Detection in Long-Tail Learning,August 2024
+When and Why Momentum Accelerates SGD: An Empirical Study,Not Found
+CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement,October 2023
+Frustratingly Easy Model Generalization by Dummy Risk Minimization,"4 August, 2023"
+"One by One, Continual Coordinating with Humans via Hyper-Teammate Identification",Not Found
+BPQP: A Differentiable Convex Optimization Framework for Efficient End-to-End Learning,"28 November, 2024"
+DiffSDS: A geometric sequence diffusion model for protein backbone inpainting,Not Found
+A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Actively Validating Low-Confidence Generation,Not Found
+CodeScore: Evaluating Code Generation by Learning Code Execution,"21 January, 2023"
+Pre-trained Transformers as Plug-in Defenders Against Adversarial Perturbations,Not Found
+Self-Prompt SAM: Automatic Prompt SAM Adaptation for Medical Image Segmentation,February 2025
+Taming Self-Training for Open-Vocabulary Object Detection,"11 August, 2023"
+Modeling non-uniform uncertainty in Reaction Prediction via Boosting and Dropout,Not Found
+Comparative Knowledge Distillation,November 2023
+Robust Algorithmic Recourse Design Under Model Shifts,Not Found
+LIPEx -- Locally Interpretable Probabilistic Explanations -- To Look Beyond The True Class,"7 October, 2023"
+Mildly Constrained Evaluation Policy for Offline Reinforcement Learning,"6 June, 2023"
+Diversity-Aware Agnostic Ensemble of Sharpness Minimizers,March 2024
+FusionShot: Boosting Few Shot Learners with Focal-Diversity Optimized Ensemble Method,Not Found
+Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings,"3 May, 2023"
+Cross-Modal Self-Supervised Learning with Effective Contrastive Units for Point Clouds,September 2024
+Cascaded Contrastive Medical Language-Image Pretraining on Radiology Images,Not Found
+In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models,"15 August, 2023"
+Detecting and Removing Adversarial Patches using Frequency Signatures,Not Found
+Speed Up Federated Learning in Heterogeneous Environment: A Dynamic Tiering Approach,December 2023
+G-TIGRE: A new generative framework for Multivariate Time Series Imputation By Graph Neural Networks,Not Found
+D^3: Distributional Dataset Distillation with Latent Priors,Not Found
+ThEBES: Thorough Energy-Based Evolution Strategy,Not Found
+MoMo: Momentum Models for Adaptive Learning Rates,"12 May, 2023"
+On the power of graph neural networks and the role of the activation function,"10 July, 2023"
+Moûsai: Efficient Text-to-Music Diffusion Models,Not Found
+Robust Core-periphery Constrained Transformer for Domain Adaptation,"25 August, 2023"
+Learning to Stylize Soundscapes from In-the-Wild Videos,Not Found
+Larger language models do in-context learning differently,May 2024
+Efficient Continual Pre-training for Building Domain Specific Large Language Models,November 2023
+Probing Reasoning of Language Models with Inductive In-Context Learning,Not Found
+MetaGen: Assessing Conditions of Generalization,Not Found
+Demystifying the Myths and Legends of Nonconvex Convergence of SGD,October 2023
+Unsupervised Image-to-Video Domain Adaptation for Fine-Grained Video Understanding,Not Found
+RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought,"19 May, 2023"
+MultiLayerDiffusion: Composing Global Contexts and Local Details in Image Generation,Not Found
+InCo: Enhance Domain Generalization in Noisy Environments,Not Found
+Overcome Data Heterogeneity in Federated Learning with Filter Decomposition,March 2025
+Exposure Bias Mitigation for Self Information Updating of Large Language Models,Not Found
+Automated Search-Space Generation Neural Architecture Search,"25 May, 2023"
+Unsupervised Feature Learning with Emergent Data-Driven Prototypicality,July 2023
+Structured Pruning of CNNs at Initialization,"4 March, 2022"
+On the efficacy of group-wise clipping in differentially private optimization,Not Found
+WATT FOR WHAT: RETHINKING DEEP LEARNING’S ENERGY-PERFORMANCE RELATIONSHIP,"10 October, 2023"
+Multi-fidelity Deep Symbolic Optimization,Not Found
+Semi-supervised Domain Adaptation via Joint Error based Triplet Alignment,Not Found
+Optimisation-Based Multi-Modal Semantic Image Editing,November 2023
+LETI: Learning to Generate from Textual Interactions,"17 May, 2023"
+InfoScissors: Defense against Data Leakage in Collaborative Inference through the Lens of Mutual Information,Not Found
+On the Equivalence of Graph Convolution and Mixup,"29 September, 2023"
+Partition and Conquer: A Multimodal Autoregressive Model for Time-Aligned and Contextual Modalities,Not Found
+Exponentially Expanding the Compiler Phase-Ordering Problem's Search Space through the Learning of Dormant Information,Not Found
+Hyper-parameter Tuning for Fair Classification without Sensitive Attribute Access,"2 February, 2023"
+Data-Centric Defense: Shaping Loss Landscape with Augmentations to Counter Model Inversion,Not Found
+A Label is a Label is a Label: Relation Augmentation for Scene Graph Generation,Not Found
+SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design,"19 June, 2023"
+Using Attention to Weight Particles in Particle Filters,Not Found
+DisCo: Disentangled Control for Realistic Human Dance Generation,"30 June, 2023"
+Sparse Iso-FLOP Transformations for Maximizing Training Efficiency,"20 March, 2023"
+Discovering Localized Pollution Hotspots Using Sparse Sensor Measurements,Not Found
+What does GPT store in its MLP weights? A case study of long-range dependencies,Not Found
+CookingCLIP：Learning a Contextualized Multimodal Embedding from Instructional Cooking Videos for Zero-shot Recipe Generation,Not Found
+Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning,"9 December, 2023"
+VIMEX: A Memory-Centered Task Description Framework for Vision-Based Robotics,Not Found
+MITIGATING BIAS IN DATASET DISTILLATION,"6 June, 2024"
+Exploring Memorization in Fine-tuned Language Models,"10 October, 2023"
+Conservative Reinforcement Learning by Q-function Disagreement,Not Found
+FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning,October 2023
+HowToCaption: Prompting LLMs to Transform Video Annotations at Scale,"7 October, 2023"
+Interaction-centric Hypersphere Reasoning for Multi-person Video HOI Recognition,Not Found
+BenthIQ: a Transformer-Based Benthic Classification Model for Coral Restoration,November 2023
+Video Anomaly Detection via Semantic Attributes,Not Found
+Sparsify the Weights but Let the Gradients Flow!,Not Found
+Leveraging Neuron Activation Patterns to Explain and Improve Deep Learning Classifiers,Not Found
+Searching for Parameter-Efficient Tuning Architecture for Text-to-image Diffusion Models,Not Found
+PoisoningGuard: Provable Defense against Data Poisoning Attacks to Multi-label Classification,Not Found
+Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena,"9 October, 2023"
+Selective Perception: Learning Concise State Descriptions for Language Model Actors,Not Found
+Learning Concept-Based Visual Causal Transition and Symbolic Reasoning for Visual Planning,"5 October, 2023"
+Is Scale All You Need For Anomaly Detection?,Not Found
+Organ-DETR: 3D Organ Detection Transfomer with Multiscale Attention and Dense Query Matching,Not Found
+SelfDreamer: Dual-Prototypical Regularization for Frame-masked Model-based Reinforcement Learning,Not Found
+DeCCaF: Deferral Under Cost and Capacity Constraints Framework,Not Found
+Zero-Level-Set Encoder for Neural Distance Fields,Not Found
+Graph-Based Automatic Feature Selection for Multi-Class Classification via Mean Simplified Silhouette,September 2023
+Test-Time-Adaptation for Depth Completion,"7 August, 2025"
+Meta-Learning Universal Priors Using Non-Injective Normalizing Flows,Not Found
+What is a good question? Task-oriented asking with fact-level masking,Not Found
+AS-LLM: When Algorithm Selection Meets Large Language Model,Not Found
+Bridging Indexing Structure and Graph Learning: Expressive and Scalable Graph Neural Network via Core-Fringe,Not Found
+LARGE LANGUAGE MODELS FOR BIOMEDICAL KNOWLEDGE GRAPH CONSTRUCTION,September 2025
+Achieving Minimax Optimal Sample Complexity of Offline Reinforcement Learning: A DRO-Based Approach,Not Found
+Learning to focus on target for weakly supervised visual grounding,Not Found
+On the Efficiency of Transformers: The Effect of Attention Rank,Not Found
+α-Former: Local-Feature-Aware (L-FA) Transformer,Not Found
+Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features,October 2023
+SocREval: LLMs with the Socratic Method for Reference-free Reasoning Evaluation,Not Found
+StyleAdapter: A Unified Stylized Image Generation Model without Test-Time Fine-Tuning,Not Found
+$\mathrm{BP}(\lambda)$: bias-free online learning via synthetic gradients,Not Found
+Enriching Time Series Representation: Integrating a Noise-Resilient Sampling Strategy with an Efficient Encoder Architecture,Not Found
+Towards Certified Probabilistic Robustness with High Accuracy,September 2023
+MetaTST: Essential Transformer Components for Time Series Analysis,Not Found
+Listen to Motion: Robustly Learning Correlated Audio-Visual Representations,Not Found
+FedHC: Proximal Correction with Hessian and Cosine Correlation for Federated Learning,Not Found
+Reconstruction as Sequence for Efficient Unified Unsupervised Anomaly Detection,Not Found
+Joint Training Does Not Transfer Information between EEG and Image Classifiers,Not Found
+Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes,August 2023
+PatchSynth: a Patch-Text Pre-trained Model,Not Found
+DomainFusion: Generalizing To Unseen Domains with Latent Diffusion Models,Not Found
+PINF: Continuous Normalizing Flows for Physics-Constrained Deep Learning,September 2023
+Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints,"5 October, 2023"
+MetaCloak: Preventing Unauthorized Subject-driven Text-to-image Synthesis Via Meta-learning,"21 November, 2023"
+Physics-aware Hand Object Interaction Denoising,May 2024
+SILC: Improving Vision Language Pretraining with Self-Distillation,"20 October, 2023"
+Balanced Multimodal Learning: An Integrated Framework for Multi-Task Learning in Audio-Visual Fusion,Not Found
+A multi-view latent space learning framework via adaptive graph embedding,Not Found
+Extracting Robust On-Manifold Interactions Encoded by Neural Networks,Not Found
+"LLM Lies: Hallucinations are not Bugs, but Features as  Adversarial Examples","2 October, 2023"
+FedGSE:Gradient-based Sub-model Extraction for Resource-constrained Federated Learning,Not Found
+OccuQuest: Mitigating Occupational Bias for Inclusive Large Language Models,October 2023
+Generalization for Discriminator-Guided Diffusion Models via Strong Duality,Not Found
+Hierarchical-Latent Generative Models are Robust View Generators for Contrastive Representation Learning,Not Found
+Adding 32 Parameters to a LLM can improve fine-tuned classification performance by up to 1.5-6 percentage points,Not Found
+NoiseOut: Learning to Gate Improves Robustness in Deep Neural Networks,Not Found
+Diving into Class-Incremental Learning from Better Balancing Old and New knowledge,Not Found
+DeepHandMesh-lite: Learning personalized hand shape using limited data and weak supervision,Not Found
+Energy Calibration Head: A Plug-In Neural Network Head with Human-like Uncertainty,Not Found
+Cont-GRU: Fully Continuous Gated Recurrent Units for Irregular Time Series,Not Found
+Benchmarking the Robustness of Cross-view Geo-localization Models,Not Found
+MotionDirector: Motion Customization of Text-to-Video Diffusion Models,October 2023
+ARCHITECTURE MATTERS: METAFORMER AND GLOBAL-AWARE CONVOLUTION STREAMING FOR IMAGE RESTORATION,Not Found
+Self-Supervised Deep Visual Stereo Odometry with 3D-Geometric Constraints,Not Found
+GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction,"25 February, 2024"
+Understanding Masked Autoencoders From a Local Contrastive Perspective,"3 October, 2023"
+Enhancing Precision Drug Recommendations via Fine-grained Exploration of Motif Relationships,Not Found
+Degradation-aware Unfolding Knowledge-assist Transformer for Spectral Compressive Imaging,Not Found
+Why SAM finetuning can benefit Out-of-Distribution Detection?,Not Found
+SemSA: Semantic Sparse Attention is hidden in Large Language Models.,Not Found
+Hybrid Retrieval-Augmented Generation for Real-time Composition Assistance,Not Found
+Strided Transformers for Partially-Parallelized Inference,Not Found
+Provably Robust Cost-Sensitive Learning via Randomized Smoothing,Not Found
+KLIP: Keyword-Guided Language-Image Pretraining for Data-Efficient Domain-Specific Image Captioning,Not Found
+Heterogeneity of Regularization between adjacent periods,Not Found
+Optimization Dynamics of Equivariant and Augmented Neural Networks,"23 March, 2023"
+SPFNO: spectral operator learning for PDEs with Dirichlet and Neumann boundary conditions,December 2023
+Linguistically-Inspired and Explainable Demonstration Retrieval for In-Context Learning,Not Found
+Double Momentum Method for Lower-Level Constrained Bilevel Optimization,June 2024
+Understanding and addressing spurious correlation via Neural Tangent Kernels: A spectral bias perspective,Not Found
+Semi-Supervised End-To-End Contrastive Learning For Time Series Classification,"13 October, 2023"
+Boosting Meta-Training with Base Class Information for Few-Shot Learning,March 2024
+Optimized Large Language Models Accurately Identify Recurrence of VT After Ablation from Complex Medical Notes: Will Chart Review Become Obsolete?,Not Found
+ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning,November 2023
+OKR-Agent: An Object and Key Results Driven Agent System with Hierarchical Self-Collaboration and Self-Evaluation,November 2023
+Gauging Learnability in Supervised Fine-tuning Data,Not Found
+HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation,"2 October, 2023"
+Dual Fusion AutoEncoder for Graph Clustering,Not Found
+GNeRV: A Global Embedding Neural Representation For Videos,Not Found
+ENHANCEMENT OF GNN’S EXPRESSIVE POWER VIA RECONSIDERING MODAL LOGIC,Not Found
+Suppressing Overestimation in Q-Learning through Adversarial Behaviors,"9 October, 2023"
+Text-To-Energy: Accelerating Quantum Chemistry Calculations through Enhanced Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron,Not Found
+"PointMLLM: Aligning multi-modality with LLM for point cloud understanding, generation and editing",Not Found
+Stealthy Targeted Backdoor Attack Against Image Captioning,June 2024
+Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition,"19 July, 2024"
+Gazelle: A Multimodal Learning System Robust to Missing Modalities,Not Found
+Manifold Inspired Graph Contrastive Learning,Not Found
+Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings And Nothing Else,October 2023
+FedPop: Federated Population-based Hyperparameter Tuning,"16 August, 2023"
+Neuroexplicit Diffusion Models for Inpainting of Optical Flow Fields,May 2024
+Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information,August 2024
+A Unified Framework for Consistency Generative Modeling,June 2024
+Truthful High Dimensional Sparse Linear Regression,October 2024
+GNN-based Reinforcement Learning Agent for Session-based Recommendation,Not Found
+The Dark Side of Empathy: When Dialogue Systems Face Moral Challenges,Not Found
+LLM2Labels: Zero-shot dataset summarizing and labeling using foundational LLM models,Not Found
+Support Vector-based Shapley Value Estimation for Feature Selection and Explanation,Not Found
+InstructProtein: Aligning Human and Protein Language via Knowledge Instruction,October 2023
+Asymmetrically Decentralized Federated Learning,October 2023
+Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning,"1 October, 2023"
+OneSpike: Ultra-low latency spiking neural networks,Not Found
+NSM4D: Neural Scene Model Based Online 4D Point Cloud Sequence Understanding,October 2023
+Generating Transferable and Stealthy Adversarial Patch via Attention-guided Adversarial Inpainting,"9 August, 2023"
+Adaptive Visual Scene Understanding: Incremental Scene Graph Generation,"2 October, 2023"
+Sequence-SOD: Sequence-aware Spiking Object Detection for Event Cameras,Not Found
+Learning Equi-angular Representations for Online Continual Learning,April 2024
+DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks,"15 June, 2023"
+A Trust Region Approach for Few-Shot Sim-to-Real Reinforcement Learning,Not Found
+Predicated Diffusion: Predicate Logic-Based Attention Guidance for Text-to-Image Diffusion Models,"3 October, 2023"
+VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis,March 2024
+Text-to-3D Generation with Bidirectional Diffusion using both 3D and 2D priors,December 2023
+Are Large Language Models Really Robust to Word-Level Perturbations?,Not Found
+Phi-Former: A Pairwise Hierarchical Approach for Compound-Protein Interaction Prediction,Not Found
+Measuring Value Understanding in Language Models through Discriminator-Critique Gap,Not Found
+Bridging the Domain Gap by Clustering-based Image-Text Graph Matching,Not Found
+Pick-or-Mix: Dynamic Channel Sampling for ConvNets,June 2024
+Masked Pretraining for Multi-Agent Decision Making,Not Found
+Byzantine-Robust Dynamic Weighted Aggregation Framework for Optimal Attack Mitigation in Federated Learning,Not Found
+Conformal Normalization in Recurrent Neural Network of Grid Cells,Not Found
+Taming Mode Collapse in Score Distillation for Text-to-3D Generation,"31 December, 2023"
+Adaptive Offline Data Replay in Offline-to-Online Reinforcement Learning,Not Found
+Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models,"31 October, 2023"
+Overcoming Weak Visual-Textual Alignment for Video Moment Retrieval,Not Found
+UNLEARNING THE UNWANTED DATA FROM A PERSONALIZED RECOMMENDATION MODEL,Not Found
+Prompt-Tuning Decision Transformer with Preference Ranking,May 2023
+The Program Testing Ability of Large Language Models for Code,October 2023
+MG-NeRF: Multimodal Representation Learning for Generalizable NeRF,Not Found
+Diffusion Models as Strong Adversaries,Not Found
+Poor Teaching: Explore and Question Knowledge Distillation under Distribution Shift,Not Found
+PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation,June 2023
+Task-Distributionally Robust Data-Free Meta-Learning,November 2023
+An Attention-based Approach for Bayesian Optimization with Dependencies,Not Found
+"RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models","1 October, 2023"
+Amortising the Gap between Pre-training and Fine-tuning for Video Instance Segmentation,Not Found
+Analyzing Implicit Regularization In Federated Learning,Not Found
+Reverse Chain: A Generic Rule for LLMs to Master Multi-API Planning,"6 October, 2023"
+Test-Time Training for Semantic Segmentation with Output Contrastive Loss,November 2023
+Unsupervised Open-Set Task Adaptation Using a Vision-Language Foundation Model,Not Found
+CAT-LLM: Context-Aware Training enhanced Large Language Models for multi-modal contextual image retrieval,Not Found
+Video-CSR: Complex Video Digest Creation for Visual-Language Models,Not Found
+A2FC: A FEDERATED ADVANTAGE ACTOR-CRITIC LEARNING APPROACH FOR HETEROGENEOUS ACTION SPACES,Not Found
+"Look Ma, No Training! Observation Space Design for Reinforcement Learning",Not Found
+Mining Shallow Layer Representations in Class-Incremental Learning,Not Found
+Causal Effect Estimation with Mixed Latent Confounders and Post-treatment Variables,Not Found
+"ACID: Abstractive, Content-Based IDs for Document Retrieval with Language Models",Not Found
+MindAgent: Emergent Gaming Interaction,"18 September, 2023"
+Multi-Prompt Denoised Self-Training for Open-Vocabulary Model Adaptation,Not Found
+Learning to Prompt Segmentation Foundation Models,"14 March, 2024"
+SAM-guided Unsupervised Domain Adaptation for 3D Segmentation,Not Found
+Adapting Large Language Models for Content Moderation: Pitfalls in Data Engineering and Supervised Fine-tuning,"5 October, 2023"
+LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning,March 2024
+Successor Features for Efficient Multi-Subject Controlled Text Generation,Not Found
+CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction,August 2023
+Scaling Properties For Artificial Neural Network Models of the $\textit{C. elegans}$ Nervous System,Not Found
+JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models,"9 August, 2023"
+Large Language Models can be Guided to Evade AI-generated Text Detection,"18 May, 2023"
+Video-Teller: Enhancing Cross-Modal Generation with Fusion and Decoupling,"7 October, 2023"
+Transitional Uncertainty with Intermediate Neural Gaussian Processes,Not Found
+SAMPLING TO DISTILL: KNOWLEDGE TRANSFER FROM OPEN-WORLD DATA,"31 July, 2023"
+RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds,Not Found
+HyperDisGAN: A Controllable Variety Generative Model Via Hyperplane Distances for Downstream Classifications,Not Found
+MagicRemover: Tuning-free Text-guided Image Inpainting with Diffusion Models,October 2023
+Temporal Repetition Counting with Dynamic Action Queries,Not Found
+Improving Discriminative Multi-Modal Learning with Large-Scale Pre-Trained Models,October 2023
+BOT: Bootstrapped Optimal Transport for Multi-label Noise Learning,Not Found
+Boosting Self-Supervised Graph Representation Learning via Anchor-Neighborhood Alignment and Isotropic Constraints,Not Found
+Multi-Resolution Active Learning of Fourier Neural Operators,"29 September, 2023"
+Quasi-Recurrent Gist Attention: Efficiently Modeling Long Context in Large Language Model,Not Found
+How Language Models Learn Context-Free Grammars,October 2025
+LLM-Rec: Personalized Recommendation via Prompting Large Language Models,"24 July, 2023"
+Mask Models are Token Level Contrastive Learners,Not Found
+Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism,"28 May, 2023"
+MILE: Mutual Information LogDet Estimator,Not Found
+From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning,"30 September, 2023"
+Theory-of-Mind Enhanced Dialogue Generation in Situated Contexts,Not Found
+Operator-theoretic Implicit Neural Representation,Not Found
+ResPrompt: Residual Connection Prompting Advances Multi-Step Reasoning in Large Language Models,"7 October, 2023"
+DAVIS: High-Quality Audio-Visual Separation with Generative Diffusion Models,Not Found
+Improving Private Training via In-distribution Public Data Synthesis and Generalization,Not Found
+Learning Communication-Efficient Optimizers,"30 July, 2025"
+A Reinforcement Learning Approach to Effective Forecasting of Pediatric Hypoglycemia in Diabetes I Patients: an extended de Bruijn Graph,Not Found
+Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design,"3 July, 2024"
+3D Morphable Master Face Generation: Towards Controllable Wolf Attacks against 2D and 3D Face Recognition Systems,Not Found
+Learning Riemannian Metrics for Interpolating Animations,Not Found
+Measuring Local and Shuffled Privacy of Gradient Randomized Response,Not Found
+Neural scaling laws for phenotypic drug discovery,September 2023
+LoFT: Local Proxy Fine-tuning Improves Transferability to Large Language Model Attacks,"2 October, 2023"
+PQ-VAE: Learning Hierarchical Discrete Representations with Progressive Quantization,Not Found
+Culture in Artificial Intelligence: A Literature Review & Proposal,Not Found
+Understanding the Approximation Gap of Neural Networks,Not Found
+Federated Learning with a Single Shared Image,June 2024
+Z-score Normalized SAC Plus Behavioural Cloning for Offline Reinforcement Learning,Not Found
+Gradient-norm Constrained Algorithm on Offline and Online Learning,Not Found
+Instance-aware 3D Semantic Segmentation powered by Shape Reconstruction and Classification,Not Found
+Learned Visual Features to Textual Explanations,Not Found
+ZeroNVS: Zero-shot 360-degree View Synthesis from a Single Real Image,Not Found
+Less is More: Toward Zero-Shot Local Scene Graph Generation via Foundation Models,October 2023
+Multitask Image-to-Image Diffusion Models with Fine-Grained Control,Not Found
+Cross-Task Gradient Harmonization for Meta-Learning,Not Found
+Federated Learning with Differential Privacy for End-to-End Speech Recognition,Not Found
+Learning Multi-Modal Representation Alignments from Noisy Data-Pairs,Not Found
+"FENNs: A Resource-Efficient, Adaptive, Privacy-Preserving Decentralized Learning Framework",Not Found
+Towards Controllable Diffusion Models via Training-Phase Guided Exploration,Not Found
+Diffusion-based Data Generation for Out-of-Distribution Object Detection,Not Found
+Tabular Deep-SMOTE: A supervised autoencoder-based minority-oversampling technique for class-imbalanced tabular classification,Not Found
+Fast Explanation of RBF-Kernel SVM Models Using Activation Patterns,Not Found
+Hindsight-DICE: Stable Credit Assignment for Deep Reinforcement Learning,"21 July, 2023"
+DiffImpute: Tabular Data Imputation With Denoising Diffusion Probabilistic Model,March 2024
+Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models,March 2023
+Fooling Contrastive Language-Image Pre-Training with CLIPMasterPrints,"7 July, 2023"
+Make Small Data Great Again: Learning from Partially Annotated Data via Policy Gradient for Multi-Label Classification Tasks,Not Found
+xxx,September 2025
+Conditional variational autoencoder for vision-language models,Not Found
+Navigating the Impending Arms Race between Attacks and Defenses in LLMs,Not Found
+Retrosynthesis Prediction via Search in (Hyper) Graph,February 2024
+Comfetch: Federated Learning of Large Networks on Constrained Clients via Sketching,"17 September, 2021"
+Test Error Guarantees for Batch-normalized two-layer ReLU Networks Trained with Gradient Descent,Not Found
+POI-based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph,Not Found
+Fast Unsupervised Deep Outlier Model Selection with Hypernetworks,"19 July, 2023"
+Delve into Image Style Diffusion Towards Schrödinger Bridge Problem,Not Found
+Reasoning-Enhanced Object-Centric Learning for Videos,"22 March, 2024"
+"Learning then Leveraging Structures Help with Complex, Compositional, Causal Sequential Tasks in Inverse Reinforcement Learning",Not Found
+Advancing Vision Transformers with Group-Mix Attention,November 2023
+Soft Convex Quantization: Revisiting Vector Quantization with Convex Optimization,October 2023
+Optimization and Generalizability: Fair Benchmarking for Stochastic Algorithms,Not Found
+PAPM: A Physics-aware Proxy Model for Process Systems,July 2024
+Active Probabilistic Clustering,Not Found
+Multi-Group Tri-plane Based Local Occupancy Estimation for Object Grasping,Not Found
+IMAST: Importance-Aware Statistical Test for Transformer Interpretability Evaluation,Not Found
+STARformer: STructural Attention tRansformer for Long-term Time Series Forecasting,Not Found
+RIME: Robust Preference-based Reinforcement Learning with Noisy Human Preferences,Not Found
+VTranM: Vision Transformer Explainability with Vector Transformations Measurement,Not Found
+MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion,"23 October, 2023"
+Enable Quantum Graph Neural Networks on a Single Qubits,Not Found
+Learning within Sleeping: A Brain-Inspired Bayesian Continual Learning Framework,Not Found
+TETA: Temporal-Enhanced Text-to-Audio Generation,Not Found
+Information Theoretical Study on Neural Learning Processes,Not Found
+Label Privacy Source Coding in Vertical Federated Learning,Not Found
+Dissecting Causal Biases,October 2023
+Making Multimodal Generation Easier: When Diffusion Models Meet LLMS,Not Found
+GraphText: Graph Learning in Text Space,Not Found
+Predict-then-Optimize  via Learning to Optimize from Features,Not Found
+Dual Diffusion Model for One-Shot High-Fidelity Talking Head Generation,Not Found
+PROTEIN DESIGNER BASED ON SEQUENCE PROFILE USING ULTRAFAST SHAPE RECOGNITION,Not Found
+SimSCOOD: Systematic Analysis of Out-of-Distribution Generalization in Fine-tuned Source Code Models,"10 October, 2022"
+Formally Specifying the High-Level Behavior of LLM-Based Agents,"12 October, 2023"
+SNN-LPCG: Spiking Neural Networks with Local Plasticity Context Gating for Lifelong Learning,Not Found
+Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning,June 2025
+Vision-based Discovery of Nonlinear Dynamics for 3D Moving Target,April 2024
+Slightly Harmonizing Certified Robust Radius and Accuracy,Not Found
+XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners,"9 October, 2023"
+"POUTA - Produce once, utilize twice for anomaly detection",Not Found
+Align after Pre-train: Improving Multilingual Generative Models with Cross-lingual Alignment,Not Found
+Vicinal Assessment of Model Generalization,June 2024
+CARD: Certifiable Reweighting for Single Domain Generalization Object Detection,Not Found
+Individual/Joint Deblurring and Low-Light Image Enhancement in One Go via Unsupervised Deblurring Paradigm,Not Found
+Neural Priority Queues for Graph Neural Networks (GNNs),Not Found
+Big Picture Thinking: Enhance Multi-Agent Imitation Learning through Global Dependencies,Not Found
+Physics-informed neural networks with unknown measurement noise,"28 November, 2022"
+On Compositional Generalization in Language Models,June 2025
+Recovery of Training Data from Overparameterized Autoencoders: An Inverse Problem Perspective,Not Found
+SignKD: Multi-modal Hierarchical Knowledge Distillation for Continuous Sign Language Recognition,Not Found
+From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?,Not Found
+Noises are Transferable - An Empirical Study on Heterogeneous Domain Adaptation,Not Found
+Masked Diffusion Models are Fast Distribution Learners,"20 June, 2023"
+REDUCR: Robust Data Downsampling Using Class Priority Reweighting,"1 December, 2023"
+P+: Extended Textual Conditioning in Text-to-Image Generation,"16 March, 2023"
+SELF-TAILORING PROMPTS FOR PARAMETER EFFICIENT TUNING SPEECH RECOGNITION,Not Found
+Reinforcement Learning with Fine-grained Reward for Controllable Text Generation,Not Found
+WI3D: Weakly Incremental 3D Detection via Visual Prompts,Not Found
+Rethinking Multi-domain Generalization with A General Learning Objective,"29 February, 2024"
+Reinforcement Learning with Extreme Minimum Distribution,Not Found
+Temporally Equivariant Contrastive Learning for Disease Progression,Not Found
+Pre-Training and Fine-Tuning Image Super-Resolution Models for Efficient Video Super-Resolution,Not Found
+"A Unified Concept-Based System for Local, Global, and Misclassification Explanations","6 June, 2023"
+BiTGNN: prediction of drug-target interactions based on bidirectional transformer and graph neural network on heterogeneous graph,Not Found
+Efficient Multi-Fidelity NAS with Zero-Cost Proxy-Guided Local Search,Not Found
+Learning Graph Representation for Model Ensemble,Not Found
+End-to-End Spatio-Temporal Action Localisation with Video Transformers,April 2023
+NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset,"12 April, 2024"
+TCL-VS: Temporal Contrastive Learning for Self-Supervised Video Summarization,Not Found
+Explainable Multi-Objective Model Selection for Time Series Forecasting,Not Found
+CLIP Facial Expression Recognition: Balancing Precision and Generalization,Not Found
+Language Guided Interpretable Image Recognition via Manifold Alignment,Not Found
+SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation,"9 October, 2023"
+YOLOV6: A SINGLE-STAGE OBJECT DETECTION FRAMEWORK FOR INDUSTRIAL APPLICATIONS,September 2022
+EMU: EFFICIENT NEGATIVE SAMPLE GENERATION METHOD FOR KNOWLEDGE GRAPH LINK PREDICTION,Not Found
+Free-style and Fast 3D Portrait Synthesis,Not Found
+Retrieval-augmented Text-to-3D Generation,November 2024
+Convolution on Your 12× Wide Feature: A ConvNet with Nested Design,Not Found
+Amazing Combinatorial Creation: Acceptable Swap-Sampling for Combinatorial Text-to-Image Generation,Not Found
+EditHOI: A framework for HOI image editing with self-generated skeleton guidance,Not Found
+Bandwidth Selection for Gaussian Kernel Ridge Regression via Jacobian Control,"24 May, 2022"
+SMAFace: Sample Mining Guided Adaptive Loss for Face Recognition,Not Found
+LAVITA: Latent Video Diffusion Models with Spatio-temporal Transformers,Not Found
+Beyond Conservatism: Diffusion Policies in Offline Multi-agent Reinforcement Learning,July 2023
+CAT-Seg: Cost Aggregation for Open-vocabulary Semantic Segmentation,"21 March, 2023"
+Explaining How a Neural Network Play the Go Game and Let People Learn,October 2023
+On Function-Coupled Watermarks for Deep Neural Networks,"8 February, 2023"
+MST-GNN: Graph Neural Network with Multi-Granularity in Space and Time for Traffic Prediction,Not Found
+Addressing Covariate Shifts with Influence Aware Energy Regularization,Not Found
+MacDC: Masking-augmented Collaborative Domain Congregation for Multi-target Domain Adaptation in Semantic Segmentation,Not Found
+Lightweight In-Context Tuning for Multimodal Unified Models,October 2023
+An Intrinsic Dimension Perspective of Transformers for Sequential Modeling,Not Found
+Efficient Link Prediction via GNN Layers Induced by Negative Sampling,"14 October, 2023"
+3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features,November 2023
+DAGCN: Distance-based and Aspect-oriented Graph Convolutional Network for Aspect-based Sentiment Analysis,Not Found
+Graph Decision Transformer,"8 August, 2025"
+FutureDD: Planning in POMDP with Encoded Future Dynamics,Not Found
+FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving,"2 August, 2023"
+SuperSNN: Training Spiking Neural Networks with Knowledge from Artificial Neural Networks,Not Found
+Unmasking Transformers: A Theoretical Approach to Data Recovery via Attention Weights,October 2023
+Sequential Indeterminate Probability Theory for Multivariate Time Series Forecasting,Not Found
+Learning with Counterfactual Explanations for Radiology Report Generation,July 2024
+Low rank field-weighted factorization machines for low latency item recommendation,August 2024
+Hierarchy-aware Biased Bound Loss Function for Hierarchical Text Classification,Not Found
+Characterizing Training Dynamics for Finite-width Deep Neural Networks,Not Found
+SemanticBoost: Elevating Motion Generation with Augmented Textual Cues,"31 October, 2023"
+Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs,"1 October, 2023"
+How Powerful are Graph Neural Networks with Random Weights?,Not Found
+A Critical Look at Classic Test-Time Adaptation Methods in Semantic Segmentation,Not Found
+Learning the Unlearnable: Adversarial Augmentations Suppress Unlearnable Example Attacks,March 2023
+Chat-UniVi: A Unified Vision-Language Model for Image and Video Understanding,Not Found
+On the Role of Momentum in the Implicit Bias of Gradient Descent for Diagonal Linear Networks,Not Found
+DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection,"2 October, 2023"
+TOAST: Transfer Learning via Top-Down Attention Steering,Not Found
+Image Compression Is an Effective Objective for Visual Representation Learning,Not Found
+Adversarial Instance Attacks for Interactions between Human and Object,Not Found
+MVoice: Multilingual Unified Voice Generation With Discrete Representation at Scale,Not Found
+Multi-agent Trajectory Prediction with Scalable Diffusion Transformer,Not Found
+Dual Grained Quantization: Efficient Fine-grained Quantization for LLM,October 2023
+Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness,"30 August, 2023"
+Look-Ahead Selective Plasticity for Continual Learning of Visual Tasks,November 2023
+Minimum Edit Distance Training for Conditional Language Generation Models,Not Found
+Uncovering Time-Invariant Latent Representation for Brain Disorder Diagnosis via Self-Supervised Learning,Not Found
+HYBRID GRANULARITY DISTRIBUTION ESTIMATION FOR FEW-SHOT LEARNING: STATISTICS TRANSFER FROM CATEGORIES AND INSTANCES,Not Found
+Enabling Model Parallelism for Neural Networks Based on Decoupled Supervised Contrastive Learning,Not Found
+Point Cloud Completion with Landau Distribution: A Probabilistic View,Not Found
+CFASL: Composite Factor-Aligned Symmetry Learning for Disentanglement in Variational Autoencoder,"16 January, 2024"
+Diffusion Models for Imperceptible and Transferable Adversarial Attack,"14 May, 2023"
+DivKnowQA: Verifying the Reasoning Ability of LLM Through Open-Domain Question Answering Over Knowledge Base and Text,Not Found
+Synergistic Classification and Unknown Discrimination for Open Set Recognition,Not Found
+Invariance as A Necessary Condition for Online Continual Learning,Not Found
+FedBug: A Bottom-Up Gradual Unfreezing Framework for Federated Learning With Client Drift,Not Found
+SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models,Not Found
+Learning Graph Representations in Normed Spaces,Not Found
+"The Closer, The Better: Towards Better Representation Learning for Few-Shot Class-Incremental Learning",October 2024
+FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations,"2 February, 2023"
+Exploring Efficient Foundational Multi-modal Models for Video Summarization,October 2024
+Maximum Margin Based Activation Clipping for Post-Training Overfitting Mitigation in DNN Classifiers,Not Found
+Exploring the Effectiveness of Diffusion Models in One-Shot Federated Learning,Not Found
+MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens,"3 October, 2023"
+Efficient Low-Rank Diffusion Model Training for Text-to-Image Generation,Not Found
+QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources,"10 October, 2023"
+vFedSec: Efficient Secure Aggregation for Vertical Federated Learning via Secure Layer,Not Found
+Personalization Mitigates the Perils of Local SGD for Heterogeneous Distributed Learning,Not Found
+Overcoming Generic Knowledge Loss with Selective Parameter Update,"23 August, 2023"
+LMDX: Language Model-based Document Information Extraction and Localization,"19 September, 2023"
+Grounding Everything: Emerging Localization Properties in Vision-Language Transformers,"1 December, 2023"
+PatchCraft: Learning Optimized Image Patch for Enhanced Visual Attention of CLIP,Not Found
+Delving Deep into Sim2Real Transformation: Maximizing Impact of Synthetic Data in Training,Not Found
+Atoms as Words: A Novel Approach to Deciphering Material Properties using NLP-inspired Machine Learning on Crystallographic Information Files (CIFs),November 2023
+LegoNet: Piecing Together and Breaking Apart Sub-Networks for Scalable Multi-task Learning,Not Found
+Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning,"19 September, 2023"
+A Generative Augmentation Framework for Contrastive Learning,Not Found
+On the Convergence of AdaGrad-Norm for Non-Convex Optimization,Not Found
+E-MCTS: Deep Exploration by Planning with Epistemic Uncertainty,Not Found
+CPLLM: Clinical Prediction with Large Language Models,"20 September, 2023"
+Linear Indexed Minimum Empirical Divergence Algorithms,May 2024
+Everyone Counts: Fair and Accurate Heterogeneous Federated Learning with Resource-Adaptive Model Modulation,Not Found
+"Certainty In, Certainty Out: REVQCs for Quantum Machine Learning",October 2023
+Improved Regret Bounds in Stochastic Contextual Bandits with Graph Feedback,Not Found
+Training-free Linear Image Inversion via Flows,"25 September, 2023"
+Semantic-Guided Consistency and Discrimination for Siamese Representation Learning,Not Found
+MaskCLR: Multi-Level Contrastive Learning for Robust Skeletal Action Recognition,Not Found
+Memorization for Good: Encryption with Autoregressive Language Models,"15 May, 2023"
+BioCLIP: A Vision Foundation Model for the Tree of Life,"30 November, 2023"
+Desigen: A Pipeline for Controllable Design Template Generation,March 2024
+Maximizing LLMs Potential: Enhancing Mongolian Chinese Machine Translation with RL Agents and Adversarial Multi Knowledge Distillation,Not Found
+RayE-Sub: Countering Subgraph Degradation via Perfect Reconstruction,Not Found
+FedDecay: Adapting to Data Heterogeneity in Federated Learning With Gradient Decay,Not Found
+SubDiff: Subgraph Latent Diffusion Model,Not Found
+Enhancing Vision-Language Prompt Learning through Image-Text Distribution Alignment,Not Found
+"DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models",Not Found
+RGB-Event MOT: A Cross-Modal Benchmark for Multi-Object Tracking,Not Found
+Dissecting Zero-Shot Visual Reasoning Capabilities in Vision and Language Models,Not Found
+Sequential Flow Straightening for Generative Modeling,"9 February, 2024"
+From Indeterminacy to Determinacy: Augmenting Logical Reasoning Capabilities with Large Language Models,Not Found
+NeuroSURF: Neural Uncertainty-aware Robust Surface Reconstruction,Not Found
+FMM-Head: Enhancing Autoencoder-based ECG anomaly detection with prior knowledge,October 2023
+Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting,"30 June, 2023"
+Enhancing Vision-Language Model with Unmasked Token Alignment at Scale,Not Found
+Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection,Not Found
+Towards Unified and Effective Domain Generalization,October 2023
+Attention Prompt Tuning,July 2025
+Adaptive Slot Attention: Object Discovery with Dynamic Slot Number,June 2024
+Noise-Aware Algorithm for Heterogeneous Differentially Private Federated Learning,"5 June, 2024"
+Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation,"27 September, 2023"
+Identifiable Representation Learning via Architecture Equivariances,Not Found
+Generative Pretrained Embedding and Hierarchical Representation to Unlock Human Rhythm in Activities of Daily Living,Not Found
+NeRT: Implicit Neural Representation for Time Series,Not Found
+PETNet - Coincident Particle Event Detection using Spiking Neural Networks,April 2025
+Symmetry-preserving graph attention network to solve routing problems at multiple resolutions,"24 October, 2023"
+Emergent Mixture-of-Experts: Can Dense Pre-trained Transformers Benefit from Emergent Modular Structures?,Not Found
+Hierarchical Concept Discovery Models: A Concept Pyramid Scheme,Not Found
+Detailed 3D Face Reconstruction in Full Pose Range,Not Found
+CurrMask: Learning Versatile Skills with Automatic Masking Curricula,Not Found
+Ratio-Residual Diffusion Model for Image Restoration,Not Found
+Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection,"28 February, 2023"
+TuneMV3D: Tuning Foundational Image Diffusion Models for Generalizable and Scalable Multiview 3D Generation,Not Found
+Reward-Free Exploration by Conditional Divergence Maximization,Not Found
+NewTime: Numerically Multi-Scaled Embedding for Large-Scale Time Series Pretraining,Not Found
+Efficient Discrete Physics-informed Neural Networks for Solving Evolutionary Partial Differential Equations,Not Found
+Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness,Not Found
+Skill-Conditioned Policy Optimization with Successor Features Representations,Not Found
+Heterogeneous Domain Generalization for Single-Source Cross-Dataset Person ReID: An Adaptive Adversarial Augmentation Approach,Not Found
+Deep Regression Representation Learning with Topology,"22 April, 2024"
+Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities,"25 January, 2024"
+IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models,April 2024
+Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent,"14 December, 2023"
+NF-ICP: Neural Field ICP for Robust 3D Human Registration,Not Found
+Cognitive Modeling for Human-Robot Value Soft Alignment,Not Found
+CAST: Clustering self-Attention using Surrogate Tokens for efficient transformers,February 2024
+A Teacher-Guided Framework for Graph Representation Learning,Not Found
+Autoencoders with Intrinsic Dimension Constraints for Learning Low Dimensional Image Representations,April 2023
+On Convergence Rates of Deep Nonparametric Regression under Covariate Shift,Not Found
+Overcoming Data Inequality across Domains with Semi-Supervised Domain Generalization,March 2024
+RoBERT: Low-Cost Bi-Directional Sequence Model for Flexible Robot Behavior Control,Not Found
+Easing Non-IID Pain with Dual Relaxations in Federated Learning: SimFAFL redeems an enhanced efficacy,Not Found
+Drag View: Generalizable Novel View Synthesis with Unposed Imagery,Not Found
+Meta Domain Reweighting for Partially Known Out-of-Distribution Generalization,Not Found
+Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration,"30 September, 2023"
+Provable Dynamic Regularization Calibration,Not Found
+Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need,"13 March, 2023"
+ViTKD: Feature-based Knowledge Distillation for Vision Transformers,Not Found
+Cognition-Supervised Learning: Contrasting EEG Signals and Visual Stimuli For Saliency Detection,Not Found
+MoleSG: A Multi-Modality Molecular Pre-training Framework by Joint Non-overlapping Masked Reconstruction of SMILES and Graph,Not Found
+Detecting Change Points in Time Series via Curvatures of Representation Trajectories,Not Found
+Unsupervised combinatorial optimization under complex conditions: Principled objectives and incremental greedy derandomization,Not Found
+Learning SO(3)-Invariant Correspondence via Point-wise Local Shape Transform,Not Found
+Differential evolving to the optimal neural network controller,Not Found
+Connection Strength-Based Optimization for Multi-Task Learning,Not Found
+Visual Grounding Helps Learn Word Meanings in Low-Data Regimes,"19 October, 2023"
+Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond,"6 September, 2023"
+Entropy-enhanced context-aware event prediction based on ontology and external knowledge,Not Found
+Fairly Explaining Monotonic Models: a New Shapley Value,Not Found
+Preprocessing Enhanced Image Compression for Machine Vision,June 2022
+Learning Forward Compatible Representation in Class Incremental Learning by Increasing Effective Rank,Not Found
+FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning and Federated LLMs,"8 June, 2023"
+Residual Denoising Diffusion Models,May 2025
+Parameter-Efficient Fine-Tuning via Partially Decomposable Loss Analysis and Sharing,Not Found
+Learning Invariant Graph Representations via Virtual Environment Inference,Not Found
+EventCLIP: Adapting CLIP for Event-based Object Recognition,"10 June, 2023"
+Improving Multi-task Learning via Seeking Task-based Flat Regions,Not Found
+Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances,March 2023
+Maximum Entropy On-Policy Actor-Critic via Entropy Advantage Estimation,July 2024
+Semantic Decoupled Distillation,August 2025
+LatticeGen: A Cooperative Framework Which Hides Generated Text in A Lattice For Privacy-Aware Generation on Cloud,"29 September, 2023"
+Adaptive Softmax Trees for many-class classification,Not Found
+ASPEST: Bridging the Gap Between Active Learning and Selective Prediction,"7 April, 2023"
+From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions,Not Found
+Communication Efficient Federated Representation Learning,"28 September, 2021"
+Relative Margin for Contrastive Learning,Not Found
+CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning,"15 November, 2022"
+Overcoming Alignment Constraints: G-Patch for Practical Adversarial Attacks on ViTs,Not Found
+SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing,"3 July, 2024"
+Instruction-following Evaluation through Verbalizer Manipulation,"19 July, 2023"
+Splatting-based Motion Context Encoding for Deep Video Compression,Not Found
+Analysis of Task Transferability in Large Pre-trained Classifiers,Not Found
+Batch Reinforcement Active Learning with TrustSet Extraction,Not Found
+Unsupervised Representation Learning to Aid Semi-Supervised Meta Learning,October 2023
+A Discrete and Variational Approach to Speech Representation Learning,Not Found
+SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers,October 2023
+AV-CPL: Continuous Pseudo-Labeling for Audio-Visual Speech Recognition,September 2023
+FedMef: Towards Memory-efficient Federated Dynamic Pruning,March 2024
+Online Continual Learning Without the Storage Constraint,"16 May, 2023"
+Meta-Tasks: Improving Robustness in Few-Shot Classification with Unsupervised and Semi-Supervised Learning,Not Found
+generative adversarial network with hierarchical semantic prompt constrainting clip for high-quality text-to-image synthesis,Not Found
+Uniform Approximation of Equivariant/Invariant Neural Networks,Not Found
+From Fake to Real: Pretraining on Balanced Synthetic Images to Prevent Bias,Not Found
+Correcting Flaws in Common Disentanglement Metrics,April 2023
+"Ricci Curvature, Robustness, and Causal Inference on Networked Data",Not Found
+StyleCL : Latent Dictionary Learning for StyleGAN Without Forgetting,Not Found
+GSVA: Gradient-Based Sparse Voxel Attacks \\ on Point Cloud Object Detection,Not Found
+Towards Environmental Robustness in Deep Reinforcement Learning,June 2025
+GM-DDPM: Denoising diffusion probabilistic models with Gaussian Mixture Noise,Not Found
+Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation,September 2023
+Hybrid Representation Learning Via Epistemic Graph,Not Found
+Universal Metric Learning with Parameter-Efficient Transfer Learning,Not Found
+Adapting Cross-View Localization to New Areas without Ground Truth Positions,Not Found
+SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching,"26 October, 2023"
+Hierarchical Long-tailed Classification with Visual Language Models,Not Found
+Set Features for Anomaly Detection,"24 November, 2023"
+MaskedKD: Efficient Distillation of Vision Transformers with Masked Images,Not Found
+Unsupervised Data Generation for Offline Reinforcement Learning: A Perspective from Model,June 2025
+Gradient Constrained Sharpness-aware Prompt Learning for Vision-Language Models,"14 September, 2023"
+Information based explanation methods for deep learning agents -- with applications on large open-source chess models,September 2023
+Understanding Calibration Transfer in Knowledge Distillation,Not Found
+FinDA: A New Dataset for Query-focused and Trustworthy Document Analysis Generation,Not Found
+Hyperbolic Visual-Semantic Alignment for Structural Visual Recognition,Not Found
+Partitioning-Guided K-Means: Extreme Empty Cluster Resolution for Extreme Model Compression,June 2023
+Learning Informative Latent Representation for Quantum State Tomography,"30 September, 2023"
+Harmonized Learning with Concurrent Arbitration: A Brain-inspired Motion Planning Approach,Not Found
+NDIM: Neuronal Diversity Inspired Model for Multisensory Emotion Recognition,Not Found
+InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions,May 2023
+Tracking the Change of Knowledge Through Layers in Neural Networks,Not Found
+Biased Binary Attribute Classifiers Ignore the Majority Classes,March 2024
+Motion PointNet: Solving Dynamic Capture in Point Cloud Video Human Action,Not Found
+R2D2-Net: Shrinking Bayesian Neural Networks via R2D2 Prior,Not Found
+Probabilistic Neural Transfer Function Estimation with Bayesian System Identification,"11 August, 2023"
+Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting,"12 October, 2023"
+P4Q: Learning to Prompt for Quantization in Visual-language Models,September 2024
+Finite Element Operator Learning for Solving Parametric PDEs without Labeled Data,Not Found
+GSINA: Improving Graph Invariant Learning via Graph Sinkhorn Attention,February 2024
+How to estimate the emotions hidden behind spatio-temporal,Not Found
+Dreamix: Video Diffusion Models are General Video Editors,February 2023
+Activation Function Matters in Graph Transformers,Not Found
+A PERSPECTIVE OF IMPROPER DYNAMICS ON OFFLINE MODEL-BASED PLANNING,Not Found
+What Large Language Models Bring to Text-oriented VQA?,Not Found
+Hybrid Defense Strategy for Face Recognition Model Inversion Attack,Not Found
+A Study of Black-Box Attacks Against Robust Federated Learning,Not Found
+AdaProj: Adaptively Scaled Angular Margin Subspace Projections for Anomaly Detection with Auxiliary Classification Tasks,Not Found
+Light-Implicit Uncalibrated Photometric Stereo Network With Fourier Embedding,Not Found
+A Hierarchical Reinforcement Learning Based Optimization FrameWork for Large Scale Storage Location Assignment Problem,Not Found
+Learning Pseudo 3D Guidance for View-consistent 3D Texturing with 2D Diffusion,Not Found
+BSPA: Exploring Black-box Stealthy Prompt Attacks against Image Generators,February 2024
+Solving Robust MDPs through No-Regret Dynamics,"30 May, 2023"
+"Large Language Models can $\textit{Share}$ Images, Too!",Not Found
+Visual Category Discovery via Linguistic Anchoring,Not Found
+Repositioning the Subject within Image,"30 January, 2024"
+LISA: Reasoning Segmentation via Large Language Model,"1 August, 2023"
+Enhancing Graph Tasks with a Dual-Block Graph Transformer: A Synergistic Approach to Local and Global Attention,Not Found
+SCREWS: A Modular Framework for Reasoning with Revisions,September 2023
+Localized Linear Temporal Dynamics for Self-supervised Skeleton Action Recognition,Not Found
+How do agents invest strategically under persistent improvement?,Not Found
+Rethinking the Number of Shots in Robust Model-Agnostic Meta-Learning,November 2022
+Spade : Training-Free Improvement of Spatial Fidelity in Text-to-Image Generation,Not Found
+PDC-Net: Probability Density Cloud Representations of Proteins for Mutation Effect Prediction,Not Found
+Vector-valued Representation is the Key: A Study on Disentanglement and Compositional Generalization,Not Found
+Model-Based Offline Reinforcement Learning with Conservative Bidirectional Rollouts,Not Found
+Bi-directional Deformation for Parameterization of Neural Implicit Surfaces,Not Found
+Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning,June 2023
+Local Expert Diffusion Models for Efficient Training in Denoising Diffusion Probabilistic Models,Not Found
+Towards More Accurate Diffusion Model Acceleration with A Timestep Aligner,Not Found
+Advancing Beyond Identification: Multi-bit Watermark for Large Language Models,"31 July, 2023"
+Contrastive Learning to rank with Weak Supervision,Not Found
+CTP: A Causal Interpretable Model for Non-Communicable Disease Progression Prediction,Not Found
+Debias the Training of Diffusion Models,Not Found
+UniPose: Detecting Any Keypoints,Not Found
+STFormer : Spatial Temporal Spiking Transformer,Not Found
+Multi-Task Learning with Hypernetworks and Task Metadata,Not Found
+FIAT: Fusing learning paradigms with Instruction-Accelerated Tuning,"8 September, 2023"
+Bridge-TTS: Text-to-Speech Synthesis with Schrodinger Bridge,Not Found
+Sequence-Level Certainty Reduces Hallucination In Knowledge-Grounded Dialogue Generation,"28 October, 2023"
+Silencer: Pruning-aware Backdoor Defense for Decentralized Federated Learning,Not Found
+Rethinking Effectiveness of Unsupervised Domain Adaptation Methods,Not Found
+Zero-shot Visual Recognition via Pairwise Attribute Contrasting,Not Found
+WinSyn: A High Resolution Testbed for Synthetic Data,"9 October, 2023"
+Knowledge Distillation for Predicting Varying Environment Maps from Single Images,Not Found
+Predicate-Argument Relations in the Human Brain,Not Found
+Learning from Fragmentary Multivariate Time Series Data with Scalable Numerical Embedding,Not Found
+When Self-Supervised Learning Meets Unbounded Pseudo-Label Generation,Not Found
+SMOOT: Saliency Guided Mask Optimized Online Training,"1 October, 2023"
+Can Neural Networks Improve Classical Optimization of Inverse Problems?,Not Found
+Pruning-as-Reconstruct: Masked Autoencoders are Efficient Importance Indicators,Not Found
+ConceptHash: Interpretable Fine-Grained Hashing with Concept Discovery,June 2024
+Are Graph Neural Networks Optimal Approximation Algorithms?,Not Found
+De novo Drug Design using Reinforcement Learning with Dynamic Vocabulary,Not Found
+Adversarial Robust Representation Learning via Contrast and Alignment,Not Found
+Observation-Guided Diffusion Probabilistic Models,"6 October, 2023"
+VEGA: Visual Expression Guidance for Referring Expression Segmentation,Not Found
+A Study of Unsupervised Evaluation Metrics for Practical and Automatic Domain Adaptation,"1 August, 2023"
+Rethinking One-vs-the-Rest Loss for Instance-dependent Complementary Label Learning,Not Found
+Multi-conditioned Graph Diffusion for Neural Architecture Search,"9 March, 2024"
+RRescue: Ranking LLM Responses to Enhance Reasoning Over Context,Not Found
+Can Pre-trained Networks Detect Familiar Out-of-Distribution Data?,Not Found
+OceanGPT:  A Large Language Model for Ocean  Science Tasks,"3 October, 2023"
+Reverse Stable Diffusion: What prompt was used to generate this image?,Not Found
+Structured Pruning Adapters,October 2025
+Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models,"6 June, 2023"
+DGTAT: DECOUPLED GRAPH TRIPLE ATTENTION NETWORKS,Not Found
+RegCLIP: A Label-Efficient Coarse-to-Fine Learner for Ordinal Regression,Not Found
+Towards Complex-query Referring Image Segmentation: A Novel Benchmark,September 2023
+3D Human Reconstruction in the Wild with Synthetic Data Using Generative Models,Not Found
+DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation using Limited Data,"25 June, 2023"
+SEFAR: SparsE-FeAture-based Regularization for Fine-Tuning on Limited Downstream Data,Not Found
+SIEVE: Multimodal Dataset Pruning using Image-Captioning Models,"3 October, 2023"
+Dataset Distillation in Latent Space,November 2023
+Modeling Knowledge as Functionals for Knowledge Reasoning,Not Found
+Robust Video Perception by Seeing Motion,December 2022
+Human Pose Estimation via Parse Graph of Body Structure,Not Found
+EFFL: Egalitarian Fairness in Federated Learning for Mitigating Matthew Effect,Not Found
+Implicit Reinforcement Learning Properties in Supervised Transformer-based Object Detection,Not Found
+From Cluster Assumption to Graph Convolution: Graph-based Semi-Supervised Learning Revisited,"24 September, 2023"
+Proactive Learning: Search-augmented learning using Pre-trained Models,Not Found
+Efficient Offline Preference-Based Reinforcement Learning with Transition-Dependent Discounting,Not Found
+Mini-batch Submodular Maximization,"22 January, 2024"
+Why do Features of Multi-Layer Perceptrons Condense in Training?,Not Found
+Simplifying and Stabilizing Model Selection in Unsupervised Domain Adaptation,Not Found
+Tree-as-a-Prompt: Boosting Black-Box Large Language Models on Few-Shot Classification of Tabular Data,Not Found
+Revisiting Few-Shot Object Detection using Vision-Language Models,Not Found
+Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition,Not Found
+"ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy","15 November, 2023"
+PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor,"30 March, 2023"
+Knowledge Storage and Extraction in Language Models (Part A),"25 September, 2023"
+Knowledge Manipulation in Language Models (Part B),Not Found
+LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models,Not Found
+LangNav: Language as a Perceptual Representation for Navigation,"11 October, 2023"
+Proto-CLIP: A Vision-Language Prototype Alignment Approach for Few-Shot Learning,Not Found
+Language Models as Black-Box Optimizers for Vision-Language Models,October 2024
+Covariance-corrected Whitening Alleviates Network Degeneration on Imbalanced Classification,August 2024
+Leveraging Temporal Graph Networks Using Module Decoupling,"4 October, 2023"
+Accelerated Neural Network Training with Rooted Logistic Objectives,October 2023
+Rare Event Probability Learning by Normalizing Flows,October 2023
+A Generalized Convolutional Neural Network for Small Dataset Classification,Not Found
+Bound and Average: Leveraging Weights as Knowledge for Class Incremental Learning,Not Found
+Flatness-aware Adversarial Attack,Not Found
+Decoupled Diffusion Models: Image to Zero and Zero to Noise,Not Found
+ComSD: Balancing Behavioral Quality and Diversity in Unsupervised Skill Discovery,"29 September, 2023"
+Can pre-trained models assist in dataset distillation?,Not Found
+Text-Driven Image Editing using Cycle-Consistency-Driven Metric Learning,Not Found
+Harnessing Attention Prior for Reference-based Multi-view Image Synthesis,Not Found
+ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval,October 2024
+α-Rank: Unified Item-Fair Ranking from A Cooperative Game Theory View,Not Found
+MuDreamer: Learning Predictive World Models without Reconstruction,May 2024
+Towards Bringing Advanced Restoration Networks into Self-Supervised Image Denoising,Not Found
+Adversarial Contrastive Graph Augmentation with Counterfactual Regularization,Not Found
+A Effective Variance Change Detection Method under constantly Changing Mean,Not Found
+CASR: Refining Action Segmentation via marginalizing frame-level causal relationships,Not Found
+Multimodal Representation Learning by Alternating Unimodal Adaptation,"17 November, 2023"
+Elucidating the Solution Space of Extended Reverse-Time SDE for Diffusion Models,"12 September, 2023"
+Decoupled Kullback-Leibler Divergence Loss,"23 May, 2023"
+"Diversity, Plausibility, and Difficulty: Dynamic Data-Free Quantization",Not Found
+Rethinking Adversarial Training with Neural Tangent Kernel,December 2023
+Towards the Vulnerability of Watermarking Artificial Intelligence Generated Content,Not Found
+Omnipotent Adversarial Training in the Wild,"14 July, 2023"
+Alleviating the Effect of Data Imbalance on Adversarial Training,"14 July, 2023"
+CAT: Collaborative Adversarial Training,Not Found
+Visualizing the Emergence of Primitive Interactions During the Training of DNNs,Not Found
+Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models,Not Found
+Generating Less Certain Adversarial Examples Improves Robust Generalization,"6 October, 2023"
+UniSeMi: Toward Unified Semi-supervised Medical Image Segmentation,Not Found
+Optimal Noise Pursuit for Augmenting Text-to-Video Generation,Not Found
+TRACE: A Comprehensive Benchmark for Continual Learning in Large Language Models,October 2023
+DeNAV: Decentralized Self-Supervised Learning with a Training Navigator,Not Found
+AMMD: Attentive Maximum Mean Discrepancy for Few-Shot Image Classification,Not Found
+LAMDA: Unified Language-Driven Multi-Task Domain Adaption,Not Found
+SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network,"10 October, 2023"
+Simple Yet Effective Spatio-Temporal Prompt Learning,Not Found
+UniPAD: A Universal Pre-training Paradigm for Autonomous Driving,"12 October, 2023"
+Learning Rate Re-scheduling for AdaGrad in training Deep Neural Networks,Not Found
+Code Representation Pre-training  with Complements from Program Executions,September 2023
+Towards efficient deep spiking neural networks construction with spiking activity based pruning,June 2024
+Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models,April 2023
+Progressive Fusion for Multimodal Integration,"1 September, 2022"
+Adv3D: Generating 3D Adversarial Examples for 3D Object Detection in Driving Scenarios with NeRF,"4 September, 2023"
+SSIF: Learning Continuous Image Representation for Spatial-Spectral Super-Resolution,October 2023
+Revisiting the Lottery Ticket Hypothesis for Pre-trained Networks,Not Found
+Dolfin: Diffusion Layout Transformers without Autoencoder,October 2023
+Text-driven Editing of 3D Scenes without Retraining,Not Found
+Gate-guided and subgraph-aware Bilateral Fusion for Molecular Property Prediction,Not Found
+Guide PLMs Towards Expressive Captioning via Knowledge Alignment and Lift,Not Found
+Diffusion Denoising as a Certified Defense Against Clean-Label Poisoning Attacks,Not Found
+CryoFormer: Continuous Heterogeneous Cryo-EM Reconstruction using Transformer-based Neural Representations,"28 March, 2023"
+Clean-NeRF:  Defogging using Ray Statistics Prior in Natural NeRFs,Not Found
+Deep Neural Room Acoustics Primitive,Not Found
+Winograd Structured Pruning,Not Found
+DiffiT: Diffusion Vision Transformers for Image Generation,"4 December, 2023"
+Elevating Augmentation: Boosting Performance via Sub-Model Training,Not Found
+Video Generation Beyond a Single Clip,April 2023
+ViR: Vision Retention Networks,Not Found
+Deep Metric Tensor Regularized Policy Gradient,May 2023
+Emerging Semantic Segmentation from Positive and Negative Coarse Label Learning,"25 August, 2025"
+"Timesteps meet Bits: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks with ANN-to-SNN Conversion",Not Found
+SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks,"27 February, 2023"
+DISPEL: Domain Generalization via Domain-Specific Liberating,"14 July, 2023"
+"Co-learning synaptic delays, weights and adaptation in spiking neural networks",November 2023
+What Images are More Memorable to Machines?,Not Found
+Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder,"27 March, 2023"
+DynamicBEV: Leveraging Dynamic Queries and Temporal Context for 3D Object Detection,Not Found
+Q-Tuning: Continual Queue-based Prompt Tuning for Language Models,Not Found
+SAIF: Sparse Adversarial and Imperceptible Attack Framework,"14 December, 2022"
+Diffusion Model-Augmented Behavioral Cloning,"26 February, 2023"
+One-Versus-Others Attention: Scalable Multimodal Integration,"11 July, 2023"
+DIVA: A Dirichlet Process Mixtures Based Incremental Deep Clustering Algorithm via Variational Auto-Encoder,"23 May, 2023"
+Continual Learners are Viable Long-Tailed Recognizers,Not Found
+One-shot Federated Learning with Training-Free Client,Not Found
+FMLock: Preventing Unauthorized Use of Large Foundation Models,Not Found
+Cluster-Learngene: Inheriting Adaptive Clusters for Self-Attention,Not Found
+Can Adversarial Examples Be Parsed to Reveal Victim Model Information?,Not Found
+Towards Text-guided 3D Scene Composition,December 2023
+Unseen Image Synthesis with Diffusion Models,Not Found
+Representing part-whole hierarchy with coordinated synchrony in neural networks,Not Found
+Specializing SAM: Online Adaptation of the Segment Anything Model for Interactive Segmentation in Uncommon Situations,Not Found
+Implicit NNs are Almost Equivalent to Not-so-deep Explicit NNs for High-dimensional Gaussian Mixtures,Not Found
+Towards Robust Training via Gradient-diversified Backpropagation,Not Found
+Generalization error bounds for iterative learning algorithms with bounded updates,"10 September, 2023"
+Independently-prepared Query-efficient Model Selection,Not Found
+Zero-Shot Video Sampling from Image,Not Found
+Boosting Unsupervised Contrastive Learning Using Diffusion-Based Data Augmentation From Scratch,Not Found
+Neural Network Diffusion,October 2025
+On the Importance of Backbone to the Adversarial Robustness of Object Detectors,"27 May, 2023"
+Contraction and Alienation: Towards Theoretical Understanding of Non-Contrastive Learning with Neighbor-Averaging Dynamics,Not Found
+MoDA: Mixture of Domain Adapters for Parameter-efficient Generalizable Person Re-Identification,Not Found
+Neural Manifold Operators for Learning the Evolution of Physical Dynamics,Not Found
+Angle-optimized Text Embeddings,"22 September, 2023"
+Communication-Efficient Federated Learning via Gradient Distillation,Not Found
+Continual Learning via Winning Subnetworks That Arise Through Stochastic Local Competition,Not Found
+Med-Tuning: Parameter-Efficient Transfer Learning with Fine-Grained Feature Enhancement for Medical Volumetric Segmentation,Not Found
+RetinexGAN Enables More Robust Low-Light Image Enhancement Via Retinex Decomposition Based Unsupervised Illumination Brightening,Not Found
+Towards Faster and Stronger Deep Earth Mover's Distance for Few-Shot Learning,Not Found
+AbnormalLog: A Deep Anomaly Detection Method for Log Sequence Data,Not Found
+Multi-Instance Learning Based Anomaly Detection Method for Sequence Data with Application to the Credit Card Delinquency Risk Control,Not Found
+Towards Well-distributed Generative Networks Using Adversarial Autoencoders,Not Found
+A Conservative Image Boundary Extraction Method with Application to the ILM Tumor Surgery,Not Found
+Matrix and Tensor Completion with Noise via Low-rank Deconvolution,Not Found
+PROSAC: Provably Safe Certification for Machine Learning Models under Adversarial Attacks,"4 February, 2024"
+Masked Autoencoders Are Robust Neural Architecture Search Learners,"20 November, 2023"
+Fast Learning in Balanced Deep Spiking Neural Networks with Strong and Weak Synapses,Not Found
+SITTO: Single-Image Textured Mesh Reconstruction through Test-Time Optimization,Not Found
+Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models,Not Found
+Continuous Multi-step Predictions of Highly Imbalanced Multivariate Time Series via Deep Learning Network,Not Found
+Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup,"30 November, 2021"
+Motion Flow Matching for Efficient Human Motion Synthesis and Editing,Not Found
+HarmonyLM: Advancing Unified Large-Scale Language Modeling for Sound and Music Generation,Not Found
+Multiple Positive Views in Self-Supervised Learning,Not Found
+GUC: UNSUPERVISED NON-PARAMETRIC GLOBAL CLUSTERING AND ANOMALY DETECTION,Not Found
+Enhancing Image Restoration Transformer with Adaptive Token Dictionary,Not Found
+Accelerated Inference and Reduced Forgetting: The Dual Benefits of Early-Exit Networks in Continual Learning,Not Found
+Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation,"2 October, 2023"
+Learning Deep Improvement Representation to Accelerate Evolutionary Optimization,Not Found
+Clover: Closed-Loop Verifiable Code Generation,"26 October, 2023"
+On the Role of Riemannian Metric in Isometric Representation Learning,Not Found
+GenN2N: Generative NeRF2NeRF Translation,April 2024
+Improving Knowledge Distillation via Regularizing Feature Direction and Norm,May 2023
+Roadside Monocular 3D Detection via 2D-Detection Prompting,Not Found
+Long-Tailed 3D Detection via 2D Late Fusion,Not Found
+Offline Robustness of Distributional Actor-Critic Ensemble Reinforcement Learning,Not Found
+Model Pruning with Model Transfer,"9 September, 2024"
+Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection,Not Found
+PPT: Token Pruning and Pooling for Efficient Vision Transformers,"3 October, 2023"
+Tackling Underestimation Bias in Successor Features by Distributional Reinforcement Learning,Not Found
+REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets,Not Found
+Benchmarking Few-shot Transferability of Pre-trained Models with Improved Evaluation Protocols,Not Found
+Mastering Pixel-Based Reinforcement Learning via Positive Unlabeled Policy-Guided Contrast,Not Found
+Human-in-the-Loop Test-Time Domain Adaptation for Object Detection,Not Found
+Challenging the Foundations: Mining Hard Test Samples through Diffusion Generation,Not Found
+Revisiting Supervision for Continual Representation Learning,"22 November, 2023"
+RDBench: ML Benchmark for Relational Databases,"25 October, 2023"
+Realistic Evaluation of Test-Time Adaptation: Surrogate-Based Model Selection Strategies,Not Found
+Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention,"11 January, 2024"

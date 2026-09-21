@@ -1,0 +1,23 @@
+Task 7 missing-data / coverage report
+Outcome: pre_submission_visible = 1 if preprint_date < submission_deadline
+Sample: accepted ICLR/ICML/NeurIPS papers with Rank_first (rejects excluded)
+
+Papers in analysis dataset: 9862
+Pre-submission visible: 2049 (20.8%)
+Has preprint date: 7659 (77.7%)
+
+CSRankings max ranks used for bottom-k thresholds:
+  2023: max=486 | bottom-10>=477 | bottom-20>=467
+  2024: max=495 | bottom-10>=486 | bottom-20>=476
+  2025: max=497 | bottom-10>=488 | bottom-20>=478
+
+By venue-year:
+  ICLR 2023: n=521 | pre-sub visible=117
+  ICLR 2024: n=1245 | pre-sub visible=284
+  ICLR 2025: n=753 | pre-sub visible=184
+  ICML 2023: n=582 | pre-sub visible=122
+  ICML 2024: n=795 | pre-sub visible=163
+  ICML 2025: n=1111 | pre-sub visible=251
+  NeurIPS 2023: n=2037 | pre-sub visible=349
+  NeurIPS 2024: n=2815 | pre-sub visible=577
+  NeurIPS 2025: n=3 | pre-sub visible=2

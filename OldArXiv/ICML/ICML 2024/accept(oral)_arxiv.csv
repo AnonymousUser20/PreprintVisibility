@@ -1,0 +1,145 @@
+Title,Submission Date
+Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo,April 2024
+Position: Open-Endedness is Essential for Artificial Superhuman Intelligence,Not Found
+Stop Regressing: Training Value Functions via Classification for Scalable Deep RL,March 2024
+Improving Transformers with Dynamically Composable Multi-Head Attention,"14 May, 2024"
+Learning Useful Representations of Recurrent Neural Network Weight Matrices,"18 March, 2024"
+Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model,"3 January, 2024"
+SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code,March 2024
+Doubly Robust Causal Effect Estimation under Networked Interference via Targeted Learning,"6 May, 2024"
+Emergent Equivariance in Deep Ensembles,"5 March, 2024"
+Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks,"7 March, 2024"
+Position: Automatic Environment Shaping is the Next Frontier in RL,Not Found
+Online Matching with Stochastic Rewards: Provable Better Bound via Adversarial Reinforcement Learning,Not Found
+"Position: Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis",Not Found
+Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape,"2 February, 2024"
+Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews,"11 March, 2024"
+Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics,"19 February, 2024"
+Unified Training of Universal Time Series Forecasting Transformers,"4 February, 2024"
+Position: Opportunities Exist for Machine Learning in Magnetic Fusion Energy,Not Found
+Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models,"19 February, 2024"
+Less is More: on the Over-Globalizing Problem in Graph Transformers,"2 May, 2024"
+GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection,"6 March, 2024"
+PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs,"5 June, 2024"
+Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation,"6 June, 2024"
+Position: Technical Research and Talent is Needed for Effective AI Governance,June 2024
+Bottleneck-Minimal Indexing for Generative Document Retrieval,"12 May, 2024"
+Hybrid$^2$ Neural ODE Causal Modeling and an Application to Glycemic Response,"27 February, 2024"
+FedMBridge: Bridgeable Multimodal Federated Learning,Not Found
+How do Large Language Models Navigate Conflicts between Honesty and Helpfulness?,Not Found
+Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision,December 2023
+ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization,"22 February, 2024"
+Expressivity and Generalization: Fragment-Biases for Molecular GNNs,"12 June, 2024"
+Theoretical Analysis of Learned Database Operations under Distribution Shift through Distribution Learnability,November 2024
+Position: A Safe Harbor for AI Evaluation and Red Teaming,Not Found
+A Dynamic Algorithm for Weighted Submodular Cover Problem,July 2024
+Rethinking Data Shapley for Data Selection Tasks: Misleads and Merits,May 2024
+Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study,Not Found
+Trained Random Forests Completely Reveal your Dataset,"29 February, 2024"
+LoRA Training in the NTK Regime has No Spurious Local Minima,"19 February, 2024"
+SAPG: Split and Aggregate Policy Gradients,July 2024
+How Private are DP-SGD Implementations?,Not Found
+From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble,Not Found
+Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution,"25 October, 2023"
+Discovering Environments with XRM,"28 September, 2023"
+Fast Co-Training under Weak Dependence via Stream-Based Active Learning,Not Found
+Active Adaptive Experimental Design for Treatment Effect Estimation with Covariate Choice,"6 March, 2024"
+Listenable Maps for Audio Classifiers,"27 May, 2024"
+"I/O Complexity of Attention, or How Optimal is FlashAttention?",Not Found
+Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling,"15 November, 2023"
+Inferring the Long-Term Causal Effects of Long-Term Treatments from Short-Term Experiments,"14 November, 2023"
+"Multiplicative Weights Update, Area Convexity and Random Coordinate Descent for Densest Subgraph Problems","29 May, 2024"
+All-in-one simulation-based inference,"15 April, 2024"
+Environment Design for Inverse Reinforcement Learning,"26 October, 2022"
+Scalable AI Safety via Doubly-Efficient Debate,November 2023
+OMPO: A Unified Framework for RL under Policy and Dynamics Shifts,May 2024
+Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning,"14 May, 2024"
+Differentiable Mapper for Topological Optimization of Data Representation,February 2024
+ExCP: Extreme LLM Checkpoint Compression via Weight-Momentum Joint Shrinking,June 2024
+Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error,"3 February, 2024"
+"Pruned Pivot: Correlation Clustering Algorithm for Dynamic, Parallel, and Local Computation Models","23 February, 2024"
+MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark,"7 February, 2024"
+CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents,"26 October, 2023"
+Robustness of Nonlinear Representation Learning,May 2025
+S$\Omega$I: Score-based O-INFORMATION Estimation,Not Found
+Rate-Optimal Policy Optimization for Linear Markov Decision Processes,"28 August, 2023"
+SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation,June 2024
+Position: Near to Mid-term Risks and Opportunities of Open-Source Generative AI,Not Found
+Repoformer: Selective Retrieval for Repository-Level Code Completion,"15 March, 2024"
+Scaling Rectified Flow Transformers for High-Resolution Image Synthesis,March 2024
+Position: On the Societal Impact of Open Foundation Models,Not Found
+DITTO: Diffusion Inference-Time T-Optimization for Music Generation,May 2024
+Parameterized Physics-informed Neural Networks for Parameterized PDEs,August 2024
+Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems,June 2024
+Automated Evaluation of Retrieval-Augmented Language Models with Task-Specific Exam Generation,May 2024
+PRISE: LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control,"15 February, 2024"
+LCA-on-the-Line: Benchmarking Out of Distribution Generalization with Class Taxonomies,July 2024
+Active Statistical Inference,"5 March, 2024"
+Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion,"21 February, 2024"
+NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models,"5 March, 2024"
+Privacy Preserving Adaptive Experiment Design,"16 January, 2024"
+Position: Do pretrained Transformers Learn In-Context by Gradient Descent?,Not Found
+Learning to Model the World With Language,September 2025
+Position: AI-Powered Autonomous Weapons Risk Geopolitical Instability and Threaten AI Research,Not Found
+Arrows of Time for Large Language Models,"30 January, 2024"
+Chain of Code: Reasoning with a Language Model-Augmented Code Emulator,"7 December, 2023"
+Challenges in Training PINNs: A Loss Landscape Perspective,"2 February, 2024"
+AI Control: Improving Safety Despite Intentional Subversion,"11 December, 2023"
+APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference,"22 January, 2024"
+Offline Actor-Critic Reinforcement Learning Scales to Large Models,February 2024
+Fast Timing-Conditioned Latent Audio Diffusion,"7 February, 2024"
+MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions,"28 March, 2024"
+Making Old Things New: A Unified Algorithm for Differentially Private Clustering,June 2024
+Interpreting and Improving Large Language Models in Arithmetic Calculation,September 2024
+SparseTSF: Modeling Long-term Time Series Forecasting with *1k* Parameters,Not Found
+On the Last-Iterate Convergence of Shuffling Gradient Methods,May 2025
+AlphaFold Meets Flow Matching for Generating Protein Ensembles,"7 February, 2024"
+Low-Cost High-Power Membership Inference Attacks,"5 December, 2023"
+"A Touch, Vision, and Language Dataset for Multimodal Alignment",February 2024
+"Position: Measure Dataset Diversity, Don't Just Claim It",July 2024
+Contrasting Multiple Representations with the Multi-Marginal Matching Gap,May 2024
+Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data,June 2024
+"The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright BreachesWithout Adjusting Finetuning Pipeline",Not Found
+Stealing part of a production language model,"11 March, 2024"
+Pausing Policy Learning in Non-stationary Reinforcement Learning,May 2024
+Debating with More Persuasive LLMs Leads to More Truthful Answers,"9 February, 2024"
+Probabilistic Generating Circuits - Demystified,April 2024
+Self-Composing Policies for Scalable Continual Reinforcement Learning,June 2025
+Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference,July 2024
+Optimal Hessian/Jacobian-Free Nonconvex-PL Bilevel Optimization,July 2024
+LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering,May 2024
+VideoPoet: A Large Language Model for Zero-Shot Video Generation,"21 December, 2023"
+Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization,"5 February, 2024"
+Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining,"13 December, 2022"
+Stereo Risk: A Continuous Modeling Approach to Stereo Matching,July 2024
+Zeroth-Order Methods for Constrained Nonconvex Nonsmooth Stochastic Optimization,Not Found
+"Information Complexity of Stochastic Convex Optimization: Applications to Generalization, Memorization, and Tracing",Not Found
+Image Clustering with External Guidance,"18 October, 2023"
+A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity,January 2024
+EquiPocket: an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction,"23 February, 2023"
+Speech Self-Supervised Learning Using Diffusion Model Synthetic Data,Not Found
+Position: The Platonic Representation Hypothesis,Not Found
+Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks,"13 July, 2023"
+Rejuvenating image-GPT as Strong Visual Representation Learners,"4 December, 2023"
+High-Probability Convergence for Composite and Distributed Stochastic Minimization and Variational Inequalities with Heavy-Tailed Noise,"3 October, 2023"
+InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization,February 2024
+NExT-GPT: Any-to-Any Multimodal LLM,"11 September, 2023"
+"Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs","16 February, 2024"
+Private Truly-Everlasting Robust-Prediction,January 2024
+ViP: A Differentially Private Foundation Model for Computer Vision,"15 June, 2023"
+Genie: Generative Interactive Environments,February 2024
+SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention,"15 February, 2024"
+Data-free Neural Representation Compression with Riemannian Neural Dynamics,Not Found
+Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition,January 2025
+Test-Time Model Adaptation with Only Forward Passes,"2 April, 2024"
+MorphGrower: A Synchronized Layer-by-layer Growing Approach for Plausible Neuronal Morphology Generation,"17 January, 2024"
+Flextron: Many-in-One Flexible Large Language Model,"10 June, 2024"
+Mean-field Chaos Diffusion Models,June 2024
+Principled Preferential Bayesian Optimization,"7 February, 2024"
+Preference Optimization for Molecule Synthesis with Conditional Residual Energy-based Models,June 2024
+Accurate LoRA-Finetuning Quantization of LLMs via Information Retention,"8 February, 2024"
+DiJiang: Efficient Large Language Models through Compact Kernelization,"28 March, 2024"
+GPTSwarm: Language Agents as Optimizable Graphs,Not Found
+DoRA: Weight-Decomposed Low-Rank Adaptation,"14 February, 2024"
+Position: Embracing Negative Results in Machine Learning,June 2024
+Does Label Smoothing Help Deep Partial Label Learning?,Not Found

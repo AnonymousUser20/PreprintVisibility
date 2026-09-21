@@ -1,0 +1,6 @@
+Predictor,Odds ratio,95% CI,p-value,Interpretation
+Preprint visible,5.30,"[4.81, 5.83]",1.8e-251,"Papers whose preprint appears on or after 30 days before the CfP (submission deadline) had about 5.3x the odds of acceptance compared with papers with no preprint or an earlier preprint, after adjusting for timing, institution tier, country, and year."
+Preprint timing,0.80,"[0.65, 0.99]",1e-160,"Compared with the reference bucket (CfP to review window), posting within 30 days of submission is associated with 20% lower odds of acceptance (OR=0.80), after adjusting for preprint visibility and other covariates."
+Institution tier,1.27,"[1.11, 1.44]",3.9e-6,Submissions whose first author comes from a top-20 CS-ranked institute had about 27% higher odds of acceptance than submissions from unlisted or mid-ranked institutes.
+Country,1.17,"[0.89, 1.52]",1.1e-11,"Author country is linked to acceptance differences in the model. Overall, country groups differ significantly; for example, United States shows higher odds than the reference group (OR=1.17)."
+Year,0.24,"[0.21, 0.26]",5.3e-164,"Later ICLR years show much lower acceptance odds than 2023 (2025 OR=0.24, about 76% lower odds), reflecting stronger competition or changing acceptance rates over time."
