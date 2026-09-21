@@ -1,9 +1,47 @@
-# DATA EXTRACTION
-## Conference Websites
+# PreprintVisibility
+## DATASET STATISTICS
+
+The dataset extraction statistics have been provided in the following table.
+
+`–` indicates unavailable reviewer metadata for conferences not using OpenReview. For ICML, reviews were conducted through OpenReview only in 2025, not in 2023 or 2024.
+
+| Venue | Year | Papers | arXiv | Affil. | Country | Tier | Rating | Conf. | Track |
+| --- | ---: | ---: | --- | --- | --- | --- | --- | --- | --- |
+| ICLR | 2023 | 3,743 | 1,557 (41.6%) | 2,599 (69.4%) | 1,343 (35.9%) | 1,121 (29.9%) | 1,573 (42.0%) | 1,573 (42.0%) | Main: 1,574; Rejected: 2,169 |
+| ICLR | 2024 | 5,457 | 3,242 (59.4%) | 5,404 (99.0%) | 4,417 (80.9%) | 3,681 (67.5%) | 2,260 (41.4%) | 2,260 (41.4%) | Main: 2,260; Rejected: 3,197 |
+| ICLR | 2025 | 11,672 | 3,877 (33.2%) | 6,880 (58.9%) | 2,699 (23.1%) | 2,263 (19.4%) | 3,704 (31.7%) | 3,704 (31.7%) | Main: 3,704; Rejected: 7,968 |
+| ICML | 2023 | 1,828 | 1,485 (81.2%) | 1,828 (100.0%) | 894 (48.9%) | 738 (40.4%) | – | – | Main: 1,828 |
+| ICML | 2024 | 2,610 | 2,026 (77.6%) | 2,610 (100.0%) | 1,157 (44.3%) | 966 (37.0%) | – | – | Main: 2,610 |
+| ICML | 2025 | 3,422 | 2,430 (71.0%) | 3,257 (95.2%) | 1,486 (43.4%) | 1,255 (36.7%) | 3,257 (95.2%) | – | Main: 3,257; Rejected: 165 |
+| NeurIPS | 2023 | 3,716 | 2,524 (67.9%) | 3,218 (86.6%) | 3,090 (83.2%) | 2,592 (69.8%) | 3,218 (86.6%) | 3,218 (86.6%) | D&B: 322; Main: 3,218; Rejected: 176 |
+| NeurIPS | 2024 | 4,695 | 3,150 (67.1%) | 4,035 (85.9%) | 3,866 (82.3%) | 3,331 (70.9%) | 4,035 (85.9%) | 4,035 (85.9%) | D&B: 459; Main: 4,035; Rejected: 201 |
+| NeurIPS | 2025 | 6,037 | 4,045 (67.0%) | 5,286 (87.6%) | 150 (2.5%) | 139 (2.3%) | 5,286 (87.6%) | 5,286 (87.6%) | D&B: 497; Main: 5,286; Rejected: 254 |
+| AAAI | 2023 | 2,023 | 1,163 (57.5%) | 2,023 (100.0%) | 1,718 (84.9%) | 1,528 (75.5%) | – | – | Main: 2,023 |
+| AAAI | 2024 | 2,864 | 1,649 (57.6%) | 2,864 (100.0%) | 2,436 (85.1%) | 2,157 (75.3%) | – | – | Main: 2,864 |
+| AAAI | 2025 | 3,486 | 2,110 (60.5%) | 3,486 (100.0%) | 2,975 (85.3%) | 2,553 (73.2%) | – | – | Main: 3,486 |
+| ACL | 2023 | 1,795 | 1,201 (66.9%) | 1,795 (100.0%) | 1,715 (95.5%) | 1,329 (74.0%) | – | – | Demo: 47; Findings: 749; Industry: 63; Main: 936 |
+| ACL | 2024 | 1,649 | 1,344 (81.5%) | 1,649 (100.0%) | 1,586 (96.2%) | 1,271 (77.1%) | – | – | Demo: 32; Findings: 824; Main: 793 |
+| ACL | 2025 | 2,381 | 1,347 (56.6%) | 2,381 (100.0%) | 2,312 (97.1%) | 1,835 (77.1%) | – | – | Demo: 57; Findings: 801; Industry: 95; Main: 1,428 |
+| EMNLP | 2023 | 1,428 | 1,022 (71.6%) | 1,428 (100.0%) | 1,365 (95.6%) | 1,066 (74.6%) | – | – | Demo: 40; Findings: 412; Industry: 68; Main: 908 |
+| EMNLP | 2024 | 2,468 | 1,913 (77.5%) | 2,468 (100.0%) | 2,389 (96.8%) | 1,862 (75.4%) | – | – | Findings: 850; Industry: 112; Main: 1,506 |
+| EMNLP | 2025 | 2,911 | 2,071 (71.1%) | 2,911 (100.0%) | 2,813 (96.6%) | 2,183 (75.0%) | – | – | Findings: 1,203; Industry: 162; Main: 1,546 |
+| COLING | 2024 | 1,871 | 745 (39.8%) | 1,871 (100.0%) | 1,807 (96.6%) | 1,185 (63.3%) | – | – | Main: 1,871 |
+| COLING | 2025 | 836 | 473 (56.6%) | 836 (100.0%) | 736 (88.0%) | 527 (63.0%) | – | – | Demo: 18; Industry: 60; Main: 758 |
+| KDD | 2023 | 313 | 166 (53.0%) | 313 (100.0%) | 289 (92.3%) | 236 (75.4%) | – | – | Main: 313 |
+| KDD | 2024 | 563 | 363 (64.5%) | 563 (100.0%) | 512 (90.9%) | 414 (73.5%) | – | – | Industry: 152; Main: 411 |
+| KDD | 2025 | 707 | 409 (57.9%) | 707 (100.0%) | 667 (94.3%) | 513 (72.6%) | – | – | Industry: 155; Main: 552 |
+| CVPR | 2023 | 2,359 | 1,768 (74.9%) | 2,359 (100.0%) | 2,224 (94.3%) | 1,740 (73.8%) | – | – | Main: 2,359 |
+| CVPR | 2024 | 2,716 | 2,173 (80.0%) | 2,716 (100.0%) | 2,580 (95.0%) | 2,073 (76.3%) | – | – | Main: 2,716 |
+| CVPR | 2025 | 2,871 | 2,253 (78.5%) | 2,871 (100.0%) | 2,731 (95.1%) | 2,144 (74.7%) | – | – | Main: 2,871 |
+
+
+
+## DATA EXTRACTION
+### Conference Websites
 For the following conferences, the data extraction is done from the HTML tags of static websites, using the BeautifulSoup library. The year-wise data of Paper titles, Paper Abstract, List of Authors and their affiliations (if available) are collected.
-- Coling (2024-2025)
+
 - KDD (2023-2025)
-- ACL (2023-2025)<br>
+<br>
 <p> An illustration is shown below, for the KDD 2023 conference website. The similar process is followed for the 7 other websites. </p>
 
  - **STEP 1** <br>
@@ -25,11 +63,11 @@ For the following conferences, the websites containing accepted papers' details 
 - CVPR (2023 - 2025)
 - AAAI (papercopilot github : 2023 - 2025)
 
-## arXiv Website
+### arXiv Website
 The arXiv website is a static website. <img width="830" height="30" alt="image" src="https://github.com/user-attachments/assets/f6244e75-9872-4526-8e77-a07f11a9345a" /> <br>
 This is the URL when a specific paper is searched by title. The paper titles are re-formatted using string formatting to update the search URL for every paper. The website is inspected in similar fashion to look for HTML tags that contain "Submitted/v1 submitted/originally announce".
 
-## OpenReview Website
+### OpenReview Website
 The data for the following conferences are collected from OpenReview, which is a dynamic website. The details in this website are rendered from data stored as JSON in the backend, using JavaScript. 
 - ICLR (2023-2025)
 - ICML (2023-2025)
@@ -50,27 +88,37 @@ The data for the following conferences are collected from OpenReview, which is a
  - **STEP 4**
    <br> Use the authorids in this json to collect author information like name and affiliation details. Use the forumid in this json, to extract review data as JSON, against each paper.
 
+### ACL Anthology (ACL, EMNLP, COLING)
 
-# DATASET STATISTICS
+For the following conferences, paper lists, titles, authors, and PDFs are taken from the **ACL Anthology**, not from OpenReview:
 
-The dataset extraction statistics have been provided in the following table.
+- ACL (2023–2025)
+- EMNLP (2023–2025)
+- COLING (2024–2025)
+
+Anthology home: [https://aclanthology.org/](https://aclanthology.org/)
+
+Each venue-year has an **events** page that links to track volumes (Main, Findings, Demo, Industry, etc.):
+
+- ACL 2025: [https://aclanthology.org/events/acl-2025/](https://aclanthology.org/events/acl-2025/)
+- EMNLP 2025: [https://aclanthology.org/events/emnlp-2025/](https://aclanthology.org/events/emnlp-2025/)
+- COLING 2025: [https://aclanthology.org/events/coling-2025/](https://aclanthology.org/events/coling-2025/)
+
+Older years follow the same pattern, e.g. `https://aclanthology.org/events/acl-2024/`.
+
+- **STEP 1** <br>
+  Open the events page for the conference and year. Each track (Main, Findings, Demo, Industry) has a volume URL such as `https://aclanthology.org/volumes/2025.coling-main/`.
+
+- **STEP 2** <br>
+  Anthology pages are **static**. Titles, authors, and paper landing URLs are in the HTML (and in the volume **MODS XML**, e.g. `https://aclanthology.org/volumes/2025.coling-main.xml`). Inspect the page or parse the XML to collect the paper list.
+
+- **STEP 3** <br>
+  Each paper page has a stable Anthology ID. The PDF is `{anthology_url}.pdf`. Author-row CSVs in `InputFiles/` / `Outputs/` (`*_author_output*.csv`) are built from these pages/PDFs.
 
 
-| Conference | Data source                             | Review Data       | Collection method | Raw format | 2023                                                                                                                                                                     | 2024                                                                                                                                                          | 2025                                                                                                                         | Call for Papers | Review Deadlines | Output format | Affiliations available |
-| ---------- | --------------------------------------- | ------------------------- | ----------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- | ------------- | ----------------- |
-| ICML       | OpenReview                              | available from 2025<br>No | done by title     | csv        | accept (poster) : 1673<br>accepted (oral & poster) : 155                                                                                                                           | accept (oral) : 144<br>accept (poster) : 2275<br>accept (spotlight) : 191                                                                                               | accept (oral) : 108<br>accept (poster) : 2938<br>accept (spotlight) : 211<br>rejected : 162<br>retracted acceptance : 3                | TRUE          | TRUE            | csv           | TRUE              |
-| ICLR       | OpenReview                              | 2023 collected            | done by title     | csv        | poster : 1202<br>submitted : 2220<br>withdrawn/rejected : 1144<br>top 25% : 281<br>top 5% : 90                                                                                     | accept (oral) : 86<br>accept (poster) : 1807<br>accept (spotlight) : 367<br>rejected : 3433<br>withdrawn : 1658<br>desk rejected : 52                                   | accept (oral) : 213<br>accept (poster) : 3111<br>accept (spotlight) : 380<br>rejected : 4914<br>withdrawn : 2984<br>desk rejected : 70 | TRUE          | TRUE            | csv           | TRUE              |
-| NeurIPS    | OpenReview                              | 2023 collected            | done by title     | csv        | accept (oral) : 67<br>accept (poster) : 2773<br>accept (spotlight) : 378<br>rejected : 176                                                                                         | accept (oral) : 61<br>accept (poster) : 3648<br>accept (spotlight) : 326<br>rejected : 201                                                                              | accept(oral) : 77 <br> accept (spotlight) : 156 <br> accept (poster) : 4522                                                                                                                                | TRUE          | TRUE            | csv           | TRUE              |
-| KDD        | website                                 | No                        | done by title     | csv        | 313                                                                                                                                                                                | 411                                                                                                                                                                     | 552                                                                                                                                    | TRUE          | TRUE            | csv           | TRUE              |
-| CVPR       | website                                 | No                        | done by title     | csv        | 2359                                                                                                                                                                               | 2806                                                                                                                                                                    | 2966                                                                                                                                   | TRUE          | TRUE            | csv           | TRUE              |
-| ACL        | website                                 | No                        | done by title     | csv        | 1074                                                                                                                                                                               | 941                                                                                                                                                                     | 1701                                                                                                                                   | TRUE          | TRUE            | csv           | FALSE             |
-| EMNLP      | website                                 | No                        | done by title     | csv        | awards : 23<br>industry accepted : 74<br>long papers : 898<br>long papers findings : 853<br>short papers : 144<br>short paper findings : 196<br>system demonstration accepted : 51 | awards : 23<br>accepted papers findings : 993<br>industry accepted : 121<br>main conference accepted : 1256<br>tacl accepted : 32<br>system demonstration accepted : 50 | 3304 (Main Conference + Findings)                                                                                                      | TRUE          | TRUE            | csv           | FALSE             |
-| Coling     | website                                 | No                        | done by title     | csv        | No Data                                                                                                                                                                            | 1556                                                                                                                                                                    | awards : 15<br>industry track accepted : 69<br>long : 650<br>short : 93<br>sytem demo acc : 20                                         | TRUE          | TRUE            | csv           | FALSE             |
-| AAAI       | paper copilot<br>github endpoint<br>API | No                        | done by title     | csv        | 1721                                                                                                                                                                               | 2342                                                                                                                                                                    | 3032                                                                                                                                   | TRUE          | TRUE            | csv           | TRUE              |
 
 
-
-# DATA TRANSFORMATION
+## DATA TRANSFORMATION
 Flat JSON can be converted to csv format using the following lines of code.
 
 ``` python
@@ -86,7 +134,7 @@ df.to_csv("output.csv", index = False)
 
 To convert nested JSON to csv, access only the necessary fields using keywords and write onto a new csv file.
 
-# DATA CLEANING AND PROCESSING
+## DATA CLEANING AND PROCESSING
 In order to visualize insights from the extracted data, the data needs to be cleaned by dropping duplicate indexing columns and dropping entries with `NaN` values. 
 For joining multiple tables, use `df = pandas.merge(df1, df2, on = "<column name to match>", how = "left"`.
 For merging multiple csv-s into 1. use `df = pandas.concat(df1, df2, index = False`.
@@ -102,75 +150,7 @@ For merging multiple csv-s into 1. use `df = pandas.concat(df1, df2, index = Fal
   ```
 </p>
 
-# HYPOTHESIS TESTING : CHI - SQUARED TEST
-
-Chi-squared hypothesis testing is used to determine if there is a statistically significant difference between observed data and expected data, helping to see if two categorical variables are independent or related. It is a non-parametric test that analyzes categorical data to assess the goodness of fit (how well a sample distribution matches an expected distribution) or to test for independence between two variables.
-
-## Test 1 : 
-Submitting to arXiv makes any difference to papers getting accepted, irrespective of the time-frame​.
-
-The code snippet for this test is as follows :
-
-``` python
-from scipy.stats import chi2, chi2_contingency
-
-data = pd.DataFrame({'Accepted': [sum(ICLR2023)+sum(NIPS2023), ICLR[-3]+NeurIPS[-3]-sum(ICLR2023)-sum(NIPS2023)], 'Rejected': [sum(ICLR2023rej)+sum(NIPS2023rej), 1144+176-sum(ICLR2023rej)-sum(NIPS2023rej)]}, #keep changing the number of entries
-                    index=["on Arxiv (before Review Deadline)", "not on Arxiv(before Review deadline)"])
-
-print(data)
-
-# Perform Chi-Squared Test
-chi2_statistic, p, dof, expected = chi2_contingency(data)
-log_p = chi2.logsf(chi2_statistic, dof)
-
-print("Chi-Squared Statistic:", chi2_statistic)
-print("Degrees of Freedom:", dof)
-print(f"p-value:, {p:.50e}")
-print("log p-value : ", log_p)
-print("Expected Frequencies:\n", expected)
-```
-
-The contigency table is as follows :
-
-```
-                                        Accepted  Rejected
-on Arxiv (before Review Deadline)         
-not on Arxiv(before Review deadline)      
-```
-
-## Test 2 : 
-Submitting to arXiv before Review Deadline makes any difference to papers getting accepted, irrespective of the time-frame​.
-
-The code snippet for this test is as follows :
-
-``` python
-from scipy.stats import chi2, chi2_contingency
-
-data = pd.DataFrame({'Accepted': [ICLR2023[0]+NIPS2023[0], ICLR[-3]+NeurIPS[-3]-ICLR2023[0]-NIPS2023[0]], 'Rejected': [ICLR2023rej[0]+NIPS2023rej[0], 1144+176-ICLR2023rej[0]-NIPS2023rej[0]]}, #keep changing the number of entries
-                    index=["on Arxiv (before Review Deadline)", "not on Arxiv(before Review deadline)"])
-
-print(data)
-
-# Perform Chi-Squared Test
-chi2_statistic, p, dof, expected = chi2_contingency(data)
-log_p = chi2.logsf(chi2_statistic, dof)
-
-print("Chi-Squared Statistic:", chi2_statistic)
-print("Degrees of Freedom:", dof)
-print(f"p-value:, {p:.50e}")
-print("log p-value : ", log_p)
-print("Expected Frequencies:\n", expected)
-```
-
-The contigency table is as follows :
-
-```
-                                      Accepted  Rejected
-on Arxiv (between CfP to Review)         
-not on Arxiv(between CfP to Review)      
-```
-
-# PRE-PRINT POLICIES 
+## PRE-PRINT POLICIES 
 - ICLR : https://iclr.cc/Conferences/2026/AuthorGuide
 - NeurIPS : https://neurips.cc/Conferences/2025/CallForPapers
 - ICML : https://icml.cc/Conferences/2025/CallForPapers
@@ -181,281 +161,265 @@ not on Arxiv(between CfP to Review)
 - KDD : https://kdd2025.kdd.org/research-track-call-for-papers/
 - CVPR : https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines
 
-# AFFILIATIONS 
-<p>The list of top 25 unversities, top 25 oragnizations, bottom 25 universities and bottom 25 organizations has been customized for every conference. For universities, the ranking reference is taken from https://csrankings.org/#/index?all&world . For organizations, LLMs have been used for ranking reference. Following is the merged list of each of the 4 affiliation categories, across all conferences and all years. </p>
 
-## TOP 25 RANKED UNIVERSITIES
-* Zhejiang University
-* Peking University
-* Shanghai Jiao Tong University
-* The Chinese University of Hong Kong
-* Nanyang Technological University
-* Carnegie Mellon University
-* Tsinghua University
-* Stanford University
-* National University of Singapore
-* Shanghai Jiaotong University
-* Nanjing University
-* ETH Zurich
-* Beihang University
-* Massachusetts Institute of Technology
-* Wuhan University
-* Yonsei University
-* The University of Hong Kong
-* Harbin Institute of Technology
-* City University of Hong Kong
-* Georgia Institute of Technology
-* University of Maryland, College Park
-* Nankai University
-* The Chinese University of Hong Kong, Shenzhen
-* KAIST
-* University of Michigan
-* University of Science and Technology of China
-* Fudan University
-* Huazhong University of Science and Technology
-* Xiamen University
-* South China University of Technology
-* Seoul National University
-* Sun Yat-Sen University
-* Institute of automation, Chinese academy of science, Chinese Academy of Sciences
-* Xidian University
-* Johns Hopkins University
-* Shanghai AI Laboratory
-* Massachusetts Institute of Technology(mit.edu)
-* Stanford University(stanford.edu)
-* Peking University(pku.edu.cn)
-* Carnegie Mellon University(cmu.edu)
-* Tsinghua University, Tsinghua University(tsinghua.edu.cn)
-* New York University(nyu.edu)
-* University of California, San Diego(ucsd.edu)
-* Nanyang Technological University(ntu.edu.sg)
-* Tsinghua University(tsinghua.edu.cn)
-* University of California Berkeley(berkeley.edu)
-* Princeton University(princeton.edu)
-* University of Texas at Austin(utexas.edu)
-* Georgia Institute of Technology(gatech.edu)
-* Harvard University(harvard.edu)
-* University of Cambridge(cam.ac.uk)
-* Zhejiang University(zju.edu.cn)
-* Nanjing University(nju.edu.cn)
-* National University of Singapore(nus.edu.sg)
-* Yale University(yale.edu)
-* Korea Advanced Institute of Science & Technology(kaist.ac.kr)
-* Northeastern University(northeastern.edu)
-* Swiss Federal Institute of Technology(ethz.ch)
-* Eberhard-Karls-Universität Tübingen(uni-tuebingen.de)
-* Shanghai Jiaotong University(sjtu.edu.cn)
-* Cornell University(cornell.edu)
-* University of California,San Diego(ucsd.edu)
-* University of California,Los Angeles(ucla.edu)
-* University of Pennsylvania(upenn.edu)
-* University of Southern California(usc.edu)
-* University of California,Berkeley(berkeley.edu)
-* University of Illinois at Urbana-Champaign
-* University of Virginia
-* Beijing University of Posts and Telecommunications
-* Emory University
-* The Hong Kong University of Science and Technology (Guangzhou
-* University of Illinois Urbana-Champaign
-* Hong Kong University of Science and Technology
-* Renmin University of China
-* KTH Royal Institute of Technology
-* University of Science and Technology of China; State Key Laboratory of Cognitive Intelligence
-* University of Electronic Science and Technology of China(uestc.edu.cn)
-* Institute of Computing Technology, Chinese Academy of Sciences(ict.ac.cn)
-* University of Oxford(ox.ac.uk)
-* Seoul National University(snu.ac.kr)
-* University of Maryland, College Park(umd.edu)
-* Fudan University(fudan.edu.cn)
-* Shanghai Jiao Tong University
-* Tsinghua University
-* University of Science and Technology of China
-* Zhejiang University
-* Massachusetts Institute of Technology
-* University of Electronic Science and Technology of China
-* Carnegie Mellon University
-* State Key Laboratory for Novel Software Technology, Nanjing University, China
-* College of Computer Science and Technology, Zhejiang University
-* Harvard University
-* National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210023, China
-* National University of Singapore
-* Northeastern University
-* Stanford University
-* The Chinese University of Hong Kong
-* Huazhong University of Science and Technology
-* School of Computer Science and Engineering, Nanyang Technological University, Singapore
-* State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications
-* Rochester Institute of Technology
-* Department of Electronic Engineering, Tsinghua University
-* Nanyang Technological University
-* Peking University
-* Politecnico di Milano
-* School of Computer Science and Engineering, Sun Yat-sen University
-* University of Oxford
+---
 
-## BOTTOM 25 RANKED UNIVERSITIES
+**Code and data for analyses of preprint visibility, author country, institutional CSRankings tier, and reviewer outcomes across major CS venues (2023–2025).**
 
-* University of Science and Technology of China
-* Huazhong University of Science and Technology
-* Xiamen University
-* South China University of Technology
-* Seoul National University
-* Institute of automation, Chinese academy of science, Chinese Academy of Sciences
-* Xidian University
-* Johns Hopkins University
-* Shanghai AI Laboratory
-* Tencent
-* Institute of automation, Chinese academy of science(nlpr.ia.ac.cn)
-* AI,Westlake University(westlake.edu.cn)
-* Aarhus University(au.dk)
-* Aarhus University(ece.au.dk)
-* Aerospace Engineering & AI,Seoul National University(snu.ac.kr)
-* Allen Institute for AI(allenai.org)
-* Allen school of computer science and engineering,University of Washington(uw.edu)
-* Analytics and Operations,National University of Singapore(nus.edu.sg)
-* Applied AI Institute (A2I2),Deakin University(deakin.edu.au)
-* Artificial Intelligence,Yonsei University(yonsei.ac.kr)
-* Auburn University(auburn.edu)
-* Australian Artificial Intelligence Institute,University of Technology Sydney(uts.edu.au)
-* Bayerische Julius-Maximilians-Universität Würzburg(uni-wuerzburg.de)
-* Beijing Institute of Mathematical Sciences and Applications(bimsa.cn)
-* Beijing University of Posts and Communications(bupt.edu)
-* Ben Gurion University of the Negev(bgu.ac.il)
-* Berlin Institute for the Foundations of Learning and Data(tu-berlin.de)
-* University of California, Los Angeles(cs.ucla.edu)
-* University of Utah(cs.utah.edu)
-* A*STAR(cfar.a-star.edu.sg)
-* AGI Center, Ant Research Institute(antgroup.com)
-* AI & Data Science, Monash University(monash.edu.au)
-* AI Core,Zhongguancun Institute of Artificial Intelligence(zgci.ac.cn)
-* AI Institute, Innopolis University(innopolis.university)
-* AI4SCI,Centre for Artificial Intelligence and Robotics Hong Kong, Chinese Academy of Sciences(cair-cas.org.hk)
-* AIRI(airi.edu)
-* AMCS, GRASP,University of Pennsylvania(upenn.edu)
-* American University
-* Anhui Province Key Laboratory of Big Data Analysis and Application; State Key Laboratory of Cognitive Intelligence
-* BOSS Zhipin
-* Baylor University
-* Beijing Technology and Business University
-* Brandeis University
-* C3.ai Digital Transformation Institute
-* CAS Key Laboratory of GIPAS, University of Science and Technology of China
-* CENTAI Institute
-* CRIPAC, MAIS, Institute of Automation, Chinese Academy of Sciences
-* Case Western Reserve University
-* Center for Frontier AI Research, Agency for Science and Technology and Research (A*STAR)
-* China Electric Power Research Institute
-* China’s Aviation System Engineering Research Institute
-* Clemson University
-* University of British Columbia(cs.ubc.ca)
-* University of Chicago(cs.uchicago.edu)
-* Université Paris-Dauphine (Paris IX)(lamsade.dauphine.fr)
-* AI Centre, Department of Computer Science,University College London, University of London(ucl.ac.uk)
-* 1Advanced Research Lab, NavInfo Europe, The Netherlands
-* 1Gaoling School of Artiﬁcial Intelligence, Renmin University of China, Beijing, China
-* 2Beijing Key Laboratory of Big Data Management and Analysis Methods, Beijing, China
-* 2Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands
-* 360 DigiTech, Inc
-* 3Huawei London Research Center, UK
-* 3School of Computer Science, Beijing University of Posts and Telecommunications, China
-* 4Guangxi Key Lab of Multi-Source Information Mining and Security, Guangxi Normal University, Guilin 541004, China
-* AGH University
-* AI Division, School of Engineering, Westlake University, Hangzhou
-* AI Initiative, King Abdullah University of Science and Tech, Saudi Arabia+Jarvis Lab, Tencent, Shenzhen 518057, China
-* AI Lab, CyberAgent, Japan
-* AI Research and Innovation Laboratory, School of Engineering, Westlake University
-* AI Research and Innovation Laboratory, Institute of AI Industry Research
-* AI4Bharat
-* AIRI
+---
 
-## TOP 25 RANKED ORGANIZATIONS
+## Folder structure
 
-* OpenAI
-* Google Research
-* DeepMind
-* Meta AI
-* Facebook
-* Microsoft Research
-* Amazon AI
-* IBM Research
-* Snowflake
-* Databricks
-* Hugging Face
-* NVIDIA Research
-* Stanford University AI Lab
-* MIT CSAIL
-* CMU Machine Learning Department
-* Berkeley AI Research (BAIR)
-* Allen Institute for AI (AI2)
-* Huawei Noah's Ark Lab
-* Salesforce Research
-* Adobe Research
-* Tencent AI Lab
-* ByteDance AI Lab
-* Qualcomm AI Research
-* Bytedance NLP Lab
-* Apple Machine Learning Research
-* Ant Financial / Alibaba DAMO Academy
+| Path | What it is |
+| --- | --- |
+| `InputFiles/`, `InputFiles2/` | Raw **author-row** CSVs extracted from papers (author, affiliations, `file_name`, conference). Start here for ACL/EMNLP/COLING-style ingest. |
+| `Outputs/` | Pipeline products: `*_country_mapped_ranked_preprint.csv` (Country, rank, arXiv `Date`). |
+| `OldOutputs/` | Earlier venue CSVs (ICLR, ICML, NeurIPS, AAAI, CVPR, KDD, …) used by Table 3 and several regressions. |
+| `Processed_Data/` | Packaged processed tables on the GitHub `main` snapshot (if present). Prefer `Outputs/` + `OldOutputs/` for the full local analysis. |
+| `lookup/` | Country / institution name lists used in country mapping (`countries.csv`, `institutions.csv`). |
+| `lookup_rank/` | **Year-specific CSRankings** files (see below). |
+| `PipelineFiles/` | Country → rank → arXiv-date mapping pipeline. |
+| `ReviewsICLR/`, `ReviewsICML/`, `ReviewsNeurIPS/` | OpenReview JSON dumps + scraper scripts. |
+| `NeurIPS Dataset and Benchmark/` | Extra NeurIPS D&B reviews (2023–2025). |
+| `ReviewerPlots/` | Paper-level mean rating/confidence, plots, and **rating/confidence OLS** (Task 5). |
+| `ICLR_Analysis/` | **ICLR acceptance logistic regression** (Task 4 / Table 6 in the manuscript). |
+| `LeadTimeAnalysis/` | Continuous preprint lead-time descriptives (Task 6). |
+| `InstitutionalTierAnalysis/` | Institutional-tier robustness OLS (Task 7). |
+| `MetadataAvailability/` | Table 3 metadata-availability counts. |
+| `CMH_Test/` | Cochran–Mantel–Haenszel tests (US vs China preprint rates). |
+| `ConfusionMatrix/` | Conference **submission / review deadlines** and timing-window figures. |
+| `WorldMapPlots/` | Geographic preprint maps by lead-time bucket. |
+| `OPS/` | Oral/poster style summaries. |
+| `COLING2025_Remaining/` | Local PDFs for remaining COLING 2025 main papers (gitignored). |
+
+---
+
+## Where to find the data
+
+**Author / paper metadata (affiliations, country, rank, preprint date)**  
+- Latest NLP-style tracks: `Outputs/*_country_mapped_ranked_preprint.csv`  
+- ICLR / ICML / NeurIPS / AAAI / CVPR / KDD (and older dumps): `OldOutputs/`  
+- Unprocessed author extracts: `InputFiles/`, `InputFiles2/`  
+- Combined paper-level inventory for Table 3: `MetadataAvailability/task3_paper_metadata_dataset.csv`  
+- Table 3 itself: `MetadataAvailability/table3_metadata_availability.csv` (built by `task3_metadata_availability.py`)
+
+**Deadlines (CfP / submission / review windows)**  
+- `ConfusionMatrix/conference_deadlines.csv`
+
+  **Deadlines (CfP / submission / review windows)**
+
+```
+ConfusionMatrix/
+├── conference_deadlines.csv
+├── matrix.py
+├── matrix_30days.py
+├── matrix_60days.py
+├── matrix_90days.py
+├── matrix_180days.py
+├── matrix_180days_more.py
+├── matrix_between.py
+├── Preprints_available.png
+├── confusionMatrix.png
+├── 30_days.png
+├── 60_days.png
+├── 90_days.png
+├── 180_days.png
+├── greater_than_180_days.png
+├── Between_CfP-Review.png
+└── CfP-Review.png
+```
+
+`conference_deadlines.csv` columns: `Conference`, `Year`, `Submission Deadline`, `Review deadline`.
+
+---
+
+## Review data
+
+Official OpenReview notes (ratings, confidence, decisions) are stored as one JSON per paper:
+
+```
+ReviewsICLR/
+└── Reviews/
+    ├── ICLR 2023/
+    │   ├── Poster/*.json
+    │   ├── Submitted/*.json
+    │   ├── Withdrawn_Rejected/*.json
+    │   ├── top25/*.json
+    │   └── top_5/*.json
+    ├── ICLR 2024/
+    │   ├── accepted(oral)/*.json
+    │   ├── accepted(poster)/*.json
+    │   ├── accepted(spotlight)/*.json
+    │   ├── desk_rejected/*.json
+    │   └── reject/*.json
+    └── ICLR 2025/
+        ├── accepted(oral)/*.json
+        ├── accepted(poster)/*.json
+        ├── accepted(spotlight)/*.json
+        ├── desk_rejected/*.json
+        ├── reject/*.json
+        └── withdrawn/*.json
+
+ReviewsICML/
+└── Reviews/
+    ├── ICML 2024/
+    │   ├── accept(oral)/*.json
+    │   ├── accept(poster)/*.json
+    │   └── accept(spotlight)/*.json
+    └── ICML 2025/
+        ├── accept(oral)/*.json
+        ├── accept(poster)/*.json
+        ├── accept(spotlight)/*.json
+        ├── rejected/*.json
+        └── retracted acceptance/*.json
+
+ReviewsNeurIPS/
+└── Reviews/
+    ├── NeurIPS 2023/
+    │   ├── Datasets_and_benchmark/*.json
+    │   ├── accept(oral)/*.json
+    │   ├── accept(poster)/*.json
+    │   ├── accept(spotlight)/*.json
+    │   └── reject/*.json
+    ├── NeurIPS 2024/
+    │   ├── Datasets_and_benchmark/*.json
+    │   ├── accept(oral)/*.json
+    │   ├── accept(poster)/*.json
+    │   ├── accept(spotlight)/*.json
+    │   └── reject/*.json
+    └── NeurIPS 2025/
+        ├── Datasets_and_benchmark/*.json
+        ├── oral/*.json
+        ├── poster/*.json
+        ├── spotlight/*.json
+        └── reject/*.json
+```
 
 
-## BOTTOM 25 RANKED ORGANIZATIONS
 
-* Alibaba Group
-* Huawei Technologies Ltd.
-* Tencent AI Lab
-* AI Institution,Vivo(vivo.com)
-* 4Paradigm Inc.(4paradigm.com)
-* AI Advanced Technology,SK hynix(sk.com)
-* AI Core Research,Toyota Motor Europe(toyota-europe.com)
-* AI Research,Salesforce(salesforce.com)
-* AI,Reality Defender(realitydefender.com)
-* AI/ML,GlaxoSmithKlein(gsk.ai)
-* ASAPP(asapp.com)
-* ASAPP Inc.(asapp.com)
-* Alibaba Group US
-* Amazon Search Science and AI
-* Amazon Web Services
-* Beijing Big Data Centre
-* ByteDance
-* Bytedance Research
-* CITIC Securities
-* Calculation Consulting
-* Capinfo Company Limited
-* Spotify(spotify.com)
-* 2012 Labs,Huawei Technologies Ltd.(huawei.com)
-* ADLR,NVIDIA(nvidia.com)
-* AFSL,Samsung(samsung.com)
-* AI Algorithm,Sengine(sengine.ai)
-* AI Center,Samsung(samsung.com)
-* AI Foundations,CapitalOne(capitalone.com)
-* AI Frontier,Microsoft(microsoft.com)
-* AI Institution,OPPO(oppo.com)
-* AI LAB Bytedance(bytedance.com)
-* AI Lab,ByteDance Inc.(bytedance.com)
-* AI Lab,Kangma Biotech(healthcodon.com)
-* AI Lab,NAVER(navercorp.com)
-* 1Advanced Research Lab, NavInfo Europe, The Netherlands
-* 360 DigiTech, Inc
-* 3Huawei London Research Center, UK
-* AIRS Company, Hyundai Motor Group
-* AWS AI Labs + IBM Research AI
-* Air Force Research Laboratory
-* Algorithmics and Computational Complexity, Technische Universit ¨at Berlin
-* Algorithms and Complexity Group, Technische Universit ¨at Wien, Vienna, Austria
-* Alibaba Cloud Computing Ltd.
-* Alibaba DAMO Academy
-* Alibaba Group
-* Alibaba US, DAMO Academy, Decision Intelligence Lab
-* Alibaba group, China
-* Amazon Science
-* Amgen Research (Munich) GmbH, Munich, Germany
-* Ant Group + Alibaba Inc
-* Ant Group, Hangzhou, China + Toyota Technological Institute at Chicago, Chicago, IL, United States
-* Apple
-* Apple + Google Research
-* Applied Research Center (ARC), Tencent PCG
-* Autonomous Learning Group, Max Planck Institute for Intelligent Systems, Tübingen, Germany
-* Beijing Academy of Artificial Intelligence
-* Beijing Academy of Artificial Intelligence, Beijing, China
-* Beijing Rongda Technology Co., Ltd., China
-* Boehringer Ingelheim RCV GmbH & Co KG, Vienna, Austria
+Tracks include accepted oral/poster/spotlight and rejected/withdrawn folders. Scraper scripts sit beside the dumps, e.g. `ReviewsICLR/Reviews_2024.py`, `ReviewsICML/Reviews_2025.py`.
+
+NeurIPS Datasets & Benchmarks reviews: `NeurIPS Dataset and Benchmark/Reviews/<year>/`.
+
+**Aggregated reviewer scores (one row per paper)**  
+- `ReviewerPlots/paper_review_scores.csv` — mean official rating and confidence, preprint group, country, rank  
+- Built by `ReviewerPlots/extract_review_scores.py` (reads the JSON folders above)
+
+ICML 2023–2024 have **no** OpenReview confidence/rating in this corpus; ICML 2025 ratings are present.
+
+---
+
+## CMH test data and code
+
+All Cochran–Mantel–Haenszel material is in **`CMH_Test/`**.
+
+| File | Role |
+| --- | --- |
+| `CMHControlledExperiment.py` | CMH on `Outputs/` preprint CSVs (default: ACL 2023), US vs China. |
+| `USA_China.py` | CMH from `pre-print_or_not.csv` → `USA_China_results.csv`. |
+| `USA_China_30.py` | Same, 30-day preprint definition (`pre-print_or_not_30.csv`). |
+| `top_bottom_USA.py`, `top_bottom_China.py` | Top vs bottom CSRankings strata. |
+| `top_bottom_30_USA.py`, `top_bottom_30 China.py` | Same with the 30-day rule. |
+| `pre-print_or_not*.csv`, `pre-print_30_*.csv`, `top_bottom_*.csv` | Stratified 2×2 counts (input). |
+| `USA_China_results.csv` | Pooled odds ratio / p-value (output). |
+
+H0: common odds ratio of preprint vs no-preprint is the same for US and China across strata. H1: that odds ratio differs.
+
+---
+
+## Regression data and code
+
+### ICLR acceptance (logistic)
+
+- **Code:** `ICLR_Analysis/task4_iclr_submission_acceptance.py`  
+- **Run:** `ICLR_Analysis/run_task4.ps1`  
+- **Model data:** `ICLR_Analysis/task4_submission_dataset.csv` (one row per unique ICLR 2023–2025 submission)  
+- **Results:**  
+  - `table4_iclr_submission_logistic.csv` — preprint visibility, timing, tier, country, year  
+  - `table4_us_country_contrasts.csv`  
+  - `table4_china_country_contrasts.csv`  
+- **Source papers:** `OldOutputs/ICLR/` plus deadlines in `ConfusionMatrix/conference_deadlines.csv`  
+- `preprint_visible = 1` if the arXiv date is **on/after CfP − 30 days**; else 0 (including no date).
+
+Formula (simplified):
+
+`accepted ~ preprint_visible + C(preprint_timing) + C(institution_tier) + C(country_group) + C(year)`
+
+### Reviewer rating and confidence (OLS)
+
+- **Code:** `ReviewerPlots/task5_common.py`, `task5_rating_ols.py`, `task5_confidence_ols.py`  
+- **Run:** `ReviewerPlots/run_task5.ps1`  
+- **Input:** `ReviewerPlots/paper_review_scores.csv`  
+- **Model data:** `ReviewerPlots/task5_model_dataset.csv`  
+- **Results:** `ReviewerPlots/table5_reviewer_rating_confidence.csv`  
+- Outcomes are **z-scored within venue × year**. Rating model uses ICLR + ICML + NeurIPS; confidence drops ICML (no scores).
+
+`rating_z / confidence_z ~ preprint_visible + C(institution_tier) + C(country_group) + C(venue) + C(year)`
+
+### Other models
+
+| Analysis | Code | Dataset | Table |
+| --- | --- | --- | --- |
+| Metadata availability (Table 3) | `MetadataAvailability/task3_metadata_availability.py` | `task3_paper_metadata_dataset.csv` | `table3_metadata_availability.csv` |
+| Preprint lead time | `LeadTimeAnalysis/task6_continuous_preprint_lead_time.py` | `task6_lead_time_dataset.csv` | `table6_continuous_preprint_lead_time.csv` |
+| Institutional-tier robustness | `InstitutionalTierAnalysis/task7_institutional_tier_robustness.py` | `task7_model_dataset.csv` | `table7_institutional_tier_robustness.csv` |
+
+---
+
+## CSRankings (every year)
+
+Year-specific CSRankings tables:
+
+**CSRankings (every year)**
+
+```
+lookup_rank/
+├── 2023_cs_ranks.csv
+├── 2023_cs_ranks.txt
+├── 2024_cs_ranks.csv
+├── 2024_cs_ranks.txt
+├── 2025_cs_ranks.csv
+└── 2025_cs_ranks.txt
+```
+
+CSV columns: `rank`, `affiliations`. The pipeline uses `{year}_cs_ranks.csv` (year taken from the author CSV filename). `.txt` files are the raw CSRankings exports.
+
+
+Columns: `rank`, `affiliations`. Tied ranks are allowed (several institutes can share the same rank). Matching is **name-based** (normalize, exact, then containment)—not a join on IDs. The pipeline picks the **best (lowest) rank** if several affiliations match.
+
+`PipelineFiles/rank_mapping_pipeline.py` reads the year from the CSV filename (`acl_2025_...` → `2025_cs_ranks.csv`) and writes a `rank` column.
+
+Institution tier in the regressions: **top** = rank ≤ 20; **bottom** = at/below a year-specific tail (2023: 465, 2024: 475, 2025: 476); otherwise **not_listed**.
+
+---
+
+## How `PipelineFiles` work
+
+`PipelineFiles/main.py` runs four steps on author CSVs:
+
+1. **Country** — `country_mapping_pipeline.py`  
+   - Reads author CSVs (`InputFiles2/` by default, or `--inputs path1 path2`).  
+   - `country_mapping.py` matches affiliation strings to `lookup/`.  
+   - Unmapped affiliations can go through `openrouter_country_fallback.py` (`OPENROUTER_API_KEY` in `.env`).  
+   - Writes `*_country_mapped.csv`.
+
+2. **Rank** — `rank_mapping_pipeline.py`  
+   - Takes `*_country_mapped.csv`.  
+   - Looks up `lookup_rank/{year}_cs_ranks.csv`.  
+   - Writes `*_country_mapped_ranked.csv` with `rank`.
+
+3. **arXiv date** — `arXiv_mapping.py`  
+   - Serper search (`SERPER_API_KEY` in `.env`) with `site:arxiv.org`.  
+   - Keeps the first hit whose link is arXiv, title similarity ≥ 0.60, and date is usable (skips empty / “by Author · YEAR” snippets).  
+   - Writes/updates `Date` on the same CSV (checkpoints every 25 unique titles).
+
+4. **Experiment copy** — `Experiment.py`  
+   - Copies `*mapped_ranked.csv` to `*_preprint.csv` naming used by some CMH/plot scripts.
+
+Typical single-file run (from the project root):
+
+```powershell
+python PipelineFiles/country_mapping_pipeline.py --inputs InputFiles\coling2025_main_remaining.csv
+python PipelineFiles/rank_mapping_pipeline.py -i path\to\*country_mapped.csv
+python PipelineFiles/arXiv_mapping.py -i path\to\*mapped_ranked.csv
+
