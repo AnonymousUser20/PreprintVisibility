@@ -1,0 +1,688 @@
+Title,Submission Date
+ModHiFi: Identifying High Fidelity predictive components for Model Modification,"24 November, 2025"
+The Structure of Relation Decoding Linear Operators in Large Language Models,October 2025
+KLASS: KL-Guided Fast Inference in Masked Diffusion Models,"7 November, 2025"
+HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models,September 2024
+Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models,"26 September, 2025"
+Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$  Pruning,"4 February, 2025"
+An Analysis of Causal Effect Estimation using Outcome Invariant Data Augmentation,"28 October, 2025"
+Deciphering the Extremes: A Novel Approach for Pathological Long-tailed Recognition in Scientific Discovery,Not Found
+OpenCUA: Open Foundations for Computer-Use Agents,"12 August, 2025"
+Near-Optimal Experiment Design in Linear non-Gaussian Cyclic Models,"25 September, 2025"
+Escaping saddle points without Lipschitz smoothness: the power of nonlinear preconditioning,September 2025
+Activation Control for Efficiently Eliciting Long Chain-of-thought Ability of Language Models,May 2025
+Direct Fisher Score Estimation for Likelihood Maximization,June 2025
+Path-Enhanced Contrastive Learning for Recommendation,Not Found
+T-REGS: Minimum Spanning Tree Regularization for Self-Supervised Learning,"27 October, 2025"
+Generating Informative Samples for Risk-Averse Fine-Tuning of Downstream Tasks,Not Found
+AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play,September 2025
+DeltaFlow: An Efficient Multi-frame Scene Flow Estimation Method,"23 August, 2025"
+Web-Shepherd: Advancing PRMs for Reinforcing Web Agents,"21 May, 2025"
+How do Transformers Learn Implicit Reasoning?,Not Found
+On the sample complexity of semi-supervised multi-objective learning,August 2025
+Diversity-Aware Policy Optimization for Large Language Model Reasoning,"29 May, 2025"
+Fixed-Point RNNs: Interpolating from Diagonal to Dense,"13 March, 2025"
+Bridging Theory and Practice in Link Representation with Graph Neural Networks,June 2025
+ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space,Not Found
+Protein Design with Dynamic Protein Vocabulary,"24 May, 2025"
+Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning,October 2025
+AI-Researcher: Autonomous Scientific Innovation,May 2025
+Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency,October 2025
+DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation,September 2025
+Learning Robust Vision-Language Models from Natural Latent Spaces,Not Found
+Accelerating Diffusion LLMs via Adaptive Parallel Decoding,"31 May, 2025"
+Inner Speech as Behavior Guides: Steerable Imitation of Diverse Behaviors for Human-AI coordination,February 2026
+Graph-Based Attention for Differentiable MaxSAT Solving,Not Found
+Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems,"21 May, 2025"
+LogicTree: Improving Complex Reasoning of LLMs via Instantiated Multi-step Synthetic Logical Data,Not Found
+Multitask Learning  with Stochastic Interpolants,"6 August, 2025"
+FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities,"26 May, 2025"
+Fast MRI for All: Bridging Access Gaps by Training without Raw Data,"19 November, 2024"
+"Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better",May 2025
+Complete Structure Guided Point Cloud Completion via Cluster- and Instance-Level Contrastive Learning,Not Found
+ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation,"30 May, 2025"
+Projective Equivariant Networks via Second-order Fundamental Differential Invariants,Not Found
+ZeroS: Zero‑Sum Linear Attention for Efficient Transformers,February 2026
+Blameless Users in a Clean Room: Defining Copyright Protection for Generative Models,"23 June, 2025"
+Adaptive 3D Reconstruction via Diffusion Priors and Forward Curvature-Matching Likelihood Updates,November 2025
+From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers,December 2025
+Learning Interestingness in Automated Mathematical Theory Formation,November 2025
+DNA-DetectLLM: Unveiling AI-Generated Text via a DNA-Inspired Mutation-Repair Paradigm,"18 September, 2025"
+Signal and Noise: A Framework for Reducing Uncertainty in Language Model Evaluation,August 2025
+Tradeoffs between Mistakes and ERM Oracle Calls in Online and Transductive Online Learning,June 2025
+The World Is Bigger! A Computationally-Embedded Perspective on the Big World Hypothesis,December 2025
+Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment,October 2025
+On the Hardness of Conditional Independence Testing In Practice,December 2025
+Emergence and Evolution of Interpretable Concepts in Diffusion Models,"21 April, 2025"
+PCA++: How Uniformity Induces Robustness to Background Noise in Contrastive Learning,November 2025
+Optimal Nuisance Function Tuning for Estimating a Doubly Robust Functional under Proportional Asymptotics,"29 September, 2025"
+GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution,"27 May, 2025"
+Environment Inference for Learning Generalizable Dynamical System,October 2025
+Abstract Rendering:  Certified Rendering Under 3D Semantic Uncertainty,Not Found
+Inference-Time Reward Hacking in Large Language Models,"23 June, 2025"
+High-Performance Arithmetic Circuit Optimization via Differentiable Architecture Search,Not Found
+ROOT: Rethinking Offline Optimization as Distributional Translation via Probabilistic Bridge,"19 September, 2025"
+Go With the Flow: Fast Diffusion for Gaussian Mixture Models,"12 December, 2024"
+SHF: Symmetrical Hierarchical Forest with Pretrained Vision Transformer Encoder for High-Resolution Medical Segmentation,Not Found
+ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs,"23 May, 2025"
+Fair Cooperation in Mixed-Motive Games via Conflict-Aware Gradient Adjustment,August 2025
+OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts,"7 July, 2025"
+Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations,Not Found
+Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems,October 2025
+Feedback-Aware MCTS for Goal-Oriented Information Seeking,Not Found
+Self-Supervised Learning of Motion Concepts by Optimizing Counterfactuals,March 2025
+Uncertain Knowledge Graph Completion via Semi-Supervised Confidence Distribution Learning,"18 October, 2025"
+OCTDiff: Bridged Diffusion Model for Portable OCT Super-Resolution and Enhancement,Not Found
+Bits Leaked per Query: Information-Theoretic Bounds for Adversarial Attacks on LLMs,October 2025
+Characterizing control between interacting subsystems with deep Jacobian estimation,July 2025
+Sharper Convergence Rates for Nonconvex Optimisation via Reduction Mappings,"10 June, 2025"
+Selective Omniprediction and Fair Abstention,Not Found
+Algorithms and SQ Lower Bounds for Robustly Learning Real-valued Multi-Index Models,May 2025
+A Principled Approach to Randomized Selection under Uncertainty: Applications to Peer Review and Grant Funding,"23 June, 2025"
+Error Forcing in Recurrent Neural Networks,Not Found
+Aligning Text-to-Image Diffusion Models to Human Preference by Classification,Not Found
+Sketched Gaussian Mechanism for Private Federated Learning,September 2025
+Joint‑Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self‑Supervised Learning,"18 May, 2025"
+Accelerating data-driven algorithm selection for combinatorial partitioning problems,"22 February, 2024"
+Purifying Shampoo: Investigating Shampoo's Heuristics by Decomposing its Preconditioner,"4 June, 2025"
+Replicable Distribution Testing,July 2025
+FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction,November 2025
+Causality Meets Locality: Provably Generalizable and Scalable Policy Learning for Networked Systems,October 2025
+Conformal Mixed-Integer Constraint Learning with Feasibility Guarantees,June 2025
+Why Do Some Language Models Fake Alignment While Others Don't?,Not Found
+⁠When Data Can't Meet: Estimating Correlation Across Privacy Barriers,Not Found
+TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence,"26 June, 2025"
+Deep Value Benchmark: Measuring Whether Models Generalize Deep Values or Shallow Preferences,"3 November, 2025"
+Return of ChebNet: Understanding and Improving an Overlooked GNN on Long Range Tasks,"9 June, 2025"
+Preconditioned Langevin Dynamics with Score-based Generative Models for Infinite-Dimensional Linear Bayesian Inverse Problems,"23 May, 2025"
+Transferring Linear Features Across Language Models With Model Stitching,"6 June, 2025"
+Causal Differentiating Concepts:  Interpreting LM Behavior via Causal Representation Learning,Not Found
+Ambient Proteins - Training Diffusion Models on Noisy Structures,Not Found
+On Universality Classes of Equivariant Networks,"2 June, 2025"
+Guarantees for Alternating Least Squares in Overparameterized Tensor Decompositions,Not Found
+Checklists Are Better Than Reward Models For Aligning Language Models,"24 July, 2025"
+Blackbox Model Provenance via Palimpsestic Membership Inference,October 2025
+Scaling can lead to compositional generalization,"9 July, 2025"
+Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning,May 2025
+AnaCP: Toward Upper-Bound Continual Learning via Analytic Contrastive Projection,November 2025
+Flow Density Control: Generative Optimization Beyond Entropy-Regularized Fine-Tuning,November 2025
+What Expressivity Theory Misses: Message Passing Complexity for GNNs,"1 September, 2025"
+Ambient Diffusion Omni: Training Good Models with Bad Data,June 2025
+UMA: A Family of Universal Models for Atoms,"30 June, 2025"
+The Best Instruction-Tuning Data are Those That Fit,"6 February, 2025"
+Forecasting in Offline Reinforcement Learning for Non-stationary Environments,"1 December, 2025"
+Purifying Approximate Differential Privacy with Randomized Post-processing,"26 March, 2025"
+Trust Region Constrained Measure Transport in Path Space for Stochastic Optimal Control and Inference,August 2025
+How Well Can Differential Privacy Be Audited in One Run?,Not Found
+Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning,Not Found
+Is Noise Conditioning Necessary? A Unified Theory of Unconditional Graph Diffusion Models,Not Found
+An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination,"24 October, 2025"
+SHAP values via sparse Fourier representation,"8 October, 2024"
+Quantum Doubly Stochastic Transformers,"22 April, 2025"
+Reverse Engineering Human Preferences with Reinforcement Learning,"21 May, 2025"
+Efficient Fairness-Performance Pareto Front Computation,"26 September, 2024"
+Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity,"3 October, 2025"
+ElliCE: Efficient and Provably Robust Algorithmic Recourse via the Rashomon Sets,February 2026
+Head Pursuit: Probing Attention Specialization in Multimodal Transformers,"24 October, 2025"
+Towards a Golden Classifier-Free Guidance Path via Foresight Fixed Point Iterations,October 2025
+Credal Prediction based on Relative Likelihood,"28 May, 2025"
+The Power of Iterative Filtering for Supervised Learning with (Heavy) Contamination,"26 May, 2025"
+Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators,"1 August, 2025"
+Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling,"3 May, 2025"
+CTRL-ALT-DECEIT Sabotage Evaluations for Automated AI R&D,"12 November, 2025"
+An Analytical Theory of Spectral Bias in the Learning Dynamics of Diffusion Models,"5 March, 2025"
+DeepHalo: A Neural Choice Model with Controllable Context Effects,January 2026
+Multi-Agent Learning under Uncertainty: Recurrence vs. Concentration,December 2025
+Quantum speedup of non-linear Monte Carlo problems,"7 February, 2025"
+Fine-grained List-wise Alignment for Generative Medication Recommendation,May 2025
+Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach,"7 February, 2025"
+Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics,"6 June, 2025"
+Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining,"16 May, 2025"
+Dynamic Algorithm for Explainable $k$-medians Clustering under $\ell_p$ Norm,Not Found
+Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs,"12 February, 2025"
+Is the acquisition worth the cost? Surrogate losses for   Consistent Two-stage Classifiers,Not Found
+SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training,"16 May, 2025"
+Eluder dimension: localise it!,January 2026
+Communication-Efficient Language Model Training Scales Reliably and Robustly: Scaling Laws for DiLoCo,March 2025
+"FlashMD: long-stride, universal prediction of molecular dynamics","25 May, 2025"
+Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting,"20 February, 2025"
+3D Equivariant Visuomotor Policy Learning via Spherical Projection,"22 May, 2025"
+Predictable Scale (Part II) --- Farseer: A Refined Scaling Law in LLMs,Not Found
+Adaptive Prediction-Powered AutoEval with Reliability and Efficiency Guarantees,"24 May, 2025"
+Ridge Boosting is Both Robust and Efficient,October 2025
+A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning,"3 January, 2025"
+Generalizable Reasoning through Compositional Energy Minimization,October 2025
+Universal Sequence Preconditioning,"10 February, 2025"
+Enigmata:  Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles,"26 May, 2025"
+Memory-Enhanced Neural Solvers for Routing Problems,"24 June, 2024"
+Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition,"29 May, 2025"
+Two Heads are Better than One: Simulating Large Transformers with Small Ones,"13 June, 2025"
+Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span,November 2025
+Unifying Proportional Fairness in Centroid and Non-Centroid Clustering,January 2026
+ARIA: Training Language Agents with Intention-driven Reward Aggregation,"31 May, 2025"
+Reasoning Planning for Language Models,"29 January, 2026"
+When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners,"21 May, 2025"
+EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting,"20 October, 2024"
+Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs,May 2025
+Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples,October 2025
+Understanding Prompt Tuning and In-Context Learning via Meta-Learning,"22 May, 2025"
+Error Broadcast and Decorrelation as a Potential Artificial and Natural Learning Mechanism,"15 April, 2025"
+On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks,"30 May, 2025"
+TokenSwap: A Lightweight Method to Disrupt Memorized Sequences in LLMs,Not Found
+Streaming Attention Approximation via Discrepancy Theory,"11 February, 2025"
+SegMASt3R: Geometry Grounded Segment Matching,"6 October, 2025"
+Among Us: A Sandbox for Measuring and Detecting Agentic Deception,"5 April, 2025"
+AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling,"21 February, 2025"
+Towards Interpretable and Efficient Attention: Compressing All by Contracting a Few,"20 September, 2025"
+EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks,"19 September, 2025"
+Product Distribution Learning with Imperfect Advice,November 2025
+RoboScape: Physics-informed Embodied World Model,June 2025
+InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection,Not Found
+ARM: Adaptive Reasoning Model,"26 May, 2025"
+Computational Efficiency under Covariate Shift in Kernel Ridge Regression,May 2025
+Self-Assembling Graph Perceptrons,Not Found
+Scaling and context steer LLMs along the same computational path as the human brain,December 2025
+InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models,"19 May, 2025"
+SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios,"3 June, 2025"
+HyPINO: Multi-Physics Neural Operators via HyperPINNs and the Method of Manufactured Solutions,"5 September, 2025"
+RidgeLoRA: Matrix Ridge Enhanced Low-Rank Adaptation of Large Language Models,Not Found
+Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens,Not Found
+Hyperbolic Fine-Tuning for Large Language Models,"4 October, 2024"
+Deep Continuous-Time State-Space Models for Marked Event Sequences,"27 December, 2024"
+HBLLM: Wavelet-Enhanced High-Fidelity 1-Bit Quantization for LLMs,"30 November, 2025"
+Which Algorithms Have Tight Generalization Bounds?,Not Found
+Axial Neural Networks for Dimension-Free Foundation Models,"15 October, 2025"
+Horizon Reduction Makes RL Scalable,"4 June, 2025"
+OpenBox: Annotate Any Bounding Boxes in 3D,December 2025
+SGCD: Stain-Guided CycleDiffusion for Unsupervised Domain Adaptation of Histopathology Image Classification,Not Found
+FFN Fusion: Rethinking Sequential Computation in Large Language Models,March 2025
+Distilling LLM Agent into Small Models with Retrieval and Code Tools,"23 May, 2025"
+Understanding Parametric and Contextual Knowledge Reconciliation within Large Language Models,Not Found
+"Differentiable Decision Tree via ""ReLU+Argmin"" Reformulation",Not Found
+SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning,"5 March, 2025"
+3D Interaction Geometric Pre-training for Molecular Relational Learning,"3 December, 2024"
+Improved Bounds for Swap Multicalibration and Swap Omniprediction,"27 May, 2025"
+UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problems,Not Found
+Simultaneous Swap Regret Minimization via KL-Calibration,"22 February, 2025"
+Wide-Horizon Thinking and Simulation-Based Evaluation for Real-World LLM Planning with Multifaceted Constraints,"14 June, 2025"
+Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?,Not Found
+Probing Neural Combinatorial Optimization Models,October 2025
+A Principled Path to Fitted Distributional Evaluation,"24 June, 2025"
+Improving LLM General Preference Alignment via Optimistic Online Mirror Descent,February 2025
+Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities,"19 June, 2025"
+Compositional Monte Carlo Tree Diffusion for Extendable Planning,"24 October, 2025"
+Fast Monte Carlo Tree Diffusion: 100× Speedup via Parallel and Sparse Planning,Not Found
+Zero-shot Denoising via Neural Compression: Theoretical and algorithmic framework,"14 June, 2025"
+Gradient-Variation Online Adaptivity for Accelerated Optimization with Hölder Smoothness,November 2025
+A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search,"5 June, 2025"
+MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series,September 2025
+Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL,May 2025
+On the Universal Near Optimality of Hedge in Combinatorial Settings,"19 October, 2025"
+"Transfer Faster, Price Smarter: Minimax Dynamic Pricing under Cross-Market Preference Shift","22 May, 2025"
+Transformer brain encoders explain human high-level visual responses,"22 May, 2025"
+Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning,"18 September, 2025"
+MoBA: Mixture of Block Attention for Long-Context LLMs,February 2025
+DERD-Net: Learning Depth from Event-based Ray Densities,"22 April, 2025"
+Beyond Expectations: Quantile-Guided Alignment for Risk-Calibrated Language Models,Not Found
+VPO: Reasoning Preferences Optimization Based on $\mathcal{V}$-Usable Information,Not Found
+MoCha: Towards Movie-Grade Talking Character Generation,Not Found
+Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon,"25 June, 2025"
+Fisher meets Feynman: score-based variational inference with a product of experts,October 2025
+Mitigating the Privacy–Utility Trade-off in Decentralized Federated Learning via f-Differential Privacy,October 2025
+Mitigating Instability in High Residual Adaptive Sampling for PINNs via Langevin Dynamics,Not Found
+Spectral Estimation with Free Decompression,June 2025
+CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching,"23 September, 2025"
+Training-Free Constrained Generation With Stable Diffusion Models,"8 February, 2025"
+"Comparator-Adaptive $\Phi$-Regret: Improved Bounds, Simpler Algorithms, and Applications to Games",Not Found
+X-Field: A Physically Informed Representation for 3D X-ray Reconstruction,Not Found
+Distillation Robustifies Unlearning,"6 June, 2025"
+SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds,"30 November, 2025"
+Two‑Stage Learning of Stabilizing Neural Controllers via Zubov Sampling and Iterative Domain Expansion,"2 June, 2025"
+The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum Games,"12 February, 2025"
+On Traceability in $\ell_p$ Stochastic Convex Optimization,"24 February, 2025"
+Improved Representation Steering for Language Models,May 2025
+FlexOLMo: Open Language Models for Flexible Data Use,"9 July, 2025"
+The Fragile Truth of Saliency: Improving LLM Input Attribution via Attention Bias Optimization,Not Found
+Enhancing Training Data Attribution with Representational Optimization,"24 May, 2025"
+DisMo: Disentangled Motion Representations for Open-World Motion Transfer,November 2025
+Rig3R: Rig-Aware Conditioning and Discovery for 3D Reconstruction,Not Found
+Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization,November 2025
+Dense Associative Memory with Epanechnikov Energy,"12 June, 2025"
+Searching Latent Program Spaces,"13 November, 2024"
+Convergence Rates of Constrained Expected Improvement,"16 May, 2025"
+CoT Information: Improved Sample Complexity under Chain-of-Thought Supervision,May 2025
+Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time,"2 December, 2025"
+QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models,October 2025
+"Caption This, Reason That: VLMs Caught in the Middle","24 May, 2025"
+Universal Causal Inference in a Topos,Not Found
+Can We Infer Confidential Properties of Training Data from LLMs?,Not Found
+Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes,"25 May, 2025"
+Learning the Wrong Lessons: Syntactic-Domain Spurious Correlations in Language Models,"25 September, 2025"
+Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems,May 2025
+Private Set Union with Multiple Contributions,Not Found
+Clustering via Hedonic Games: New Concepts and Algorithms,Not Found
+The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis,October 2025
+Fast Training of Large Kernel Models with Delayed Projections,November 2024
+d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning,"16 April, 2025"
+Affine-Invariant Global Non-Asymptotic Convergence Analysis of BFGS under Self-Concordance,"30 June, 2025"
+Extrapolation by Association: Length Generalization Transfer In Transformers,"10 June, 2025"
+Optimal Neural Compressors for the Rate-Distortion-Perception Tradeoff,"21 March, 2025"
+Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness,"17 October, 2025"
+Color Conditional Generation with Sliced Wasserstein Guidance,March 2025
+Private Hyperparameter Tuning with Ex-Post Guarantee,August 2025
+A Implies B: Circuit Analysis in LLMs for Propositional Logical Reasoning,"6 November, 2024"
+Optimal and Provable Calibration in High-Dimensional Binary Classification: Angular Calibration and Platt Scaling,"20 February, 2025"
+Reconstruction and Secrecy under Approximate Distance Queries,November 2025
+Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs,May 2025
+Characterizing the Expressivity of Fixed-Precision Transformer Language Models,"29 May, 2025"
+Distributional Training Data Attribution: What do Influence Functions Sample?,Not Found
+Hogwild! Inference: Parallel LLM Generation via Concurrent Attention,"8 April, 2025"
+Mind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in Subject-Driven Generation,September 2025
+The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?,Not Found
+Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS,"11 June, 2025"
+Generalized Top-k Mallows Model for Ranked Choices,October 2025
+Improving Bilinear RNN with Closed-loop Control,"3 June, 2025"
+Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence,May 2025
+SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation,"27 May, 2025"
+Cost-Aware Contrastive Routing for LLMs,"17 August, 2025"
+Is Grokking a Computational Glass Relaxation?,Not Found
+LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers,Not Found
+On the necessity of adaptive regularisation: Optimal anytime online learning on $\boldsymbol{\ell_p}$-balls,Not Found
+Controlling Thinking Speed in Reasoning Models,"4 July, 2025"
+Vector Quantization in the Brain: Grid-like Codes in World Models,October 2025
+IA-GGAD: Zero-shot Generalist Graph Anomaly Detection via Invariant and Affinity Learning,Not Found
+Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws,October 2025
+MonoLift: Learning 3D Manipulation Policies from Monocular RGB via Distillation,Not Found
+SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation,"18 February, 2025"
+Conditional Representation Learning for Customized Tasks,"6 October, 2025"
+Angular Steering: Behavior Control via Rotation in Activation Space,October 2025
+COOPERA: Continual Open-Ended Human-Robot Assistance,October 2025
+Joint Hierarchical Representation Learning of Samples and Features via Informed Tree-Wasserstein Distance,"7 January, 2025"
+Detecting Generated Images by Fitting Natural Image Distributions,November 2025
+Agnostic Learning under Targeted Poisoning: Optimal Rates and the Role of Randomness,June 2025
+ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints,November 2025
+Establishing Linear Surrogate Regret Bounds for Convex Smooth Losses via Convolutional Fenchel–Young Losses,"14 May, 2025"
+Co-Reinforcement Learning for Unified Multimodal Understanding and Generation,"23 May, 2025"
+Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models,"23 May, 2025"
+Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding,October 2025
+Privacy amplification by random allocation,"12 February, 2025"
+Tackling Biased Evaluators in Dueling Bandits,Not Found
+Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization,"18 June, 2025"
+Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models,Not Found
+SORTeD Rashomon Sets of Sparse Decision Trees: Anytime Enumeration,November 2025
+TGA: True-to-Geometry Avatar Dynamic Reconstruction,Not Found
+Neighbor-aware Contrastive Disambiguation for Cross-Modal Hashing with Redundant Annotations,Not Found
+Minimax Adaptive Online Nonparametric Regression over Besov spaces,"26 May, 2025"
+UniSite: The First Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection,"3 June, 2025"
+URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model,November 2025
+L2DGCN: Learnable Enhancement and Label Selection Dynamic Graph Convolutional Networks for Mitigating Degree Bias,Not Found
+Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning,"22 October, 2025"
+Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data,"22 September, 2025"
+"RepLDM: Reprogramming Pretrained Latent Diffusion Models for High-Quality, High-Efficiency, High-Resolution Image Generation","8 October, 2024"
+"Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws","13 April, 2025"
+Differentiable Hierarchical Visual Tokenization,November 2025
+Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design,Not Found
+Meta CLIP 2: A Worldwide Scaling Recipe,"29 July, 2025"
+Policy Compatible Skill Incremental Learning via Lazy Learning Interface,"24 September, 2025"
+Estimating cognitive biases with attention-aware inverse planning,October 2025
+An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph,"2 February, 2025"
+DeepDiver: Adaptive Web-Search Intensity Scaling via Reinforcement Learning,"30 May, 2025"
+MetaGS: A Meta-Learned Gaussian-Phong Model for Out-of-Distribution 3D Scene Relighting,"31 May, 2024"
+Towards a Pairwise Ranking Model with Orderliness and Monotonicity for Label Enhancement,Not Found
+Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Bootstrapping,"31 January, 2025"
+Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning,"25 April, 2025"
+Exploration via Feature Perturbation in Contextual Bandits,"20 October, 2025"
+Instance-Optimality for Private KL Distribution Estimation,May 2025
+DMWM: Dual-Mind World Model with Long-Term Imagination,"11 February, 2025"
+TimeWak: Temporal Chained-Hashing Watermark for Time Series Data,"6 June, 2025"
+UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface,"3 March, 2025"
+DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models,"3 June, 2025"
+Precise Asymptotics and Refined Regret of Variance-Aware UCB,"11 December, 2024"
+InfMasking: Unleashing Synergistic Information  by Contrastive Multimodal Interactions,"28 September, 2025"
+Extracting task-relevant preserved dynamics from contrastive aligned neural recordings,Not Found
+Orochi: Versatile Biomedical Image Processor,September 2025
+WISA: World simulator assistant for physics-aware text-to-video generation,March 2025
+Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning,"5 June, 2025"
+KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation,"20 May, 2025"
+Learnable Sampler Distillation for Discrete Diffusion Models,September 2025
+On the Hardness of Approximating Distributions with Tractable Probabilistic Models,"1 June, 2025"
+MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE,"26 May, 2025"
+SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement,"10 April, 2025"
+Deno-IF: Unsupervised Noisy Visible and Infrared Image Fusion Method,Not Found
+ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection,October 2025
+Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues,May 2025
+PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding,"27 May, 2025"
+Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data,"29 May, 2025"
+Asymmetric Duos: Sidekicks Improve Uncertainty,"24 May, 2025"
+Robust learning of halfspaces under log-concave marginals,May 2025
+Implicit Bias of Spectral Descent and Muon on Multiclass Separable Data,"7 February, 2025"
+Lost in Transmission: When and Why LLMs Fail to Reason Globally,"12 May, 2025"
+On Transferring Transferability: Towards a Theory for Size Generalization,"29 May, 2025"
+When Worse is Better: Navigating the Compression Generation Trade-off In Visual Tokenization,Not Found
+FlowFeat: Pixel-Dense Embedding of Motion Profiles,November 2025
+The Generative Leap: Tight Sample Complexity for Efficiently Learning Gaussian Multi-Index Models,Not Found
+Incremental Sequence Classification with Temporal Consistency,"22 May, 2025"
+LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering,"29 May, 2025"
+"Solving Neural Min-Max Games: The Role of Architecture, Initialization & Dynamics",December 2025
+Provable Gradient Editing of Deep Neural Networks,Not Found
+Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models,"10 July, 2025"
+RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes,"18 September, 2025"
+Integration Matters for Learning PDEs with Backward SDEs,"2 May, 2025"
+Unleashing Hour-Scale Video Training for Long Video-Language Understanding,"5 June, 2025"
+Neural Entropy,March 2026
+Locality in Image Diffusion Models Emerges from Data Statistics,"11 September, 2025"
+Regularized least squares learning with heavy-tailed noise is minimax optimal,"20 May, 2025"
+On Feasible Rewards in Multi-Agent Inverse Reinforcement Learning,"22 November, 2024"
+"MonarchAttention: Zero-Shot Conversion to Fast, Hardware-Aware Structured Attention","24 May, 2025"
+The Hawthorne Effect in Reasoning Models: Evaluating and Steering Test Awareness,"20 May, 2025"
+Measuring and Controlling Solution Degeneracy across Task-Trained Recurrent Neural Networks,"4 October, 2024"
+Reinforcement Learning with Imperfect Transition Predictions: A Bellman-Jensen Approach,October 2025
+"AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench","3 July, 2025"
+Differentiable Cyclic Causal Discovery Under Unmeasured Confounders,"11 August, 2025"
+ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals,"11 March, 2025"
+Compositional Neural Network Verification via Assume-Guarantee Reasoning,Not Found
+A machine learning approach that beats Rubik's cubes,February 2025
+ENMA: Tokenwise Autoregression for Continuous Neural PDE Operators,Not Found
+Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training,"29 May, 2025"
+Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning,"5 September, 2025"
+Stochastic Optimization in Semi-Discrete Optimal Transport: Convergence Analysis and Minimax Rate,October 2025
+Transferable Black-Box One-Shot Forging of Watermarks via Image Preference Models,October 2025
+Non-Asymptotic Analysis Of Data Augmentation For Precision Matrix Estimation,"2 October, 2025"
+Improving Perturbation-based Explanations by Understanding the Role of Uncertainty Calibration,November 2025
+ConTextTab: A Semantics-Aware Tabular In-Context Learner,"12 June, 2025"
+Some Optimizers are More Equal: Understanding the Role of Optimizers in Group Fairness,"21 April, 2025"
+Less is More: Improving LLM Alignment via Preference Data Selection,"20 February, 2025"
+Stable Gradients for Stable Learning at Scale in Deep Reinforcement Learning,"18 June, 2025"
+SpecMER: Fast Protein Generation with K-mer Guided Speculative Decoding,September 2025
+SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs,"16 May, 2025"
+DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models,"16 October, 2025"
+"What One Cannot, Two Can: Two-Layer Transformers Provably Represent Induction Heads on Any-Order Markov Chains","10 August, 2025"
+Sample-Adaptivity Tradeoff in On-Demand Sampling,November 2025
+Online Strategic Classification With Noise and Partial Feedback,Not Found
+Partition-Then-Adapt: Combating Prediction Bias for Reliable Multi-Modal Test-Time Adaptation,Not Found
+Strategic Hypothesis Testing,August 2025
+Accelerating Optimization via Differentiable Stopping Time,May 2025
+Tight Generalization Bounds for Large-Margin Halfspaces,February 2025
+Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis,"29 September, 2025"
+UMoE: Unifying Attention and FFN with Shared Experts,"12 May, 2025"
+RF-Agent: Automated Reward Function Design via Language Agent Tree Search,February 2026
+GraLoRA: Granular Low-Rank Adaptation for Parameter-Efficient Fine-Tuning,"26 May, 2025"
+Quantization-Free Autoregressive Action Transformer,"18 March, 2025"
+LLM-Explorer: A Plug-in Reinforcement Learning Policy Exploration Enhancement Driven by Large Language Models,"21 May, 2025"
+BayeSQP: Bayesian Optimization through Sequential Quadratic Programming,February 2026
+Practical do-Shapley Explanations with Estimand-Agnostic Causal Inference,"24 September, 2025"
+AlphaZero Neural Scaling and Zipf's Law: a Tale of Board Games and Power Laws,"16 December, 2024"
+Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization,"4 June, 2025"
+The Computational Advantage of Depth in Learning High-Dimensional Hierarchical Targets,Not Found
+Thoughts Are All Over the Place: On the Underthinking of Long Reasoning Models,Not Found
+OPTFM: A Scalable Multi-View Graph Transformer for Hierarchical Pre-Training in Combinatorial Optimization,Not Found
+ESCA: Contextualizing Embodied Agents via Scene-Graph Generation,"11 October, 2025"
+Regret Bounds for Adversarial Contextual Bandits with General Function Approximation and Delayed Feedback,October 2025
+Towards Multi-Table Learning: A Novel Paradigm for Complementarity Quantification and Integration,Not Found
+"QFFT, Question-Free Fine-Tuning for Adaptive Reasoning",June 2025
+Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning,"19 May, 2025"
+Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules,"23 September, 2025"
+GSRF: Complex-Valued 3D Gaussian Splatting for Efficient Radio-Frequency Data Synthesis,"3 February, 2025"
+Sharp Gaussian approximations for Decentralized Federated Learning,"12 May, 2025"
+DAPO : Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage-Based Policy Optimization,Not Found
+MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization,Not Found
+Unveiling the Power of Multiple Gossip Steps: A Stability-Based Generalization Analysis in Decentralized Training,October 2025
+Enhancing Contrastive Learning with Variable Similarity,Not Found
+Orient Anything V2: Unifying Orientation and Rotation Understanding,January 2026
+A Closer Look at Graph Transformers: Cross-Aggregation and Beyond,Not Found
+Latent Policy Barrier: Learning Robust Visuomotor Policies by Staying In-Distribution,August 2025
+Bigram Subnetworks: Mapping to Next Tokens in Transformer Language Models,"21 April, 2025"
+"Minimax-Optimal Univariate Function Selection in Sparse Additive Models: Rates, Adaptation, and the Estimation-Selection Gap",Not Found
+Continuous Thought Machines,May 2025
+"Virus Infection Attack on LLMs: Your Poisoning Can Spread ""VIA"" Synthetic Data","26 September, 2025"
+Robust Neural Rendering in the Wild with Asymmetric Dual 3D Gaussian Splatting,"3 June, 2025"
+Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models,"17 April, 2025"
+CoLT: The conditional localization test for assessing the accuracy of neural posterior estimates,July 2025
+Predictive Preference Learning from Human Interventions,"1 October, 2025"
+Transformers for Mixed-type Event Sequences,Not Found
+ROGR: Relightable 3D Objects using Generative Relighting,"3 October, 2025"
+Hamiltonian Descent Algorithms for Optimization: Accelerated Rates via Randomized Integration Time,"18 May, 2025"
+Cost-aware LLM-based Online Dataset Annotation,"21 May, 2025"
+Scaling Unlocks Broader Generation and Deeper Functional Understanding of Proteins,Not Found
+STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis,June 2025
+Flow Equivariant Recurrent Neural Networks,"19 July, 2025"
+AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking,"22 May, 2025"
+LABridge: Text–Image Latent Alignment Framework via Mean-Conditioned OU Process,Not Found
+Achieving $\tilde{\mathcal{O}}(1/N)$ Optimality Gap in Restless Bandits through Gaussian Approximation,"19 October, 2024"
+On the Surprising Effectiveness of Large Learning Rates under Standard Width Scaling,"28 May, 2025"
+Flash Invariant Point Attention,May 2025
+SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference,"3 August, 2025"
+CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs,"19 May, 2025"
+On the Empirical Power of Goodness-of-Fit Tests in Watermark Detection,"4 October, 2025"
+Balancing Multimodal Training Through Game-Theoretic Regularization,"11 November, 2024"
+Bipolar Self-attention for Spiking Transformers,Not Found
+Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion,Not Found
+TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model,"20 October, 2025"
+Tensor Product Attention Is All You Need,"10 January, 2025"
+TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning,"21 March, 2025"
+DeCaFlow: A deconfounding causal generative model,"19 March, 2025"
+Transfer Learning for Benign Overfitting in High-Dimensional Linear Regression,"17 October, 2025"
+LLM Meeting Decision Trees on Tabular Data,"23 May, 2025"
+AgentBreeder: Mitigating the AI Safety Risks of Multi-Agent Scaffolds via Self-Improvement,"2 February, 2025"
+Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing,May 2025
+MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions,"13 April, 2025"
+FP4 All the Way: Fully Quantized Training of Large Language Models,Not Found
+Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem,Not Found
+VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning,"10 April, 2025"
+Spectral Graph Neural Networks are Incomplete on Graphs with a Simple Spectrum,"5 June, 2025"
+ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding,June 2025
+The Implicit Bias of Structured State Space  Models Can Be Poisoned With Clean Labels,"14 October, 2024"
+Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation,"11 June, 2025"
+BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization,"13 February, 2025"
+Conflict-Aware Knowledge Editing in the Wild: Semantic-Augmented Graph Representation for Unstructured Text,Not Found
+Vision Transformers with Self-Distilled Registers,"27 May, 2025"
+EraseFlow: Learning Concept Erasure Policies via GFlowNet-Driven Alignment,"2 November, 2025"
+Boundary-Value PDEs Meet Higher-Order Differential Topology-aware GNNs,Not Found
+4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos,"9 June, 2025"
+Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning,"3 June, 2025"
+How many measurements are enough? Bayesian recovery in inverse problems with general distributions,Not Found
+Diffusion Generative Modeling on Lie Group Representations,"4 February, 2025"
+EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis,December 2025
+CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models,"18 May, 2025"
+Projection-based Lyapunov method for fully heterogeneous weakly-coupled MDPs,"9 February, 2025"
+Low-degree evidence for computational transition of recovery rate in stochastic block model,Not Found
+Nonlinear Laplacians: Tunable principal component analysis under directional prior information,"18 May, 2025"
+Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment,"24 May, 2025"
+Personalized Decision Modeling: Utility Optimization or Textualized-Symbolic Reasoning,November 2025
+What are you sinking? A geometric approach on attention sink,Not Found
+KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment,"10 February, 2025"
+MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems,"24 May, 2025"
+Enhancing CLIP Robustness via Cross-Modality Alignment,October 2025
+Rethinking Entropy in Test-Time Adaptation: The Missing Piece from Energy Duality,Not Found
+On the Optimal Construction of Unbiased Gradient Estimators for Zeroth-Order Optimization,October 2025
+Gradient Variance Reveals Failure Modes in Flow-Based Generative Models,October 2025
+TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception,"4 December, 2024"
+Boosting Generative Image Modeling via Joint Image-Feature Synthesis,"22 April, 2025"
+"A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone","19 May, 2025"
+SparseMVC: Probing Cross-view Sparsity Variations for Multi-view Clustering,Not Found
+Unbiased Prototype Consistency Learning for Multi-Modal and Multi-Task Object Re-Identification,Not Found
+MJ-Video: Benchmarking and Rewarding Video Generation with Fine-Grained Video Preference,"3 February, 2025"
+Fast Projection-Free Approach (without Optimization Oracle) for Optimization over Compact Convex Set,Not Found
+Wider or Deeper?  Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search,Not Found
+RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for  Complex Task Solving,"27 May, 2025"
+Hierarchical Shortest-Path Graph Kernel Network,Not Found
+Differential Privacy on Fully Dynamic Streams,Not Found
+Shortcut Features as Top Eigenfunctions of NTK: A Linear Neural Network Case and More,February 2026
+SuffixDecoding: Extreme Speculative Decoding for Emerging AI Applications,"7 November, 2024"
+Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference,"22 January, 2025"
+UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting,June 2025
+When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs,"16 May, 2025"
+On Agnostic PAC Learning in the Small Error Regime,"13 February, 2025"
+Wavelet Canonical Coherence for Nonstationary Signals,"20 May, 2025"
+Language Modeling by Language Models,March 2026
+Plasticity as the Mirror of Empowerment,"15 May, 2025"
+PiKE: Adaptive Data Mixing for Large-Scale Multi-Task Learning Under Low Gradient Conflicts,"10 February, 2025"
+Language Models can Self-Improve at State-Value Estimation for Better Search,"4 March, 2025"
+Scalable Cross-View Sample Alignment for Multi-View Clustering with View Structure Similarity,Not Found
+Multidimensional Bayesian Utility Maximization: Tight Approximations to Welfare,"19 February, 2024"
+Decomposing stimulus-specific sensory neural information via diffusion models,"16 May, 2025"
+Any-stepsize Gradient Descent for Separable Data under Fenchel–Young Losses,"7 February, 2025"
+Provably Efficient RL under Episode-Wise Safety in Constrained MDPs with Linear Function Approximation,"14 February, 2025"
+To Distill or Decide? Understanding the Algorithmic Trade-off in Partially Observable RL,Not Found
+A learnability analysis on neuro-symbolic learning,March 2025
+Self-Perturbed Anomaly-Aware Graph Dynamics for Multivariate Time-Series Anomaly Detection,Not Found
+Restoring Pruned Large Language Models via Lost Component Compensation,October 2025
+Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models,Not Found
+GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving,"26 May, 2025"
+SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment,"3 July, 2025"
+HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning,Not Found
+Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling,Not Found
+Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding,"3 March, 2025"
+PoE-World: Compositional World Modeling with Products of Programmatic Experts,"15 May, 2025"
+Uni-LoRA: One Vector is All You Need,"31 May, 2025"
+Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding,"27 May, 2025"
+Stochastic Process Learning via Operator Flow Matching,"7 January, 2025"
+Strategic Costs of Perceived Bias in Fair Selection,October 2025
+A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective,"19 September, 2025"
+AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders,October 2025
+Depth-Width Tradeoffs for Transformers on Graph Tasks,"3 March, 2025"
+Refinement Methods for Distributed Distribution Estimation under $\ell^p$-Losses,Not Found
+Measuring and Guiding Monosemanticity,"24 June, 2025"
+Variational Transdimensional Inference,"5 June, 2025"
+Scaling Laws For Scalable Oversight,"25 April, 2025"
+A Near-Optimal Algorithm for Decentralized Convex-Concave Finite-Sum Minimax Optimization,Not Found
+Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting,"31 May, 2025"
+FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion,"5 June, 2025"
+Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition,"5 November, 2025"
+Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection,October 2025
+Robust Graph Condensation via Classification Complexity Mitigation,"30 October, 2025"
+CausalPFN: Amortized Causal Effect Estimation via In-Context Learning,"9 June, 2025"
+High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction,"24 May, 2025"
+🎧MOSPA: Human Motion Generation Driven by Spatial Audio,"16 July, 2025"
+Absolute Zero: Reinforced Self-play Reasoning with Zero Data,"6 May, 2025"
+Graph–Smoothed Bayesian Black-Box Shift Estimator and Its Information Geometry,May 2025
+Vision Transformers Don't Need Trained Registers,"9 June, 2025"
+Object-centric 3D Motion Field for Robot Learning from Human Videos,June 2025
+Sparse VideoGen2: Accelerate Video Generation with  Sparse Attention via Semantic-Aware Permutation,"24 May, 2025"
+Aggregation Hides Out-of-Distribution Generalization Failures from Spurious Correlations,October 2025
+Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning,"30 November, 2024"
+EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes,"30 November, 2025"
+LaViDa: A Large Diffusion Language Model for Multimodal Understanding,"22 May, 2025"
+Theory-Driven Label-Specific Representation for Incomplete Multi-View Multi-Label Learning,Not Found
+Scalable Fingerprinting of Large Language Models,"11 February, 2025"
+Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?,Not Found
+"Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components","20 January, 2025"
+Long-Tailed Recognition via Information-Preservable Two-Stage Learning,October 2025
+Mozart: Modularized and Efficient MoE Training on 3.5D Wafer-Scale Chiplet Architectures,March 2026
+Data Mixing Can Induce Phase Transitions in Knowledge Acquisition,"23 May, 2025"
+Shallow Diffuse: Robust and Invisible Watermarking through Low-Dim Subspaces in Diffusion Models,Not Found
+Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies,May 2025
+From Counterfactuals to Trees: Competitive Analysis of Model Extraction Attacks,"7 February, 2025"
+Repo2Run: Automated Building Executable Environment for Code Repository at Scale,"19 February, 2025"
+Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery,"23 May, 2025"
+Unlocking Dataset Distillation with Diffusion Models,"6 March, 2024"
+Vision-centric Token Compression in Large Language Model,"2 February, 2025"
+VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction,"3 January, 2025"
+EDELINE: Enhancing Memory in Diffusion-based World Models via Linear-Time Sequence Modeling,"1 February, 2025"
+UniTok: a Unified Tokenizer for Visual Generation and Understanding,"27 February, 2025"
+NormFit: A Lightweight Solution for Few-Shot Federated Learning with Non-IID Data,Not Found
+Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs,"28 May, 2025"
+Accelerating Visual-Policy Learning through Parallel Differentiable Simulation,"15 May, 2025"
+Online Prediction with Limited Selectivity,August 2025
+Generative Trajectory Stitching through Diffusion Composition,"7 March, 2025"
+VLMs have Tunnel Vision: Evaluating Nonlocal Visual Reasoning in Leading VLMs,"4 July, 2025"
+Neighborhood Self-Dissimilarity Attention for Medical Image Segmentation,Not Found
+Learning to Factorize Spatio-Temporal Foundation Models,January 2026
+Angles Don’t Lie: Unlocking Training‑Efficient RL Through the Model’s Own Signals,Not Found
+Generalizable Insights for Graph Transformers in Theory and Practice,November 2025
+Principled Data Augmentation for Learning to Solve Quadratic Programming Problems,"2 June, 2025"
+Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable,"20 May, 2025"
+CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding,June 2025
+Flattening Hierarchies with Policy Bootstrapping,"20 May, 2025"
+HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios,"11 June, 2025"
+Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear Contexts,June 2025
+GeoRemover: Removing Objects and Their Causal Visual Artifacts,"22 September, 2025"
+The Primacy of Magnitude in Low-Rank Adaptation,"9 July, 2025"
+GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals,Not Found
+Spatial Understanding from Videos: Structured Prompts Meet Simulation Data,"4 June, 2025"
+SATURN: SAT-based Reinforcement Learning to Unleash LLMs Reasoning,"22 May, 2025"
+JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation,"28 December, 2025"
+Dimension-adapted Momentum Outscales SGD,May 2025
+From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots,"15 June, 2025"
+LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers,May 2025
+GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface Reconstruction,"22 September, 2025"
+Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning,"22 May, 2025"
+scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration,"28 October, 2025"
+Imitation Beyond Expectation Using Pluralistic Stochastic Dominance,Not Found
+Cloud4D: Estimating Cloud Properties at a High Spatial and Temporal Resolution,"24 November, 2025"
+CLiFT: Compressive Light-Field Tokens for Compute Efficient and Adaptive Neural Rendering,"11 July, 2025"
+Adaptive Neighborhood-Constrained Q Learning for Offline Reinforcement Learning,November 2025
+To Think or Not To Think: A Study of Thinking in Rule-Based Visual Reinforcement Fine-Tuning,"20 March, 2025"
+DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy,"16 May, 2025"
+STITCH-OPE: Trajectory Stitching with Guided Diffusion for Off-Policy Evaluation,May 2025
+Neural Atlas Graphs for Dynamic Scene Decomposition and Editing,"19 September, 2025"
+LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation,"30 October, 2025"
+Robust SuperAlignment: Weak-to-Strong Robustness Generalization for Vision-Language Models,Not Found
+Thought Communication in Multiagent Collaboration,October 2025
+Polyline Path Masked Attention for Vision Transformer,"18 June, 2025"
+PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models,"18 October, 2024"
+Optimization Inspired Few-Shot Adaptation for Large Language Models,May 2025
+Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging,"14 May, 2025"
+Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation,"17 April, 2025"
+Toward Relative Positional Encoding in Spiking Transformers,"28 January, 2025"
+TransMLA: Migrating GQA Models to MLA with Full DeepSeek Compatibility and Speedup,Not Found
+Towards Understanding the Mechanisms of Classifier-Free Guidance,"25 May, 2025"
+PhysX-3D: Physical-Grounded 3D Asset Generation,"16 July, 2025"
+Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study,October 2025
+StreamForest: Efficient Online Video Understanding with Persistent Event Memory,September 2025
+Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2,October 2025
+Improving Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias,Not Found
+Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization,"8 April, 2025"
+MDReID: Modality-Decoupled Learning for Any-to-Any Multi-Modal Object Re-Identification,"27 October, 2025"
+RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness,"24 February, 2025"
+Stable Part Diffusion 4D: Multi-View RGB and Kinematic Parts Video Generation,"12 September, 2025"
+OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects,October 2025
+Rectified Point Flow: Generic Point Cloud Pose Estimation,"5 June, 2025"
+Cue3D: Quantifying the Role of Image Cues in Single-Image 3D Generation,November 2025
+SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation,November 2025
+StelLA: Subspace Learning in Low-rank Adaptation using Stiefel Manifold,October 2025
+Non-Clairvoyant Scheduling with Progress Bars,September 2025
+Jacobian-Based Interpretation of Nonlinear Neural Encoding Model,October 2025
+Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning,"22 May, 2025"
+VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank,"20 May, 2025"
+GenColor: Generative and Expressive Color Enhancement with Pixel-Perfect Texture Preservation,Not Found
+G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems,"8 June, 2025"
+FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving,"23 May, 2025"
+E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products,"31 January, 2025"
+Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler,October 2025
+Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection,"25 September, 2025"
+AuroRA: Breaking Low-Rank Bottleneck of LoRA with Nonlinear Mapping,"24 May, 2025"
+Puppeteer: Rig and Animate Your 3D Models,August 2025
+Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras,"23 July, 2025"
+DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing,June 2025
+Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression,Not Found
+DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling,"16 May, 2025"
+Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective,"16 October, 2025"
+Injecting Frame-Event Complementary Fusion into Diffusion for Optical Flow in Challenging Scenes,October 2025
+OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers,"27 May, 2025"
+MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning,September 2025
+Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion,"9 June, 2025"
+DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks,"24 February, 2025"
+Variational Learning Finds Flatter Solutions at the Edge of Stability,"15 June, 2025"
+"Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization","16 May, 2025"
+ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition,"8 June, 2025"
+Fully Autonomous Neuromorphic Navigation and Dynamic Obstacle Avoidance,Not Found
+Enhancing LLM Watermark Resilience Against Both Scrubbing and  Spoofing Attacks,"8 July, 2025"
+Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search,"24 December, 2024"
+ProtInvTree: Deliberate Protein Inverse Folding with Reward-guided Tree Search,June 2025
+On the Value of Cross-Modal Misalignment in Multimodal Representation Learning,"14 April, 2025"
+A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking,"26 May, 2025"
+Multi-agent Markov Entanglement,"2 June, 2025"
+SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving,September 2025
+PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding,"17 April, 2025"
+Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?,Not Found
+VoxDet: Rethinking 3D Semantic Scene Completion as Dense Object Detection,Not Found
+Approximate Domain Unlearning for Vision-Language Models,October 2025
+BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning,"29 May, 2025"
+GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments,"1 April, 2025"
+Q-Insight: Understanding Image Quality via Visual Reinforcement Learning,"28 March, 2025"
+What Makes a Reward Model a Good Teacher? An Optimization Perspective,Not Found
+$\Psi$-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models,Not Found
+Do-PFN: In-Context Learning for Causal Effect Estimation,"6 June, 2025"
+ReSim: Reliable World Simulation for Autonomous Driving,June 2025
+Differentiable Sparsity via $D$-Gating: Simple and Versatile Structured Penalization,"28 September, 2025"

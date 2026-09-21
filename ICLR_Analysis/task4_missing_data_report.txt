@@ -1,0 +1,28 @@
+Task 4 missing-data report (ICLR submissions)
+Total unique submissions: 14883
+Accepted: 5800 | Rejected: 9083
+
+By year:
+  2023: n=2599 | accepted=1574 | rejected=1025
+  2024: n=5404 | accepted=2260 | rejected=3144
+  2025: n=6880 | accepted=1966 | rejected=4914
+
+Predictor completeness:
+  preprint_visible=1: 6188 (41.6%)
+  preprint_timing=no_preprint: 9596 (64.5%)
+  institution_tier=not_listed: 12955 (87.0%)
+  country=Unknown: 6528 (43.9%)
+
+Preprint timing distribution:
+  no_preprint: 9596
+  cfp_to_review: 2362
+  within_180d: 1293
+  more_than_180d: 622
+  within_30d: 437
+  within_90d: 370
+  within_60d: 203
+
+Institution tier distribution:
+  not_listed: 12955
+  top: 1894
+  bottom: 34

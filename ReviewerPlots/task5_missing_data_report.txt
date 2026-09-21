@@ -1,0 +1,28 @@
+Task 5 missing-data report (reviewer scores)
+Total papers: 23333
+
+By venue:
+  ICLR: n=7537 | rating non-null=7537 | confidence non-null=7537
+  ICML: n=3257 | rating non-null=3257 | confidence non-null=0
+  NeurIPS: n=12539 | rating non-null=12539 | confidence non-null=12539
+
+Predictor completeness:
+  preprint_visible=1: 5255 (22.5%)
+  institution_tier=not_listed: 19854 (85.1%)
+  country=Unknown: 11330 (48.6%)
+
+Institution tier distribution:
+  not_listed: 19854
+  top: 3446
+  bottom: 33
+
+Country group distribution:
+  Unknown: 11330
+  United States: 4866
+  China: 2647
+  Other: 2125
+  United Kingdom: 689
+  Hong Kong: 489
+  South Korea: 428
+  Singapore: 392
+  Canada: 367

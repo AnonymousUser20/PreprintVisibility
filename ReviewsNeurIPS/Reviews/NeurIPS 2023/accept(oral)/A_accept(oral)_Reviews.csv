@@ -1,0 +1,68 @@
+Title,Rounds of Discussion,Average Rating,Average Confidence
+Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation,1,7.4,3.2
+Improved Algorithms for Stochastic Linear Bandits Using Tail Bounds for Martingale Mixtures,1,7.25,3.75
+"Spatial-frequency channels, shape bias, and adversarial robustness",1,5.2,4.4
+Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment,1,7.0,3.25
+The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation,1,7.0,3.75
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model,1,7.75,3.75
+Ordering-based Conditions for Global Convergence of Policy Gradient Methods,0,7.4,4.0
+Tester-Learners for Halfspaces: Universal Algorithms,0,7.25,3.25
+Conformal Meta-learners for Predictive Inference of Individual Treatment Effects,1,6.75,3.75
+Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Method,0,5.25,3.75
+Learning Transformer Programs,0,6.75,3.25
+Clifford Group Equivariant Neural Networks,1,7.6,3.0
+Learning Linear Causal Representations from Interventions under General Nonlinear Mixing,1,7.5,4.0
+How to Turn Your Knowledge Graph Embeddings into Generative Models,0,7.25,3.75
+Rotating Features for Object Discovery,1,7.25,3.75
+Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity,1,7.25,3.25
+DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models,0,6.6,2.8
+Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture,1,8.0,3.6666666666666665
+QLoRA: Efficient Finetuning of Quantized LLMs,0,7.75,4.25
+User-Level Differential Privacy With Few Examples Per User,1,7.5,3.5
+Why think step by step? Reasoning emerges from the locality of experience,0,7.25,3.25
+Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models,3,6.75,4.25
+Are Emergent Abilities of Large Language Models a Mirage?,1,7.75,3.75
+Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation,1,6.8,3.0
+Fine-Tuning Language Models with Just Forward Passes,0,7.4,4.0
+Going beyond persistent homology using persistent homology,0,6.4,3.6
+Optimal Learners for Realizable Regression: PAC Learning and Online Learning,2,7.6,3.0
+When Demonstrations meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning,2,7.2,3.2
+Bridging RL Theory and Practice with the Effective Horizon,1,7.25,3.0
+Students Parrot Their Teachers: Membership Inference on Model Distillation,0,7.5,4.0
+Human-like Few-Shot Learning via Bayesian Reasoning over Natural Language,1,5.75,3.75
+Siamese Masked Autoencoders,1,6.8,4.0
+Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent,1,8.0,4.0
+Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization,0,6.25,3.25
+EgoEnv: Human-centric environment representations from egocentric video,0,7.4,3.4
+A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning,0,7.333333333333333,3.3333333333333335
+The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks,0,7.2,3.6
+Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore,1,6.25,3.25
+Tree of Thoughts: Deliberate Problem Solving with Large Language Models,2,6.75,4.0
+Image Captioners Are Scalable Vision Learners Too,0,7.75,4.75
+Scaling Data-Constrained Language Models,0,7.5,3.75
+Causal normalizing flows: from theory to practice,1,7.2,3.0
+Nearly Tight Bounds For Differentially Private Multiway Cut,0,6.666666666666667,3.3333333333333335
+Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models,1,7.5,3.75
+Toolformer: Language Models Can Teach Themselves to Use Tools,0,7.0,4.25
+Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity,2,6.0,3.8
+Private Everlasting Prediction,0,7.75,3.25
+ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings,0,7.4,4.0
+Visual Instruction Tuning,1,6.75,4.5
+A Single-Loop Accelerated Extra-Gradient Difference Algorithm with Improved Complexity Bounds for Constrained Minimax Optimization,1,8.0,3.5
+Evaluating Post-hoc Explanations for Graph Neural Networks via Robustness Analysis,2,7.0,4.25
+Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective,2,8.0,2.75
+Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach,0,7.5,3.75
+Bridging Discrete and Backpropagation: Straight-Through and Beyond,1,7.166666666666667,3.3333333333333335
+A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods,0,7.8,2.8
+Random Cuts are Optimal for Explainable k-Medians,1,8.0,3.75
+Entropic Neural Optimal Transport via Diffusion Processes,0,8.25,3.5
+Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection,2,6.75,3.25
+A Measure-Theoretic Axiomatisation of Causality,1,6.8,3.4
+Abide by the law and follow the flow: conservation laws for gradient flows,0,7.2,3.4
+Jailbroken: How Does LLM Safety Training Fail?,0,6.0,3.7142857142857144
+Characteristic Circuits,0,5.2,3.0
+Generalizing Nonlinear ICA Beyond Structural Sparsity,2,6.8,3.0
+When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment,0,7.0,3.5
+Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition,0,7.0,4.2
+Privacy Auditing with One (1) Training Run,0,7.4,3.6
+Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models,0,6.4,3.8

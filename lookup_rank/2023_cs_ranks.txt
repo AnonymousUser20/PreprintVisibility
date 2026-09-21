@@ -1,0 +1,551 @@
+1	► Tsinghua University Homepage China closed chart	9.1	105
+2	► Zhejiang University Homepage China closed chart	8.5	84
+3	► Carnegie Mellon University Homepage United States closed chart	7.8	94
+3	► Peking University Homepage China closed chart	7.8	96
+5	► Shanghai Jiao Tong University Homepage China closed chart	7.1	88
+6	► Nanjing University Homepage China closed chart	6.9	92
+7	► Univ. of Illinois at Urbana-Champaign Homepage United States closed chart	6.8	57
+8	► KAIST Homepage South Korea closed chart	6.5	55
+8	► Nanyang Technological University Homepage Singapore closed chart	6.5	61
+10	► HKUST Homepage Hong Kong closed chart	6.3	51
+11	► USTC Homepage China closed chart	6.1	46
+12	► Chinese Academy of Sciences Homepage China closed chart	5.6	55
+12	► National University of Singapore Homepage Singapore closed chart	5.6	41
+12	► Univ. of California - San Diego Homepage United States closed chart	5.6	63
+15	► Univ. of Maryland - College Park Homepage United States closed chart	5.4	48
+16	► Fudan University Homepage China closed chart	5.1	44
+16	► Stanford University Homepage United States closed chart	5.1	42
+18	► Georgia Institute of Technology Homepage United States closed chart	5.0	67
+19	► Renmin University of China Homepage China closed chart	4.9	38
+20	► Seoul National University Homepage South Korea closed chart	4.5	60
+20	► Univ. of California - Berkeley Homepage United States closed chart	4.5	41
+22	► University of Washington Homepage United States closed chart	4.4	44
+23	► Cornell University Homepage United States closed chart	4.2	51
+23	► Harbin Institute of Technology Homepage China closed chart	4.2	57
+23	► University of Toronto Homepage Canada closed chart	4.2	47
+26	► University of Hong Kong Homepage Hong Kong closed chart	4.0	32
+27	► Massachusetts Inst. of Technology Homepage United States closed chart	3.9	55
+27	► Singapore Management University Homepage Singapore closed chart	3.9	28
+29	► Sun Yat-sen University Homepage China closed chart	3.8	28
+29	► University of Michigan Homepage United States closed chart	3.8	42
+31	► Chinese University of Hong Kong Homepage Hong Kong closed chart	3.7	29
+31	► ETH Zurich Homepage Switzerland closed chart	3.7	23
+31	► MBZUAI Homepage United Arab Emirates closed chart	3.7	45
+31	► Wuhan University Homepage China closed chart	3.7	46
+35	► BUPT Homepage China closed chart	3.6	40
+35	► Northeastern University Homepage United States closed chart	3.6	46
+35	► Univ. of California - Los Angeles Homepage United States closed chart	3.6	23
+38	► Monash University Homepage Australia closed chart	3.4	45
+38	► New York University Homepage United States closed chart	3.4	37
+38	► Southeast University Homepage China closed chart	3.4	39
+38	► UESTC Homepage China closed chart	3.4	46
+42	► Johns Hopkins University Homepage United States closed chart	3.3	38
+42	► University of Edinburgh Homepage United Kingdom closed chart	3.3	39
+42	► University of Southern California Homepage United States closed chart	3.3	36
+42	► University of Waterloo Homepage Canada closed chart	3.3	32
+46	► City University of Hong Kong Homepage Hong Kong closed chart	3.2	33
+46	► University of Illinois at Chicago Homepage United States closed chart	3.2	16
+46	► Westlake University Homepage China closed chart	3.2	20
+49	► Beihang University Homepage China closed chart	3.1	32
+49	► EPFL Homepage Switzerland closed chart	3.1	30
+49	► TU Munich Homepage Germany closed chart	3.1	27
+49	► Technion Homepage Israel closed chart	3.1	31
+49	► University of Central Florida Homepage United States closed chart	3.1	30
+49	► University of Melbourne Homepage Australia closed chart	3.1	34
+49	► University of Texas at Austin Homepage United States closed chart	3.1	33
+56	► Max Planck Society Homepage Germany closed chart	3.0	21
+56	► Stony Brook University Homepage United States closed chart	3.0	31
+56	► The Hong Kong Polytechnic Univ. Homepage Hong Kong closed chart	3.0	22
+56	► University of North Carolina Homepage United States closed chart	3.0	19
+56	► Xiamen University Homepage China closed chart	3.0	26
+61	► CUHK (SZ) Homepage China closed chart	2.9	31
+61	► Texas A&M University Homepage United States closed chart	2.9	24
+61	► University of Cambridge Homepage United Kingdom closed chart	2.9	24
+61	► University of Pennsylvania Homepage United States closed chart	2.9	30
+61	► Yonsei University Homepage South Korea closed chart	2.9	26
+66	► Columbia University Homepage United States closed chart	2.8	24
+66	► Univ. of Massachusetts Amherst Homepage United States closed chart	2.8	29
+66	► University of Amsterdam Homepage Netherlands closed chart	2.8	19
+66	► University of Wisconsin - Madison Homepage United States closed chart	2.8	38
+66	► Xi'an Jiaotong University Homepage China closed chart	2.8	31
+71	► HUST Homepage China closed chart	2.7	24
+71	► Tel Aviv University Homepage Israel closed chart	2.7	24
+71	► Univ. of California - Irvine Homepage United States closed chart	2.7	29
+71	► University of Sydney Homepage Australia closed chart	2.7	18
+75	► Korea University Homepage South Korea closed chart	2.6	20
+75	► Northwestern University Homepage United States closed chart	2.6	30
+75	► Pennsylvania State University Homepage United States closed chart	2.6	23
+75	► Princeton University Homepage United States closed chart	2.6	24
+75	► Purdue University Homepage United States closed chart	2.6	30
+75	► Rochester Inst. of Technology Homepage United States closed chart	2.6	20
+75	► ShanghaiTech University Homepage China closed chart	2.6	14
+75	► Shenzhen University Homepage China closed chart	2.6	42
+75	► University of British Columbia Homepage Canada closed chart	2.6	25
+75	► University of Virginia Homepage United States closed chart	2.6	27
+85	► Boston University Homepage United States closed chart	2.5	22
+85	► University of Oxford Homepage United Kingdom closed chart	2.5	19
+85	► University of Tokyo Homepage Japan closed chart	2.5	20
+88	► Australian National University Homepage Australia closed chart	2.4	18
+88	► Brown University Homepage United States closed chart	2.4	20
+88	► Harvard University Homepage United States closed chart	2.4	23
+88	► LMU Munich Homepage Germany closed chart	2.4	17
+88	► Nankai University Homepage China closed chart	2.4	29
+88	► POSTECH Homepage South Korea closed chart	2.4	26
+88	► Univ. of California - Santa Barbara Homepage United States closed chart	2.4	17
+88	► University College London Homepage United Kingdom closed chart	2.4	25
+88	► University of Chicago Homepage United States closed chart	2.4	26
+88	► University of Copenhagen Homepage Denmark closed chart	2.4	29
+88	► University of Notre Dame Homepage United States closed chart	2.4	15
+88	► Virginia Tech Homepage United States closed chart	2.4	21
+100	► SUSTech Homepage China closed chart	2.3	23
+100	► TU Darmstadt Homepage Germany closed chart	2.3	13
+100	► TU Delft Homepage Netherlands closed chart	2.3	29
+100	► TU Wien Homepage Austria closed chart	2.3	21
+100	► Tianjin University Homepage China closed chart	2.3	15
+100	► Tongji University Homepage China closed chart	2.3	19
+106	► Duke University Homepage United States closed chart	2.2	25
+106	► KAUST Homepage Saudi Arabia closed chart	2.2	13
+106	► Rutgers University Homepage United States closed chart	2.2	21
+106	► Simon Fraser University Homepage Canada closed chart	2.2	20
+106	► Sungkyunkwan University Homepage South Korea closed chart	2.2	15
+106	► Univ. of California - Davis Homepage United States closed chart	2.2	20
+106	► University at Buffalo Homepage United States closed chart	2.2	19
+106	► University of Surrey Homepage United Kingdom closed chart	2.2	18
+114	► Adelaide University Homepage Australia closed chart	2.1	14
+114	► Arizona State University Homepage United States closed chart	2.1	24
+114	► Imperial College London Homepage United Kingdom closed chart	2.1	21
+114	► Jilin University Homepage China closed chart	2.1	27
+114	► King's College London Homepage United Kingdom closed chart	2.1	15
+114	► Michigan State University Homepage United States closed chart	2.1	14
+114	► National Inst. of Informatics Homepage Japan closed chart	2.1	14
+114	► Ohio State University Homepage United States closed chart	2.1	16
+114	► University of Alberta Homepage Canada closed chart	2.1	24
+114	► University of Colorado Boulder Homepage United States closed chart	2.1	22
+114	► University of Macau Homepage Macao closed chart	2.1	15
+114	► Xidian University Homepage China closed chart	2.1	27
+126	► Aalto University Homepage Finland closed chart	2.0	16
+126	► Beijing Institute of Technology Homepage China closed chart	2.0	10
+126	► CISPA Helmholtz Center Homepage Germany closed chart	2.0	14
+126	► George Mason University Homepage United States closed chart	2.0	18
+126	► Hebrew University of Jerusalem Homepage Israel closed chart	2.0	17
+126	► IIT Delhi Homepage India closed chart	2.0	11
+126	► NWPU Homepage China closed chart	2.0	14
+126	► Rice University Homepage United States closed chart	2.0	17
+126	► Sichuan University Homepage China closed chart	2.0	11
+126	► University of Minnesota Homepage United States closed chart	2.0	16
+126	► University of Montreal Homepage Canada closed chart	2.0	16
+126	► University of Utah Homepage United States closed chart	2.0	20
+138	► Cardiff University Homepage United Kingdom closed chart	1.9	17
+138	► Hong Kong Baptist University Homepage Hong Kong closed chart	1.9	16
+138	► National Chiao Tung University Homepage Taiwan closed chart	1.9	13
+138	► North Carolina State University Homepage United States closed chart	1.9	12
+138	► Univ. of California - Santa Cruz Homepage United States closed chart	1.9	14
+138	► University of Technology Sydney Homepage Australia closed chart	1.9	13
+138	► University of Tübingen Homepage Germany closed chart	1.9	14
+138	► Washington University in St. Louis Homepage United States closed chart	1.9	17
+146	► Aarhus University Homepage Denmark closed chart	1.8	15
+146	► IIT Bombay Homepage India closed chart	1.8	12
+146	► Lancaster University Homepage United Kingdom closed chart	1.8	10
+146	► Macquarie University Homepage Australia closed chart	1.8	15
+146	► National Taiwan University Homepage Taiwan closed chart	1.8	18
+146	► Politecnico di Milano Homepage Italy closed chart	1.8	10
+146	► Queen Mary University of London Homepage United Kingdom closed chart	1.8	11
+146	► Saarland University Homepage Germany closed chart	1.8	12
+146	► Stevens Institute of Technology Homepage United States closed chart	1.8	15
+146	► UNSW Homepage Australia closed chart	1.8	13
+146	► University of Florida Homepage United States closed chart	1.8	12
+146	► University of Manchester Homepage United Kingdom closed chart	1.8	15
+146	► University of Texas at Dallas Homepage United States closed chart	1.8	12
+146	► Yale University Homepage United States closed chart	1.8	11
+160	► Bar-Ilan University Homepage Israel closed chart	1.7	9
+160	► CRIStAL Homepage France closed chart	1.7	12
+160	► Emory University Homepage United States closed chart	1.7	12
+160	► Griffith University Homepage Australia closed chart	1.7	6
+160	► IISc Bangalore Homepage India closed chart	1.7	12
+160	► INRIA Homepage France closed chart	1.7	4
+160	► INSAIT Homepage Bulgaria closed chart	1.7	4
+160	► IST Austria Homepage Austria closed chart	1.7	8
+160	► Indiana University Homepage United States closed chart	1.7	17
+160	► Institute of Science Tokyo Homepage Japan closed chart	1.7	11
+160	► KU Leuven Homepage Belgium closed chart	1.7	8
+160	► Kyoto University Homepage Japan closed chart	1.7	8
+160	► NJIT Homepage United States closed chart	1.7	14
+160	► Oregon State University Homepage United States closed chart	1.7	16
+160	► RWTH Aachen University Homepage Germany closed chart	1.7	12
+160	► SUFE Homepage China closed chart	1.7	15
+160	► SUTD Homepage Singapore closed chart	1.7	11
+160	► Sapienza University of Rome Homepage Italy closed chart	1.7	13
+160	► Shandong University Homepage China closed chart	1.7	14
+160	► Soochow University Homepage China closed chart	1.7	16
+160	► Univ. of California - Riverside Homepage United States closed chart	1.7	12
+160	► University of Glasgow Homepage United Kingdom closed chart	1.7	16
+160	► University of Rochester Homepage United States closed chart	1.7	11
+160	► University of Stuttgart Homepage Germany closed chart	1.7	9
+160	► Vanderbilt University Homepage United States closed chart	1.7	16
+185	► Beijing Jiaotong University Homepage China closed chart	1.6	8
+185	► Ben-Gurion University of the Negev Homepage Israel closed chart	1.6	13
+185	► California Inst. of Technology Homepage United States closed chart	1.6	9
+185	► Czech Technical University Homepage Czech Republic closed chart	1.6	8
+185	► Dartmouth College Homepage United States closed chart	1.6	11
+185	► UNIST Homepage South Korea closed chart	1.6	11
+185	► Univ. of California - Merced Homepage United States closed chart	1.6	4
+185	► Universidade de Lisboa Homepage Portugal closed chart	1.6	18
+185	► University of Bristol Homepage United Kingdom closed chart	1.6	15
+185	► University of Connecticut Homepage United States closed chart	1.6	10
+185	► University of Freiburg Homepage Germany closed chart	1.6	5
+185	► University of Liverpool Homepage United Kingdom closed chart	1.6	12
+185	► University of Queensland Homepage Australia closed chart	1.6	9
+185	► University of Texas at Arlington Homepage United States closed chart	1.6	8
+185	► University of Trento Homepage Italy closed chart	1.6	6
+200	► Beijing Normal University Homepage China closed chart	1.5	6
+200	► College of William and Mary Homepage United States closed chart	1.5	10
+200	► Concordia University Homepage Canada closed chart	1.5	9
+200	► East China Normal University Homepage China closed chart	1.5	8
+200	► Hasso Plattner Institute Homepage Germany closed chart	1.5	8
+200	► Iowa State University Homepage United States closed chart	1.5	6
+200	► Karlsruhe Inst. of Technology Homepage Germany closed chart	1.5	11
+200	► Lehigh University Homepage United States closed chart	1.5	5
+200	► Leiden University Homepage Netherlands closed chart	1.5	8
+200	► McGill University Homepage Canada closed chart	1.5	11
+200	► TU Berlin Homepage Germany closed chart	1.5	11
+200	► TU Dortmund Homepage Germany closed chart	1.5	11
+200	► TU Eindhoven Homepage Netherlands closed chart	1.5	8
+200	► UNC - Charlotte Homepage United States closed chart	1.5	14
+200	► University of Birmingham Homepage United Kingdom closed chart	1.5	10
+200	► University of Pittsburgh Homepage United States closed chart	1.5	10
+200	► University of Sheffield Homepage United Kingdom closed chart	1.5	11
+200	► University of Warwick Homepage United Kingdom closed chart	1.5	16
+200	► University of Würzburg Homepage Germany closed chart	1.5	5
+200	► University of York Homepage United Kingdom closed chart	1.5	4
+200	► University of Zurich Homepage Switzerland closed chart	1.5	6
+200	► Wayne State University Homepage United States closed chart	1.5	5
+222	► Hanyang University Homepage South Korea closed chart	1.4	4
+222	► Heidelberg University Homepage Germany closed chart	1.4	7
+222	► Hunan University Homepage China closed chart	1.4	13
+222	► IIIT Hyderabad Homepage India closed chart	1.4	8
+222	► IIT Kanpur Homepage India closed chart	1.4	7
+222	► IIT Kharagpur Homepage India closed chart	1.4	8
+222	► IT University of Copenhagen Homepage Denmark closed chart	1.4	11
+222	► RMIT University Homepage Australia closed chart	1.4	12
+222	► Rensselaer Polytechnic Institute Homepage United States closed chart	1.4	10
+222	► TU Dresden Homepage Germany closed chart	1.4	9
+222	► Univ. of Modena and Reggio Emilia Homepage Italy closed chart	1.4	7
+222	► University of Auckland Homepage New Zealand closed chart	1.4	7
+222	► University of Bath Homepage United Kingdom closed chart	1.4	6
+222	► University of Bonn Homepage Germany closed chart	1.4	6
+222	► University of Delaware Homepage United States closed chart	1.4	5
+222	► University of Exeter Homepage United Kingdom closed chart	1.4	5
+222	► University of Helsinki Homepage Finland closed chart	1.4	9
+222	► University of Leipzig Homepage Germany closed chart	1.4	4
+222	► University of North Texas Homepage United States closed chart	1.4	8
+222	► University of Ottawa Homepage Canada closed chart	1.4	1
+222	► University of South Florida Homepage United States closed chart	1.4	10
+222	► York University Homepage Canada closed chart	1.4	8
+244	► Augusta University Homepage United States closed chart	1.3	6
+244	► Binghamton University Homepage United States closed chart	1.3	8
+244	► Bocconi University Homepage Italy closed chart	1.3	8
+244	► Boston College Homepage United States closed chart	1.3	5
+244	► Central South University Homepage China closed chart	1.3	6
+244	► City University of Macau Homepage Macao closed chart	1.3	9
+244	► Clemson University Homepage United States closed chart	1.3	5
+244	► DGIST Homepage South Korea closed chart	1.3	4
+244	► DTU Homepage Denmark closed chart	1.3	6
+244	► Drexel University Homepage United States closed chart	1.3	8
+244	► Durham University Homepage United Kingdom closed chart	1.3	7
+244	► Florida International University Homepage United States closed chart	1.3	9
+244	► Florida State University Homepage United States closed chart	1.3	5
+244	► GIST Homepage South Korea closed chart	1.3	7
+244	► Georgetown University Homepage United States closed chart	1.3	6
+244	► Graz University of Technology Homepage Austria closed chart	1.3	7
+244	► IIIT Delhi Homepage India closed chart	1.3	7
+244	► IIT Jodhpur Homepage India closed chart	1.3	3
+244	► IIT Patna Homepage India closed chart	1.3	2
+244	► JKU Linz Homepage Austria closed chart	1.3	3
+244	► Koç University Homepage Turkey closed chart	1.3	4
+244	► McMaster University Homepage Canada closed chart	1.3	6
+244	► Osaka University Homepage Japan closed chart	1.3	7
+244	► Royal Holloway Univ. of London Homepage United Kingdom closed chart	1.3	7
+244	► Ruhr-University Bochum Homepage Germany closed chart	1.3	5
+244	► TTI Chicago Homepage United States closed chart	1.3	7
+244	► TU Kaiserslautern Homepage Germany closed chart	1.3	6
+244	► Tampere University Homepage Finland closed chart	1.3	9
+244	► UiT The Arctic Univ. of Norway Homepage Norway closed chart	1.3	4
+244	► Univ. of Maryland - Baltimore County Homepage United States closed chart	1.3	7
+244	► University College Dublin Homepage Ireland closed chart	1.3	7
+244	► University of Arizona Homepage United States closed chart	1.3	8
+244	► University of Calgary Homepage Canada closed chart	1.3	6
+244	► University of Georgia Homepage United States closed chart	1.3	7
+244	► University of Göttingen Homepage Germany closed chart	1.3	5
+244	► University of Hamburg Homepage Germany closed chart	1.3	5
+244	► University of Massachusetts Lowell Homepage United States closed chart	1.3	5
+244	► University of Oregon Homepage United States closed chart	1.3	4
+244	► University of Pisa Homepage Italy closed chart	1.3	4
+244	► University of Siegen Homepage Germany closed chart	1.3	6
+244	► University of Tsukuba Homepage Japan closed chart	1.3	6
+244	► University of Vienna Homepage Austria closed chart	1.3	5
+244	► University of Western Australia Homepage Australia closed chart	1.3	2
+244	► Université Laval Homepage Canada closed chart	1.3	3
+244	► VISTEC Homepage Thailand closed chart	1.3	3
+244	► VinUniversity Homepage Vietnam closed chart	1.3	5
+244	► Weizmann Institute of Science Homepage Israel closed chart	1.3	8
+244	► Worcester Polytechnic Institute Homepage United States closed chart	1.3	8
+292	► AUEB Homepage Greece closed chart	1.2	3
+292	► Aalborg University Homepage Denmark closed chart	1.2	7
+292	► Auburn University Homepage United States closed chart	1.2	5
+292	► BITS Pilani-Goa Homepage India closed chart	1.2	5
+292	► Brandeis University Homepage United States closed chart	1.2	3
+292	► Carleton University Homepage Canada closed chart	1.2	2
+292	► Case Western Reserve University Homepage United States closed chart	1.2	5
+292	► Chalmers/GU Homepage Sweden closed chart	1.2	4
+292	► Chongqing University Homepage China closed chart	1.2	6
+292	► City University of London Homepage United Kingdom closed chart	1.2	5
+292	► Colorado State University Homepage United States closed chart	1.2	4
+292	► Dalhousie University Homepage Canada closed chart	1.2	5
+292	► ETS Montreal Homepage Canada closed chart	1.2	5
+292	► Ecole Normale Superieure Homepage France closed chart	1.2	3
+292	► HSE University Homepage Russia closed chart	1.2	3
+292	► IIT Madras Homepage India closed chart	1.2	4
+292	► Illinois Institute of Technology Homepage United States closed chart	1.2	3
+292	► Keio University Homepage Japan closed chart	1.2	6
+292	► Masaryk University Homepage Czech Republic closed chart	1.2	4
+292	► Middle East Technical University Homepage Turkey closed chart	1.2	3
+292	► NAIST Homepage Japan closed chart	1.2	4
+292	► NTUA Homepage Greece closed chart	1.2	3
+292	► NYU Abu Dhabi Homepage United Arab Emirates closed chart	1.2	4
+292	► NYU Shanghai Homepage China closed chart	1.2	7
+292	► Northeastern University (China) Homepage China closed chart	1.2	7
+292	► Polytechnique Montreal Homepage Canada closed chart	1.2	5
+292	► Qatar Computing Research Inst. Homepage Qatar closed chart	1.2	3
+292	► Queen's University Belfast Homepage United Kingdom closed chart	1.2	4
+292	► Queen’s University Homepage Canada closed chart	1.2	2
+292	► Radboud University Homepage Netherlands closed chart	1.2	6
+292	► SUAT Homepage China closed chart	1.2	1
+292	► Temple University Homepage United States closed chart	1.2	5
+292	► Tohoku University Homepage Japan closed chart	1.2	3
+292	► Tulane University Homepage United States closed chart	1.2	5
+292	► University of A Coruña Homepage Spain closed chart	1.2	4
+292	► University of Aberdeen Homepage United Kingdom closed chart	1.2	4
+292	► University of Athens Homepage Greece closed chart	1.2	2
+292	► University of Basel Homepage Switzerland closed chart	1.2	3
+292	► University of Bremen Homepage Germany closed chart	1.2	3
+292	► University of Cincinnati Homepage United States closed chart	1.2	3
+292	► University of Cologne Homepage Germany closed chart	1.2	1
+292	► University of Fribourg Homepage Switzerland closed chart	1.2	2
+292	► University of Groningen Homepage Netherlands closed chart	1.2	8
+292	► University of Hannover Homepage Germany closed chart	1.2	5
+292	► University of Houston Homepage United States closed chart	1.2	5
+292	► University of Iowa Homepage United States closed chart	1.2	6
+292	► University of Kentucky Homepage United States closed chart	1.2	3
+292	► University of Klagenfurt Homepage Austria closed chart	1.2	5
+292	► University of Leeds Homepage United Kingdom closed chart	1.2	6
+292	► University of Lübeck Homepage Germany closed chart	1.2	4
+292	► University of Mannheim Homepage Germany closed chart	1.2	3
+292	► University of Nebraska Homepage United States closed chart	1.2	3
+292	► University of Nebraska - Omaha Homepage United States closed chart	1.2	3
+292	► University of New Hampshire Homepage United States closed chart	1.2	2
+292	► University of Nottingham Homepage United Kingdom closed chart	1.2	5
+292	► University of South Carolina Homepage United States closed chart	1.2	4
+292	► University of Southampton Homepage United Kingdom closed chart	1.2	4
+292	► University of Twente Homepage Netherlands closed chart	1.2	4
+292	► University of Warsaw Homepage Poland closed chart	1.2	7
+292	► University of the Witwatersrand Homepage South Africa closed chart	1.2	3
+292	► Università della Svizzera italiana Homepage Switzerland closed chart	1.2	4
+292	► Université Paris Dauphine Homepage France closed chart	1.2	5
+292	► Uppsala University Homepage Sweden closed chart	1.2	5
+292	► Utrecht University Homepage Netherlands closed chart	1.2	6
+292	► Washington State University Homepage United States closed chart	1.2	6
+292	► Yangzhou University Homepage China closed chart	1.2	5
+358	► Ariel University Homepage Israel closed chart	1.1	3
+358	► Bauhaus University Weimar Homepage Germany closed chart	1.1	1
+358	► Baylor University Homepage United States closed chart	1.1	2
+358	► Bielefeld University Homepage Germany closed chart	1.1	2
+358	► Bilkent University Homepage Turkey closed chart	1.1	1
+358	► Birkbeck University of London Homepage United Kingdom closed chart	1.1	3
+358	► Brigham Young University Homepage United States closed chart	1.1	2
+358	► CUNY Homepage United States closed chart	1.1	4
+358	► Chung-Ang University Homepage South Korea closed chart	1.1	2
+358	► Cyprus University of Technology Homepage Cyprus closed chart	1.1	1
+358	► DePaul University Homepage United States closed chart	1.1	3
+358	► EURECOM Homepage France closed chart	1.1	5
+358	► Ecole Normale Superieure de Cachan Homepage France closed chart	1.1	2
+358	► Ecole Normale Superieure de Lyon Homepage France closed chart	1.1	2
+358	► Federal University of Rio Grande Homepage Brazil closed chart	1.1	2
+358	► Freie Universitaet Berlin Homepage Germany closed chart	1.1	2
+358	► Friedrich Schiller University Jena Homepage Germany closed chart	1.1	3
+358	► GSSI Homepage Italy closed chart	1.1	2
+358	► George Washington University Homepage United States closed chart	1.1	3
+358	► Georgia State University Homepage United States closed chart	1.1	3
+358	► Goethe University Frankfurt Homepage Germany closed chart	1.1	2
+358	► Hacettepe University Homepage Turkey closed chart	1.1	2
+358	► Heriot-Watt University Homepage United Kingdom closed chart	1.1	6
+358	► Humboldt University of Berlin Homepage Germany closed chart	1.1	2
+358	► IIT Gandhinagar Homepage India closed chart	1.1	3
+358	► IIT Hyderabad Homepage India closed chart	1.1	3
+358	► IPI PAN Homepage Poland closed chart	1.1	2
+358	► ISI Kolkata Homepage India closed chart	1.1	2
+358	► IUPUI Homepage United States closed chart	1.1	2
+358	► KIIT Bhubaneswar Homepage India closed chart	1.1	1
+358	► KTH Royal Inst. of Technology Homepage Sweden closed chart	1.1	3
+358	► Kempelen Institute - KInIT Homepage Slovakia closed chart	1.1	3
+358	► Kyung Hee University Homepage South Korea closed chart	1.1	4
+358	► Kyungpook National University Homepage South Korea closed chart	1.1	2
+358	► Loughborough University Homepage United Kingdom closed chart	1.1	2
+358	► Louisiana State University Homepage United States closed chart	1.1	4
+358	► MUST Homepage Macao closed chart	1.1	2
+358	► Maastricht University Homepage Netherlands closed chart	1.1	2
+358	► Masdar Institute Homepage United Arab Emirates closed chart	1.1	1
+358	► Missouri S&T Homepage United States closed chart	1.1	2
+358	► Monash University Indonesia Homepage Indonesia closed chart	1.1	1
+358	► NTNU Homepage Norway closed chart	1.1	3
+358	► National Cheng Kung University Homepage Taiwan closed chart	1.1	1
+358	► National Tsing Hua University Homepage Taiwan closed chart	1.1	3
+358	► New York Tech Homepage United States closed chart	1.1	2
+358	► Northwest University Homepage China closed chart	1.1	3
+358	► Oakland University Homepage United States closed chart	1.1	3
+358	► Ohio University Homepage United States closed chart	1.1	5
+358	► Open University UK Homepage United Kingdom closed chart	1.1	2
+358	► PUC-RIO Homepage Brazil closed chart	1.1	3
+358	► Paderborn University Homepage Germany closed chart	1.1	2
+358	► Portland State University Homepage United States closed chart	1.1	2
+358	► Qatar University Homepage Qatar closed chart	1.1	2
+358	► Queensland Univ. of Technology Homepage Australia closed chart	1.1	4
+358	► Scuola Superiore Sant'Anna Homepage Italy closed chart	1.1	2
+358	► Syracuse University Homepage United States closed chart	1.1	2
+358	► TU Clausthal Homepage Germany closed chart	1.1	2
+358	► Tata Inst. of Fundamental Research Homepage India closed chart	1.1	2
+358	► TeIAS Homepage Iran closed chart	1.1	1
+358	► Texas Tech University Homepage United States closed chart	1.1	3
+358	► The Catholic University of Korea Homepage South Korea closed chart	1.1	1
+358	► The University of Alabama Homepage United States closed chart	1.1	1
+358	► Tilburg University Homepage Netherlands closed chart	1.1	2
+358	► Tufts University Homepage United States closed chart	1.1	3
+358	► UAEU Homepage United Arab Emirates closed chart	1.1	1
+358	► UC Chile Homepage Chile closed chart	1.1	4
+358	► UCCS Homepage United States closed chart	1.1	2
+358	► UFMG Homepage Brazil closed chart	1.1	3
+358	► UFRGS Homepage Brazil closed chart	1.1	2
+358	► Univ. of Louisiana - Lafayette Homepage United States closed chart	1.1	4
+358	► Univ. of Massachusetts Dartmouth United States closed chart	1.1	1
+358	► Univ. of Missouri - Kansas City Homepage United States closed chart	1.1	1
+358	► Universidad Nacional de Córdoba Homepage Argentina closed chart	1.1	1
+358	► University at Albany - SUNY Homepage United States closed chart	1.1	2
+358	► University of Antwerp Homepage Belgium closed chart	1.1	2
+358	► University of Augsburg Homepage Germany closed chart	1.1	2
+358	► University of Bayreuth Homepage Germany closed chart	1.1	3
+358	► University of Bern Homepage Switzerland closed chart	1.1	1
+358	► University of Cagliari Homepage Italy closed chart	1.1	3
+358	► University of Crete Homepage Greece closed chart	1.1	3
+358	► University of Duisburg-Essen Homepage Germany closed chart	1.1	5
+358	► University of Düsseldorf Homepage Germany closed chart	1.1	2
+358	► University of Erlangen–Nuremberg Homepage Germany closed chart	1.1	3
+358	► University of Guelph Homepage Canada closed chart	1.1	3
+358	► University of Hawaii at Manoa Homepage United States closed chart	1.1	2
+358	► University of Hildesheim Homepage Germany closed chart	1.1	1
+358	► University of Innsbruck Homepage Austria closed chart	1.1	2
+358	► University of Jinan Homepage China closed chart	1.1	2
+358	► University of Kansas Homepage United States closed chart	1.1	2
+358	► University of Kassel Homepage Germany closed chart	1.1	1
+358	► University of Kent Homepage United Kingdom closed chart	1.1	2
+358	► University of Koblenz-Landau Homepage Germany closed chart	1.1	1
+358	► University of Konstanz Homepage Germany closed chart	1.1	3
+358	► University of Mainz Homepage Germany closed chart	1.1	2
+358	► University of Manitoba Homepage Canada closed chart	1.1	2
+358	► University of Massachusetts Boston Homepage United States closed chart	1.1	2
+358	► University of Memphis Homepage United States closed chart	1.1	3
+358	► University of Molise Homepage Italy closed chart	1.1	1
+358	► University of Nevada Homepage United States closed chart	1.1	2
+358	► University of New Mexico Homepage United States closed chart	1.1	1
+358	► University of Oklahoma Homepage United States closed chart	1.1	3
+358	► University of Oldenburg Homepage Germany closed chart	1.1	2
+358	► University of Otago Homepage New Zealand closed chart	1.1	4
+358	► University of Padova Homepage Italy closed chart	1.1	2
+358	► University of Regensburg Homepage Germany closed chart	1.1	2
+358	► University of Rhode Island Homepage United States closed chart	1.1	2
+358	► University of Salzburg Homepage Austria closed chart	1.1	3
+358	► University of Saskatchewan Homepage Canada closed chart	1.1	1
+358	► University of St Andrews Homepage United Kingdom closed chart	1.1	2
+358	► University of Sussex Homepage United Kingdom closed chart	1.1	2
+358	► University of Szeged Homepage Hungary closed chart	1.1	1
+358	► University of Tennessee Homepage United States closed chart	1.1	5
+358	► University of Texas at San Antonio Homepage United States closed chart	1.1	5
+358	► University of Tulsa Homepage United States closed chart	1.1	1
+358	► University of Ulm Homepage Germany closed chart	1.1	1
+358	► University of Victoria Homepage Canada closed chart	1.1	2
+358	► University of Waikato Homepage New Zealand closed chart	1.1	2
+358	► University of Wollongong Homepage Australia closed chart	1.1	2
+358	► University of Wroclaw Homepage Poland closed chart	1.1	2
+358	► Université Jean Monnet Homepage France closed chart	1.1	3
+358	► Université du Québec à Montréal Homepage Canada closed chart	1.1	4
+358	► Utah State University Homepage United States closed chart	1.1	2
+358	► VU Amsterdam Homepage Netherlands closed chart	1.1	6
+358	► Victoria University of Wellington Homepage New Zealand closed chart	1.1	3
+358	► Waseda University Homepage Japan closed chart	1.1	2
+358	► West Virginia University Homepage United States closed chart	1.1	1
+358	► Western University Homepage Canada closed chart	1.1	2
+358	► Wichita State University Homepage United States closed chart	1.1	1
+486	► Aberystwyth University Homepage United Kingdom closed chart	1.0	1
+486	► Ashoka University Homepage India closed chart	1.0	1
+486	► BUET Homepage Bangladesh closed chart	1.0	1
+486	► Boğaziçi University Homepage Turkey closed chart	1.0	1
+486	► CWI Homepage Netherlands closed chart	1.0	1
+486	► Charles University Homepage Czech Republic closed chart	1.0	1
+486	► Cleveland State University Homepage United States closed chart	1.0	2
+486	► Colorado School of Mines Homepage United States closed chart	1.0	2
+486	► De La Salle University Homepage Philippines closed chart	1.0	2
+486	► Florida Atlantic University Homepage United States closed chart	1.0	1
+486	► Goldsmiths University of London Homepage United Kingdom closed chart	1.0	1
+486	► Henan University Homepage China closed chart	1.0	2
+486	► IIT (BHU) Varanasi Homepage India closed chart	1.0	1
+486	► IIT Indore Homepage India closed chart	1.0	1
+486	► IIT Roorkee Homepage India closed chart	1.0	1
+486	► IIT Ropar Homepage India closed chart	1.0	1
+486	► IIT Tirupati Homepage India closed chart	1.0	1
+486	► IMDEA Networks Institute Homepage Spain closed chart	1.0	1
+486	► IMSc Homepage India closed chart	1.0	1
+486	► IPM Homepage Iran closed chart	1.0	1
+486	► Kansas State University Homepage United States closed chart	1.0	2
+486	► Kent State University Homepage United States closed chart	1.0	2
+486	► LUMS Homepage Pakistan closed chart	1.0	2
+486	► Lund University Homepage Sweden closed chart	1.0	1
+486	► Massey University Homepage New Zealand closed chart	1.0	1
+486	► Mississippi State University Homepage United States closed chart	1.0	1
+486	► Mohammed VI Polytechnic University Homepage Morocco closed chart	1.0	1
+486	► Monash University Malaysia Homepage Malaysia closed chart	1.0	1
+486	► Naval Postgraduate School Homepage United States closed chart	1.0	1
+486	► Northern Arizona University Homepage United States closed chart	1.0	1
+486	► Nova Southeastern University Homepage United States closed chart	1.0	1
+486	► Old Dominion University Homepage United States closed chart	1.0	1
+486	► PTIT Homepage Vietnam closed chart	1.0	1
+486	► Saint Louis University United States closed chart	1.0	1
+486	► Sharif University of Technology Homepage Iran closed chart	1.0	1
+486	► South China Univ. of Technology Homepage China closed chart	1.0	1
+486	► THWS Homepage Germany closed chart	1.0	1
+486	► TU Ilmenau Homepage Germany closed chart	1.0	1
+486	► Texas State University Homepage United States closed chart	1.0	1
+486	► Trinity College Dublin Homepage Ireland closed chart	1.0	1
+486	► UFPE Homepage Brazil closed chart	1.0	1
+486	► UFRJ Homepage Brazil closed chart	1.0	1
+486	► Universidad de Zaragoza Homepage Spain closed chart	1.0	1
+486	► University of Arkansas Homepage United States closed chart	1.0	2
+486	► University of Buenos Aires Homepage Argentina closed chart	1.0	1
+486	► University of Canterbury Homepage New Zealand closed chart	1.0	1
+486	► University of Cape Town Homepage South Africa closed chart	1.0	1
+486	► University of Colorado - Denver Homepage United States closed chart	1.0	1
+486	► University of Dundee Homepage United Kingdom closed chart	1.0	1
+486	► University of Essex Homepage United Kingdom closed chart	1.0	1
+486	► University of Haifa Homepage Israel closed chart	1.0	2
+486	► University of Luxembourg Homepage Luxembourg closed chart	1.0	1
+486	► University of Magdeburg Homepage Germany closed chart	1.0	1
+486	► University of Michigan-Dearborn Homepage United States closed chart	1.0	2
+486	► University of Mississippi Homepage United States closed chart	1.0	1
+486	► University of Missouri Homepage United States closed chart	1.0	1
+486	► University of New Brunswick Homepage Canada closed chart	1.0	1
+486	► University of Potsdam Homepage Germany closed chart	1.0	2
+486	► University of Tartu Homepage Estonia closed chart	1.0	2
+486	► University of Texas - El Paso Homepage United States closed chart	1.0	1
+486	► University of Udine Homepage Italy closed chart	1.0	1
+486	► University of Vermont Homepage United States closed chart	1.0	1
+486	► Université de Sherbrooke Homepage Canada closed chart	1.0	1
+486	► Université libre de Bruxelles Homepage Belgium closed chart	1.0	2
+486	► VNU Univ. of Eng. and Tech. Homepage Vietnam closed chart	1.0	1
+486	► Western Sydney University Homepage Australia closed chart	1.0	1

@@ -1,0 +1,2 @@
+script_filename,common_odds_ratio_mh,ci_95_low,ci_95_high,cmh_p_value,num_strata
+top_bottom_30_USA.py,0.7906910288426269,0.1603184793771586,3.8996895774030547,0.7757193104431925,8

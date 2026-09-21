@@ -1,0 +1,282 @@
+Title,Rounds of Discussion,Average Rating,Average Confidence
+Human-Guided Fair Classification for Natural Language Processing,1,7.5,3.75
+Humanly Certifying Superhuman Classifiers,2,6.75,3.5
+Few-Shot Domain Adaptation For End-to-End Communication,1,7.333333333333333,3.3333333333333335
+Learning a Data-Driven Policy Network for Pre-Training Automated Feature Engineering,0,8.0,4.0
+Learning Group Importance using the Differentiable Hypergeometric Distribution,0,7.5,2.5
+Concept-level Debugging of Part-Prototype Networks,2,8.0,4.0
+Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery,1,6.75,3.25
+Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data ,1,5.75,4.0
+Guarded Policy Optimization with Imperfect Online Demonstrations,3,6.75,3.5
+Learning with Logical Constraints but without Shortcut Satisfaction,2,7.0,3.0
+Certified Training: Small Boxes are All You Need,2,7.5,3.75
+Multi-Objective Online Learning,0,7.25,3.5
+"Seeing Differently, Acting Similarly: Heterogeneously Observable Imitation Learning",6,4.5,3.75
+A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias,2,5.75,3.5
+Understanding and Adopting Rational Behavior by Bellman Score Estimation,5,6.857142857142857,3.5714285714285716
+STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables,1,6.25,3.5
+Ask Me Anything: A simple strategy for prompting language models,2,7.0,3.5
+On Representing Linear Programs by Graph Neural Networks,1,6.333333333333333,2.6666666666666665
+Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel,5,6.5,3.25
+Minimalistic Unsupervised Representation Learning with the Sparse Manifold Transform,2,7.0,3.5
+GEASS: Neural causal feature selection for high-dimensional biological data,1,7.5,3.25
+SmartFRZ: An Efficient Training Framework using Attention-Based Layer Freezing,4,7.2,3.8
+The In-Sample Softmax for Offline Reinforcement Learning,1,7.333333333333333,3.6666666666666665
+Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning,1,7.5,4.0
+Guiding Energy-based Models via Contrastive Latent Variables,2,6.75,4.5
+Implicit regularization in Heavy-ball momentum accelerated stochastic gradient descent,3,7.0,3.5
+Real-time variational method for learning neural trajectory and its dynamics,0,7.0,3.75
+Energy-Inspired Self-Supervised Pretraining for Vision Models,4,5.666666666666667,4.0
+Binding Language Models in Symbolic Languages,2,8.0,3.0
+"Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems",2,7.333333333333333,2.6666666666666665
+BC-IRL: Learning Generalizable Reward Functions from Demonstrations,2,6.333333333333333,3.3333333333333335
+Phase2vec: dynamical systems embedding with a physics-informed convolutional network,3,7.25,3.5
+gDDIM: Generalized denoising diffusion implicit models,2,7.5,3.25
+FedExP: Speeding Up Federated Averaging via Extrapolation,2,8.0,3.6666666666666665
+Serving Graph Compression for Graph Neural Networks,2,6.25,3.5
+"Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency",0,7.5,3.75
+Contrastive Audio-Visual Masked Autoencoder,4,6.8,4.0
+The Asymmetric Maximum Margin Bias of Quasi-Homogeneous Neural Networks,2,6.25,3.25
+Optimal Transport for Offline Imitation Learning,2,5.5,3.25
+"Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization",1,7.0,3.5
+Learning multi-scale local conditional probability models of images,2,5.666666666666667,3.0
+Disentanglement with Biological Constraints: A Theory of Functional Cell Types,2,5.75,3.75
+Learning rigid dynamics with face interaction graph networks,1,4.0,4.0
+Implicit Bias of Large Depth Networks: a Notion of Rank for Nonlinear Functions,1,6.0,3.6666666666666665
+Depth Separation with Multilayer Mean-Field Networks,1,7.2,3.4
+Rhino: Deep Causal Temporal Relationship Learning with History-dependent Noise,2,7.0,3.0
+Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation,1,7.5,3.75
+DINO as a von Mises-Fisher mixture model,2,7.5,3.25
+Associative Memory Augmented Asynchronous Spatiotemporal Representation Learning for Event-based Perception,1,6.5,4.0
+SMART: Self-supervised Multi-task pretrAining with contRol Transformers,2,7.5,3.0
+TEMPERA: Test-Time Prompt Editing via Reinforcement Learning,3,7.0,3.75
+Provable Defense Against Geometric Transformations,2,7.0,3.75
+Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations,2,6.5,3.75
+Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes,1,7.5,4.25
+The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry,1,8.0,3.0
+Task-customized Masked Autoencoder via Mixture of Cluster-conditional Experts,2,6.5,3.75
+Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization,0,7.0,3.5
+Using Language to Extend to Unseen Domains,1,6.666666666666667,3.6666666666666665
+Can We Find Nash Equilibria at a Linear Rate in Markov Games?,1,6.25,3.0
+Hebbian Deep Learning Without Feedback,2,6.5,3.5
+A probabilistic framework for task-aligned intra- and inter-area neural manifold estimation,1,7.5,3.5
+Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics,2,7.25,4.0
+Proposal-Contrastive Pretraining for Object Detection from Fewer Data,2,6.666666666666667,4.0
+ImageNet-X: Understanding Model Mistakes with Factor of Variation Annotations,2,8.0,4.333333333333333
+Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries,2,8.0,3.3333333333333335
+Choreographer: Learning and Adapting Skills in Imagination,1,7.0,3.75
+Learning About Progress From Experts,1,7.333333333333333,3.0
+Learning Fair Graph Representations via Automated Data Augmentations,1,7.5,3.75
+Emergence of Maps in the Memories of Blind Navigation Agents,2,4.5,4.25
+Spectral Augmentation for Self-Supervised Learning on Graphs,2,7.0,3.75
+VIPeR: Provably Efficient Algorithm for Offline RL with Neural Function Approximation,1,7.5,3.25
+Self-supervised learning with rotation-invariant kernels,1,7.0,3.25
+Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity,1,7.5,3.25
+VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training,1,7.0,3.5
+Subquadratic Algorithms for Kernel Matrices via Kernel Density Estimation,4,8.0,3.3333333333333335
+A Higher Precision Algorithm for Computing the $1$-Wasserstein Distance,2,8.0,2.6666666666666665
+Revisiting adapters with adversarial training,1,6.5,3.75
+UNICORN: A Unified Backdoor Trigger Inversion Framework,1,6.0,3.3333333333333335
+ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion,1,5.75,4.25
+Localized Randomized Smoothing for Collective Robustness Certification,1,7.333333333333333,4.0
+Learning Probabilistic Topological Representations Using Discrete Morse Theory,3,6.666666666666667,3.6666666666666665
+Model-based Causal Bayesian Optimization,1,7.0,3.25
+Training language models to summarize narratives improves brain alignment,1,6.75,3.75
+Dual Algorithmic Reasoning,1,8.0,3.3333333333333335
+A Primal-Dual Framework for Transformers and Neural Networks,4,7.2,3.6
+Fisher-Legendre (FishLeg) optimization of deep neural networks,2,7.0,3.5
+Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens,3,6.666666666666667,3.6666666666666665
+Efficient recurrent architectures through activity sparsity and sparse back-propagation through time,1,8.0,4.0
+Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow,1,6.666666666666667,3.6666666666666665
+"Inequality phenomenon in $l_{\infty}$-adversarial training, and its unrealized threats",3,8.0,4.0
+Learning Diffusion Bridges on Constrained Domains,4,5.75,3.25
+Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations,1,7.0,4.5
+Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning,2,6.666666666666667,4.333333333333333
+Decompositional Generation Process for Instance-Dependent Partial Label Learning,1,7.5,4.25
+Building a Subspace of Policies for Scalable Continual Learning,3,7.2,3.4
+Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization,2,6.75,3.75
+Solving Constrained Variational Inequalities via a First-order Interior Point-based Method,1,6.5,3.25
+Symmetric Pruning in Quantum Neural Networks,1,8.0,3.3333333333333335
+Minimum Variance Unbiased N:M Sparsity for the Neural Gradients,1,8.0,3.6666666666666665
+Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models,2,6.5,4.25
+Mosaic Representation Learning for Self-supervised Visual Pre-training,1,7.0,3.3333333333333335
+FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation,2,5.25,4.25
+Flow Matching for Generative Modeling,1,5.5,4.0
+PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification,0,7.5,4.0
+CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks,4,7.0,3.75
+Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer,1,7.0,2.5
+CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis,3,7.5,4.0
+ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning,1,7.4,3.8
+Re-calibrating Feature Attributions for Model Interpretation,2,7.0,3.3333333333333335
+Adversarial Diversity in Hanabi,3,6.666666666666667,3.3333333333333335
+Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian,2,7.5,3.0
+DocPrompting: Generating Code by Retrieving the Docs,3,7.5,3.75
+A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation,4,7.25,3.75
+Progress measures for grokking via mechanistic interpretability,1,8.0,4.0
+PiFold: Toward effective and efficient protein inverse folding,0,6.666666666666667,3.6666666666666665
+Planning Goals for Exploration,3,7.6,4.0
+Learning Sparse Group Models Through Boolean Relaxation,0,7.5,2.75
+MeshDiffusion: Score-based Generative 3D Mesh Modeling,3,6.0,4.0
+Partially Observable RL with B-Stability: Unified Structural Condition and Sharp Sample-Efficient Algorithms,1,7.333333333333333,3.3333333333333335
+Domain Generalization via Heckman-type Selection Models ,2,7.333333333333333,3.0
+A CMDP-within-online framework for Meta-Safe Reinforcement Learning,1,5.666666666666667,3.6666666666666665
+Effects of Graph Convolutions in Multi-layer Networks,0,7.5,4.0
+Post-hoc Concept Bottleneck Models,1,8.0,3.6666666666666665
+When Source-Free Domain Adaptation Meets Learning with Noisy Labels,3,6.0,3.25
+Neural Networks Efficiently Learn Low-Dimensional Representations with SGD,1,7.333333333333333,3.0
+Does Zero-Shot Reinforcement Learning Exist?,4,5.0,3.75
+Hyperbolic Deep Reinforcement Learning,2,2.6666666666666665,3.3333333333333335
+Learning Controllable Adaptive Simulation for Multi-resolution Physics,3,6.75,3.5
+Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning,2,7.333333333333333,3.6666666666666665
+Parametrizing Product Shape Manifolds by Composite Networks,1,7.0,3.0
+Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?,5,5.25,4.25
+Learning with Stochastic Orders,0,6.75,2.75
+MEDFAIR: Benchmarking Fairness for Medical Imaging,1,6.75,4.25
+Neural Design for Genetic Perturbation Experiments,5,7.0,3.0
+Efficient Discrete Multi Marginal Optimal Transport Regularization,2,6.333333333333333,3.6666666666666665
+Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask?,2,5.75,3.0
+Quantifying Memorization Across Neural Language Models,5,6.25,4.0
+Powderworld: A Platform for Understanding Generalization via Rich Task Distributions,1,8.0,4.0
+Out-of-Distribution Detection and Selective Generation for Conditional Language Models,1,7.333333333333333,4.0
+Differentially Private $L_2$-Heavy Hitters in the Sliding Window Model,1,6.5,2.75
+NTFields: Neural Time Fields for Physics-Informed Robot Motion Planning,5,7.5,3.75
+ZiCo: Zero-shot NAS via inverse Coefficient of Variation on Gradients,4,6.5,3.75
+Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning,2,8.0,4.333333333333333
+STaSy: Score-based Tabular data Synthesis,0,7.25,3.0
+A Unified Algebraic Perspective on Lipschitz Neural Networks,2,7.5,3.25
+The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks,1,8.0,3.0
+Few-shot Cross-domain Image Generation via Inference-time Latent-code Learning,1,8.0,3.75
+RLx2: Training a Sparse Deep Reinforcement Learning Model from Scratch,2,7.5,3.5
+Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!,3,7.5,4.25
+Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers,3,8.0,3.5
+Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks,2,7.0,3.5
+Sparsity-Constrained Optimal Transport,2,5.8,4.0
+Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection,2,7.0,3.75
+DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion,1,5.75,3.0
+"Neural Lagrangian Schr\""{o}dinger Bridge: Diffusion Modeling for Population Dynamics",8,6.5,3.75
+Loss Landscapes are All You Need: Neural Network Generalization Can Be Explained Without the Implicit Bias of Gradient Descent,0,7.0,4.0
+Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning,3,7.25,3.25
+D4FT: A Deep Learning Approach to Kohn-Sham Density Functional Theory,1,5.666666666666667,2.3333333333333335
+Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning,4,6.75,4.25
+Pre-training via Denoising for Molecular Property Prediction,1,7.333333333333333,4.333333333333333
+Martingale Posterior Neural Processes,1,5.666666666666667,3.3333333333333335
+"On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation",2,7.0,3.75
+DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems,1,6.25,3.5
+The Symmetric Generalized Eigenvalue Problem as a Nash Equilibrium,1,7.5,3.5
+EA-HAS-Bench: Energy-aware Hyperparameter and Architecture Search Benchmark,2,6.5,4.0
+MARS: Meta-learning as Score Matching in the Function Space,1,8.0,4.0
+Faster Gradient-Free Methods for Escaping Saddle Points,1,7.5,4.0
+VA-DepthNet: A Variational Approach to Single Image Depth Prediction,1,6.75,4.5
+Prompt-to-Prompt Image Editing with Cross-Attention Control,1,7.5,4.25
+DiffEdit: Diffusion-based semantic image editing with mask guidance,1,5.5,4.25
+Rarity Score : A New Metric to Evaluate the Uncommonness of Synthesized Images,4,7.0,3.5
+Corrupted Image Modeling for Self-Supervised Visual Pre-Training,3,6.333333333333333,3.6666666666666665
+Semi-Implicit Variational Inference via Score Matching,3,6.666666666666667,4.0
+Exploring Temporally Dynamic Data Augmentation for Video Recognition,1,7.5,4.25
+A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning,1,8.0,2.6666666666666665
+Adversarial Attacks on Adversarial Bandits,1,6.666666666666667,3.6666666666666665
+Ensuring DNN Solution Feasibility for Optimization Problems with Linear Constraints,3,7.0,2.75
+LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation,1,7.25,4.5
+MIMT: Masked Image Modeling Transformer for Video Compression,4,6.4,4.2
+Hungry Hungry Hippos: Towards Language Modeling with State Space Models,2,6.666666666666667,3.6666666666666665
+ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks,2,6.0,4.0
+Relational Attention: Generalizing Transformers for Graph-Structured Tasks,0,7.5,3.75
+Distilling Model Failures as Directions in Latent Space,2,7.5,3.5
+Combinatorial-Probabilistic Trade-Off: P-Values of Community Properties Test in the Stochastic Block Models,2,8.0,4.0
+Continuized Acceleration for Quasar Convex Functions  in Non-Convex Optimization,2,7.0,3.5
+Learning Soft Constraints From Constrained Expert Demonstrations,2,6.25,3.25
+Learning to Grow Pretrained Models for Efficient Transformer Training,1,7.5,3.25
+InCoder: A Generative Model for Code Infilling and Synthesis,2,7.0,4.25
+"UNIFIED-IO: A Unified Model for Vision, Language, and Multi-modal Tasks",1,7.5,4.25
+Benchmarking Offline Reinforcement Learning on Real-Robot Hardware,1,7.0,3.75
+CUDA: Curriculum of Data Augmentation for Long-tailed Recognition,5,6.4,4.2
+Learning to Estimate Shapley Values with Vision Transformers,4,7.5,3.5
+A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet,2,8.0,3.6666666666666665
+Retrieval-based Controllable Molecule Generation,7,6.5,3.75
+Stochastic Multi-Person 3D Motion Forecasting,1,8.0,4.0
+Sign and Basis Invariant Networks for Spectral Graph Representation Learning,1,8.0,3.25
+Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Forecasting,1,6.666666666666667,3.0
+Code Translation with Compiler Representations,2,4.25,4.5
+Omnigrok: Grokking Beyond Algorithmic Data,1,8.0,3.75
+Flow Annealed Importance Sampling Bootstrap,2,6.5,3.5
+Continual Unsupervised Disentangling of Self-Organizing Representations,2,6.5,3.5
+LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence,2,7.5,3.25
+"Programmatically Grounded, Compositionally Generalizable Robotic Manipulation",0,7.25,3.75
+SketchKnitter: Vectorized Sketch Generation with Diffusion Models,1,7.333333333333333,3.3333333333333335
+A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning,2,7.5,4.0
+Toeplitz Neural Network for Sequence Modeling,2,7.0,3.75
+QuAnt: Quantum Annealing with Learnt Couplings,1,6.666666666666667,3.6666666666666665
+Towards Effective and Interpretable Human-Agent Collaboration in MOBA Games: A Communication Perspective,4,6.666666666666667,3.6666666666666665
+On the complexity of nonsmooth automatic differentiation,1,6.666666666666667,3.3333333333333335
+Diffusion Posterior Sampling for General Noisy Inverse Problems,0,7.0,4.0
+Mass-Editing Memory in a Transformer,1,7.0,3.5
+Learning the Positions in CountSketch,1,7.5,3.0
+Outcome-directed Reinforcement Learning by Uncertainty \& Temporal Distance-Aware Curriculum Goal Generation,3,7.333333333333333,3.3333333333333335
+A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation,2,7.333333333333333,4.333333333333333
+HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer,2,6.333333333333333,4.666666666666667
+"A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics",1,7.5,3.25
+Unsupervised Model Selection for Time Series Anomaly Detection,3,5.5,3.75
+AANG : Automating Auxiliary Learning,2,6.5,3.5
+NeRN: Learning Neural Representations for Neural Networks,1,7.0,4.0
+Formal Mathematics Statement Curriculum Learning,1,7.0,4.0
+Multifactor Sequential Disentanglement via Structured Koopman Autoencoders,1,7.333333333333333,3.6666666666666665
+Packed Ensembles for efficient uncertainty estimation,1,6.666666666666667,4.0
+Hidden Markov Transformer for Simultaneous Machine Translation,1,7.5,4.25
+Multi-domain image generation and translation with identifiability guarantees,5,6.5,4.0
+Continual evaluation for lifelong learning: Identifying the stability gap,1,7.25,4.0
+Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation,1,7.5,3.5
+One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks,3,7.333333333333333,3.3333333333333335
+Deterministic training of generative autoencoders using invertible layers,4,7.5,4.0
+A Holistic View of Label Noise Transition Matrix in Deep Learning and Beyond,2,7.2,2.2
+Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle,3,7.333333333333333,3.3333333333333335
+Near-Optimal Adversarial Reinforcement Learning with Switching Costs,3,7.0,3.25
+GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation,1,4.666666666666667,3.3333333333333335
+Neural Optimal Transport,1,7.333333333333333,3.3333333333333335
+Dirichlet-based Uncertainty Calibration for Active Domain Adaptation,0,6.333333333333333,4.0
+Accurate Image Restoration with Attention Retractable Transformer,1,7.5,4.75
+Neural Episodic Control with State Abstraction,4,7.333333333333333,3.6666666666666665
+The Role of ImageNet Classes in Fréchet Inception Distance,1,6.75,3.5
+Diffusion Models Already Have A Semantic Latent Space,3,6.5,3.75
+Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model,2,7.5,3.5
+Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities,2,6.75,3.75
+Learning Label Encodings for Deep Regression,1,7.5,3.25
+Multi-skill Mobile Manipulation for Object Rearrangement,1,5.0,4.25
+Single-shot General Hyper-parameter Optimization for Federated Learning,1,6.5,3.0
+Simplicial Embeddings in Self-Supervised Learning and Downstream Classification,3,8.0,3.5
+Vision Transformer Adapter for Dense Predictions,3,6.75,4.0
+Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors,2,6.6,3.8
+PLOT: Prompt Learning with Optimal Transport for Vision-Language Models,3,7.5,4.25
+DASHA: Distributed Nonconvex Optimization with Communication Compression and Optimal Oracle Complexity,1,6.5,3.25
+LAVA: Data Valuation without Pre-Specified Learning Algorithms,3,8.0,3.0
+Meta-prediction Model for Distillation-Aware NAS on Unseen Datasets,3,6.333333333333333,4.0
+Denoising Diffusion Error Correction Codes,4,7.333333333333333,3.0
+Exploring Active 3D Object Detection from a Generalization Perspective,1,7.0,3.5
+Neuro-Symbolic Procedural Planning with Commonsense Prompting,6,5.6,3.4
+Generative Augmented Flow Networks,4,7.0,3.25
+The Trade-off between Universality and Label Efficiency of Representations from Contrastive Learning,2,7.0,3.25
+CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations,0,7.6,3.8
+Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language,1,7.5,3.75
+Multi-lingual Evaluation of Code Generation Models,1,7.0,3.75
+GRACE-C: Generalized Rate Agnostic Causal Estimation via Constraints,3,6.4,3.2
+Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs,4,6.25,3.5
+"MPCFORMER: FAST, PERFORMANT AND PRIVATE TRANSFORMER INFERENCE WITH MPC",0,7.5,2.75
+Disparate Impact in Differential Privacy from Gradient Misalignment,2,6.5,3.75
+TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second,4,7.0,3.75
+Human Motion Diffusion Model,3,7.5,4.25
+Visual Recognition with Deep Nearest Centroids,2,6.75,4.0
+Continuous PDE Dynamics Forecasting with Implicit Neural Representations,1,7.0,3.5
+No Reason for No Supervision: Improved Generalization in Supervised Models,1,6.75,3.75
+EVA3D: Compositional 3D Human Generation from 2D Image Collections,1,6.666666666666667,3.6666666666666665
+Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction,1,7.0,3.5
+Generating Diverse Cooperative Agents by Learning Incompatible Policies,2,8.0,3.75
+PEER: A Collaborative Language Model,1,7.5,4.25
+ISS: Image as Stepping Stone for Text-Guided 3D Shape Generation,2,6.0,4.0
+STREET: A MULTI-TASK STRUCTURED REASONING AND EXPLANATION BENCHMARK,2,6.75,3.5
+Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning,1,6.5,3.25
+Neural Networks and the Chomsky Hierarchy,1,7.2,3.8
+Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based  Networks,2,7.5,3.75
+An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion,2,7.0,3.75
+IS SYNTHETIC DATA FROM GENERATIVE MODELS READY FOR IMAGE RECOGNITION?,3,6.5,3.75
+MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction,2,6.666666666666667,3.6666666666666665
+Minimax Optimal Kernel Operator Learning via Multilevel Training,2,5.2,2.6
+Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling,3,6.333333333333333,4.333333333333333

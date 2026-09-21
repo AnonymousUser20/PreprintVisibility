@@ -1,0 +1,87 @@
+Title,Submission Date
+Proving Test Set Contamination in Black-Box Language Models,"26 October, 2023"
+BooookScore: A systematic exploration of book-length summarization in the era of LLMs,"1 October, 2023"
+Generalization in diffusion models arises from geometry-adaptive harmonic representations,"3 October, 2023"
+Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions,October 2023
+The mechanistic basis of data dependence and abrupt learning in an in-context classification task,December 2023
+Improved Techniques for Training Consistency Models,"3 February, 2025"
+Provable Compositional Generalization for Object-Centric Learning,"8 October, 2023"
+Predictive auxiliary objectives in deep RL mimic learning in the brain,"9 October, 2023"
+Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning,Not Found
+"Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",October 2023
+Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors,"4 October, 2023"
+LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models,"12 October, 2023"
+Graph Neural Networks for Learning Equivariant Representations of Neural Networks,"18 March, 2024"
+GNNCert: Deterministic Certification of Graph Neural Networks against Adversarial Perturbations,Not Found
+Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning,"2 March, 2024"
+ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs,April 2024
+Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space,"14 October, 2023"
+Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement,"12 October, 2023"
+Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness,January 2024
+MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts,"3 October, 2023"
+Protein Discovery with Discrete Walk-Jump Sampling,"8 June, 2023"
+ExeDec: Execution Decomposition for Compositional Generalization in Neural Program Synthesis,"25 July, 2023"
+Batched Low-Rank Adaptation of Foundation Models,"9 December, 2023"
+Improved Active Learning via Dependent Leverage Score Sampling,"7 October, 2023"
+Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs,"3 October, 2023"
+One-shot Empirical Privacy Estimation for Federated Learning,"6 February, 2023"
+SWE-bench: Can Language Models Resolve Real-world Github Issues?,Not Found
+ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models,October 2023
+"On the Joint Interaction of Models, Data, and Features",June 2023
+Topological data analysis on noisy quantum computers,"19 September, 2022"
+"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",October 2023
+"""What Data Benefits My Classifier?"" Enhancing Model Performance and Interpretability through Influence-Based Data Selection",Not Found
+Generative Modeling with Phase Stochastic Bridge,"11 October, 2023"
+Zipformer: A faster and better encoder for automatic speech recognition,"17 October, 2023"
+MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,"1 August, 2023"
+ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation,"16 January, 2024"
+Finetuning Text-to-Image Diffusion Models for Fairness,"11 November, 2023"
+Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models,"17 May, 2023"
+METRA: Scalable Unsupervised RL with Metric-Aware Abstraction,"13 October, 2023"
+Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction,Not Found
+Improving Convergence and Generalization Using Parameter Symmetries,"22 May, 2023"
+Flow Matching on General Geometries,"27 May, 2025"
+Ghost on the Shell: An Expressive Representation of General 3D Shapes,"23 October, 2023"
+Würstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models,Not Found
+Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks,March 2024
+Small-scale proxies for large-scale Transformer training instabilities,"25 September, 2023"
+How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models,April 2025
+Vision Transformers Need Registers,"9 June, 2025"
+An Analytical Solution to Gauss-Newton Loss for Direct Image Alignment,Not Found
+Learning Energy Decompositions for Partial Inference in GFlowNets,October 2023
+Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization,"10 October, 2023"
+Multi-Source Diffusion Models for Simultaneous Music Generation and Separation,"4 February, 2023"
+LEGO-Prover: Neural Theorem Proving with Growing Libraries,"1 October, 2023"
+ASID: Active Exploration for System Identification in Robotic Manipulation,"18 April, 2024"
+Towards a statistical theory of data selection under weak supervision,"25 September, 2023"
+Mastering Memory Tasks with World Models,March 2024
+Monte Carlo guided Denoising Diffusion models for Bayesian linear inverse problems.,Not Found
+Self-Alignment with Instruction Backtranslation,"11 August, 2023"
+Learning Interactive Real-World Simulators,"9 October, 2023"
+Candidate Label Set Pruning: A Data-centric Perspective for Deep Partial-label Learning,Not Found
+Robust agents learn causal world models,"16 February, 2024"
+On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs,Not Found
+Diffusion Model for Dense Matching,"30 May, 2023"
+Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video,Not Found
+Neural Fine-Tuning Search for Few-Shot Learning,June 2023
+Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time,Not Found
+Less is More: Fewer Interpretable Region via Submodular Subset Selection,"14 February, 2024"
+Cameras as Rays: Pose Estimation via Ray Diffusion,"22 February, 2024"
+Accelerating Distributed Stochastic Optimization via Self-Repellent Random Walks,January 2024
+"Detecting, Explaining, and Mitigating Memorization in Diffusion Models",July 2024
+Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How,"6 June, 2023"
+LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models,"21 September, 2023"
+Amortizing intractable inference in large language models,"6 October, 2023"
+LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models,"25 September, 2023"
+"A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis","24 July, 2023"
+Lipschitz Singularities in Diffusion Models,"19 June, 2023"
+Interpreting CLIP's Image Representation via Text-Based Decomposition,"9 October, 2023"
+Multisize Dataset Condensation,"9 March, 2024"
+DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation,"28 September, 2023"
+LRM: Large Reconstruction Model for Single Image to 3D,"7 November, 2023"
+How Well Do Supervised 3D Models Transfer to Medical Imaging Tasks?,Not Found
+Gene Regulatory Network Inference in the Presence of Dropouts: a Causal View,March 2024
+Statistically Optimal $K$-means Clustering via Nonnegative Low-rank Semidefinite Programming,"28 May, 2023"
+Unprocessing Seven Years of Algorithmic Fairness,"12 June, 2023"
+InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning,"8 March, 2023"
+Multi-granularity Correspondence Learning from Long-term Noisy Videos,January 2024

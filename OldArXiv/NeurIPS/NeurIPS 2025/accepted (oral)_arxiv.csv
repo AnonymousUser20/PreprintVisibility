@@ -1,0 +1,78 @@
+Title,Submission Date
+Generalized Linear Mode Connectivity for Transformers,"27 June, 2025"
+Deep Compositional Phase Diffusion for Long Motion Sequence Generation,October 2025
+GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability,"22 September, 2025"
+RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation,Not Found
+Agnostic Active Learning Is Always Better Than Passive Learning,Not Found
+Learning Linear Attention in Polynomial Time,"13 October, 2024"
+Optimal Mistake Bounds for Transductive Online Learning,December 2025
+State Entropy Regularization for Robust Reinforcement Learning,"8 June, 2025"
+On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity,"4 June, 2025"
+Why Diffusion Models Don’t Memorize:  The Role of Implicit Dynamical Regularization in Training,Not Found
+Adjoint Schrödinger Bridge Sampler,February 2026
+Breaking the Performance Ceiling in Reinforcement Learning requires Inference Strategies,"27 May, 2025"
+High-Dimensional Calibration from Swap Regret,May 2025
+In Search of Adam’s Secret Sauce,"27 May, 2025"
+An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower Bounds,June 2025
+MaxSup: Overcoming Representation Collapse in Label Smoothing,"18 February, 2025"
+Memory Mosaics at scale,"4 July, 2025"
+The emergence of sparse attention: impact of data distribution and benefits of repetition,"23 May, 2025"
+ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts,Not Found
+Identifiability of Deep Polynomial Neural Networks,"20 June, 2025"
+Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference,"11 June, 2025"
+PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models,"19 September, 2025"
+A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders,"22 September, 2024"
+EvoLM: In Search of Lost Training Dynamics for Language Model Reasoning,Not Found
+Analog In-memory Training on General Non-ideal Resistive Elements: The Impact of Response Functions,"10 February, 2025"
+Discovering Opinion Intervals from Conflicts in Signed Graphs,Not Found
+A Clean Slate for Offline Reinforcement Learning,April 2025
+Spectral Perturbation Bounds for Low-Rank Approximation with Applications to Privacy,October 2025
+Improved Regret Bounds for Gaussian Process Upper Confidence Bound in Bayesian Optimization,"2 June, 2025"
+Auto-Compressing Networks,"11 June, 2025"
+MokA: Multimodal Low-Rank Adaptation for MLLMs,"5 June, 2025"
+Advancing Expert Specialization for Better MoE,"28 May, 2025"
+From Condensation to Rank Collapse: A Two-Stage Analysis of Transformer Training Dynamics,October 2025
+Large Language Diffusion Models,March 2026
+Boosting Knowledge Utilization in Multimodal Large Language Models via Adaptive Logits Fusion and Attention Reallocation,Not Found
+Interactive Cross-modal Learning for Text-3D Scene Retrieval,Not Found
+Rethinking Joint Maximum Mean Discrepancy for Visual Domain Adaptation,Not Found
+Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables,"31 March, 2025"
+Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks,"28 February, 2025"
+1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities,"18 March, 2025"
+Depth-Bounds for Neural Networks via the Braid Arrangement,"13 February, 2025"
+Tighter CMI-Based Generalization Bounds via Stochastic Projection and Quantization,October 2025
+A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning,"25 May, 2025"
+High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model,Not Found
+Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks,October 2025
+Class-wise Balancing Data Replay for Federated Class-Incremental Learning,"10 July, 2025"
+Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain,"23 May, 2025"
+ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism,"14 July, 2025"
+Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks,"12 May, 2025"
+QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training,"31 May, 2025"
+"Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",May 2025
+Learning long range dependencies through time reversal symmetry breaking,June 2025
+FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution,"2 June, 2025"
+Superposition Yields Robust Neural Scaling,"15 May, 2025"
+ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression,"24 September, 2025"
+On Linear Mode Connectivity of Mixture-of-Experts Architectures,"14 September, 2025"
+OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model,"24 May, 2025"
+Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think,"2 July, 2025"
+Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation,May 2025
+Learning (Approximately) Equivariant Networks via Constrained Optimization,"19 May, 2025"
+SAGE: A Unified Framework for Generalizable Object State Recognition with State-Action Graph Embedding,Not Found
+Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?,Not Found
+Learning to Learn with Contrastive Meta-Objective,"8 October, 2024"
+KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction,"29 May, 2025"
+HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models,"23 October, 2025"
+SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing,June 2025
+A multiscale analysis of mean-field transformers in the moderate interaction regime,September 2025
+Exploring Diffusion Transformer Designs via Grafting,"5 June, 2025"
+"Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness","2 June, 2025"
+Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion,"27 February, 2025"
+TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability,May 2025
+PhySense: Sensor Placement Optimization for Accurate Physics Sensing,"19 May, 2025"
+InfinityStar: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation,Not Found
+Does Stochastic Gradient really succeed for bandits?,Not Found
+Perception Encoder: The best visual embeddings are not at the output of the network,"17 April, 2025"
+PlayerOne: Egocentric World Simulator,"11 June, 2025"
+Mean Flows for One-step Generative Modeling,May 2025

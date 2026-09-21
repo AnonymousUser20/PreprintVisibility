@@ -1,0 +1,2 @@
+script_filename,common_odds_ratio_mh,ci_95,cmh_p_value,num_strata
+USA_China.py,1.5200530103234127,"(np.float64(1.3641666037218725), np.float64(1.6937529095708228))",3.0531133177191805e-14,23

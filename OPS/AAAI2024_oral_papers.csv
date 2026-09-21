@@ -1,0 +1,51 @@
+Paper ID,Paper Title
+1,Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning
+2,GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles
+3,Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution
+4,A Diffusion-Based Pre-training Framework for Crystal Property Prediction
+5,A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation
+6,Understanding the Generalization of Pretrained Diffusion Models on Out-of-Distribution Data
+7,HyperFast: Instant Classification for Tabular Data
+8,Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance
+9,Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation
+10,On Inference Stability for Diffusion Models
+11,Recasting Regional Lighting for Shadow Removal
+12,Frozen CLIP Transformer Is an Efficient Point Cloud Encoder
+13,Neural Physical Simulation with Multi-Resolution Hash Grid Encoding
+14,Effect Size Estimation for Duration Recommendation in Online Experiments: Leveraging Hierarchical Models and Objective Utility Approaches
+15,FLAME: A Small Language Model for Spreadsheet Formulas
+16,Optimal Attack and Defense for Reinforcement Learning
+17,Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts
+18,Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation
+19,Uncertainty Regularized Evidential Regression
+20,Partial Label Learning with a Partner
+21,Understanding and Improving Optimization in Predictive Coding Networks
+22,UMIE: Unified Multimodal Information Extraction with Instruction Tuning
+23,Chain-of-Thought Improves Text Generation with Citations in Large Language Models
+24,"Well, Now We Know! Unveiling Sarcasm: Initiating and Exploring Multimodal Conversations with Reasoning"
+25,Turning Dust into Gold: Distilling Complex Reasoning Capabilities from LLMs by Leveraging Negative Data
+26,Beyond Attention: Breaking the Limits of Transformer Context Length with Recurrent Memory
+27,Batch Normalization Is Blind to the First and Second Derivatives of the Loss
+28,A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction
+29,Resource Democratization: Is Compute the Binding Constraint on AI Research?
+30,Regulating AI: Applying Insights from Behavioural Economics and Psychology to the Application of Article 5 of the EU AI Act
+31,"Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties"
+32,Refined Characterizations of Approval-Based Committee Scoring Rules
+33,Participation Incentives in Approval-Based Committee Elections
+34,Low-Distortion Clustering with Ordinal and Limited Cardinal Information
+35,Spatial Voting with Incomplete Voter Information
+36,The Moderating Effect of Instant Runoff Voting
+37,Motif-Aware Riemannian Graph Neural Network with Generative-Contrastive Learning
+38,Model Counting and Sampling via Semiring Extensions
+39,KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs
+40,Graph Invariant Learning with Subgraph Co-mixup for Out-of-Distribution Generalization
+41,Learning MDL Logic Programs from Noisy Data
+42,Scalable Enumeration of Trap Spaces in Boolean Networks via Answer Set Programming
+43,BeliefFlow: A Framework for Logic-Based Belief Diffusion via Iterated Belief Change
+44,Exact ASP Counting with Compact Encodings
+45,Computing the Why-Provenance for Datalog Queries via SAT Solvers
+46,GradTree: Learning Axis-Aligned Decision Trees with Gradient Descent
+47,Causal Strategic Learning with Competitive Selection
+48,DeepSaDe: Learning Neural Networks That Guarantee Domain Constraint Satisfaction
+49,What Do Hebbian Learners Learn? Reduction Axioms for Unstable Hebbian Learning
+50,Towards Safe Policy Learning under Partial Identifiability: A Causal Approach

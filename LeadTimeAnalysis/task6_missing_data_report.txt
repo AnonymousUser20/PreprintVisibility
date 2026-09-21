@@ -1,0 +1,32 @@
+Task 6 missing-data / coverage report
+Lead time (days) = submission_deadline - preprint_date
+  positive = preprint before submission deadline
+  negative = preprint after submission deadline
+
+Papers with computable lead time: 20248
+
+Submission deadlines used:
+  ICLR 2023: 2022-09-28
+  ICLR 2024: 2023-09-28
+  ICLR 2025: 2024-10-01
+  ICML 2023: 2023-01-26
+  ICML 2024: 2024-02-01
+  ICML 2025: 2025-01-30
+  NeurIPS 2023: 2023-05-17
+  NeurIPS 2024: 2024-05-22
+  NeurIPS 2025: 2025-05-15
+
+By venue-year (N with lead time):
+  ICLR 2023: n=1205
+  ICLR 2024: n=1852
+  ICLR 2025: n=1531
+  ICML 2023: n=1485
+  ICML 2024: n=2026
+  ICML 2025: n=2430
+  NeurIPS 2023: n=2524
+  NeurIPS 2024: n=3150
+  NeurIPS 2025: n=4045
+
+Lead time overall: median=-21 | min=-1105 | max=2115
+Share with lead_time > 0 (before deadline): 28.3%
+Share with lead_time < 0 (after deadline): 70.0%
