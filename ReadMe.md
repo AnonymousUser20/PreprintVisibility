@@ -1,4 +1,4 @@
-# PreprintVisibility
+# PreprintVisibility [![DOI](https://zenodo.org/badge/1104377614.svg)](https://doi.org/10.5281/zenodo.23184447)
 ## DATASET STATISTICS
 
 The dataset extraction statistics have been provided in the following table.
