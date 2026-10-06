@@ -34,7 +34,19 @@ The dataset extraction statistics have been provided in the following table.
 | CVPR | 2024 | 2,716 | 2,173 (80.0%) | 2,716 (100.0%) | 2,580 (95.0%) | 2,073 (76.3%) | – | – | Main: 2,716 |
 | CVPR | 2025 | 2,871 | 2,253 (78.5%) | 2,871 (100.0%) | 2,731 (95.1%) | 2,144 (74.7%) | – | – | Main: 2,871 |
 
+## PRE-PRINT POLICIES
 
+| Venue | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| ICLR | [Call for papers](https://iclr.cc/Conferences/2023/CallForPapers) | [Call for papers](https://iclr.cc/Conferences/2024/CallForPapers) | [Call for papers](https://iclr.cc/Conferences/2025/CallForPapers) |
+| NeurIPS | [Call for papers](https://neurips.cc/Conferences/2023/CallForPapers) | [Call for papers](https://neurips.cc/Conferences/2024/CallForPapers) | [Call for papers](https://neurips.cc/Conferences/2025/CallForPapers) |
+| ICML | [Call for papers](https://icml.cc/Conferences/2023/CallForPapers) | [Call for papers](https://icml.cc/Conferences/2024/CallForPapers) | [Call for papers](https://icml.cc/Conferences/2025/CallForPapers) |
+| AAAI | [Review process](https://aaai-23.aaai.org/review-process/) | [Review process](https://aaai.org/aaai-24-conference/review-process/) | [Review process](https://aaai.org/conference/aaai/aaai-25/review-process/) |
+| ACL | [Main-track call](https://2023.aclweb.org/calls/main_conference/) | [Main-track call](https://2024.aclweb.org/calls/main_conference_papers/) | [Main-track call](https://2025.aclweb.org/calls/main_conference_papers/) |
+| EMNLP | [Main-track call](https://2023.emnlp.org/calls/main_conference_papers/) | [Main-track call](https://2024.emnlp.org/calls/main_conference_papers/) | [Main-track call](https://2025.emnlp.org/calls/main_conference_papers/) |
+| COLING | – | [Author’s kit](https://lrec-coling-2024.org/authors-kit/) | [Main-track call](https://coling2025.org/calls/main_conference_papers/) |
+| KDD | [Research-track call](https://www.kdd.org/kdd2023/call-for-research-track-papers/index.html); [ADS-track call](https://www.kdd.org/kdd2023/call-for-applied-data-science-ads-track-papers/index.html) | [Research-track call](https://www.kdd.org/kdd2024/research-track-call-for-papers/) | [Research-track call](https://kdd.org/kdd2025/research-track-call-for-papers/) |
+| CVPR | [Author guidelines](https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines) | [Author guidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) | [Author guidelines](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines) |
 
 ## DATA EXTRACTION
 ### Conference Websites
