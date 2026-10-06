@@ -1,0 +1,8 @@
+Timing category,Code,N,Odds ratio,95% CI,p-value
+CfP to review window,cfp_to_review,2362,1.00 (reference),—,—
+>180 days before submission,more_than_180d,622,0.70,"[0.58, 0.84]",1.8e-4
+90-180 days before submission,within_180d,1293,0.86,"[0.75, 0.99]",3.9e-2
+60-90 days before submission,within_90d,370,1.03,"[0.82, 1.29]",8.1e-1
+30-60 days before submission,within_60d,203,0.70,"[0.52, 0.94]",1.8e-2
+<30 days before submission,within_30d,437,0.80,"[0.65, 0.99]",4.3e-2
+No usable date or posted after review,no_preprint,9596,0.38,"[0.35, 0.42]",6.4e-87

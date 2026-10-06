@@ -1,0 +1,3 @@
+Outcome,Comparison,Country,Reference,N (country),N (model),Estimate,95% CI,p-value,Interpretation
+Rating,China vs United States,China,United States,2647,23333,-0.160,"[-0.211, -0.110]",5.6e-10,"Rating: China papers have 0.160 SD lower mean scores than United States papers (95% CI [-0.211, -0.110], p=5.6e-10), adjusted for preprint visibility, institution tier, venue, and year."
+Confidence,China vs United States,China,United States,2282,20076,0.435,"[0.382, 0.489]",8.4e-57,"Confidence: China papers have 0.435 SD higher mean scores than United States papers (95% CI [0.382, 0.489], p=8.4e-57), adjusted for preprint visibility, institution tier, venue, and year."

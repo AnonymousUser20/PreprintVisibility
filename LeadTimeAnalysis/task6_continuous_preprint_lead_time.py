@@ -18,7 +18,9 @@ OUTPUTS = PROJECT_ROOT / "Outputs"
 DEADLINES_CSV = PROJECT_ROOT / "ConfusionMatrix" / "conference_deadlines.csv"
 
 OUTPUT_TABLE = SCRIPT_DIR / "table6_continuous_preprint_lead_time.csv"
+OUTPUT_TABLE_SUPP = SCRIPT_DIR / "table6_continuous_preprint_lead_time_supplementary_all_arxiv.csv"
 OUTPUT_DATASET = SCRIPT_DIR / "task6_lead_time_dataset.csv"
+OUTPUT_DATASET_ALL = SCRIPT_DIR / "task6_lead_time_dataset_all_arxiv.csv"
 OUTPUT_REPORT = SCRIPT_DIR / "task6_missing_data_report.txt"
 
 TARGET_VENUES = ("ICLR", "ICML", "NeurIPS")
@@ -78,8 +80,8 @@ def parse_deadline_day(value: object) -> date | None:
     return datetime.strptime(match.group(1), "%d.%m.%Y").date()
 
 
-def load_submission_deadlines(path: Path) -> dict[tuple[str, int], date]:
-    deadlines: dict[tuple[str, int], date] = {}
+def load_deadline_windows(path: Path) -> dict[tuple[str, int], tuple[date, date]]:
+    windows: dict[tuple[str, int], tuple[date, date]] = {}
     with open(path, "r", encoding="utf-8-sig", newline="") as f:
         for row in csv.DictReader(f):
             conf_raw = str(row.get("Conference", "")).strip().upper()
@@ -91,9 +93,10 @@ def load_submission_deadlines(path: Path) -> dict[tuple[str, int], date]:
             except ValueError:
                 continue
             submission = parse_deadline_day(row.get("Submission Deadline", ""))
-            if submission is not None:
-                deadlines[(conf, year)] = submission
-    return deadlines
+            review = parse_deadline_day(row.get("Review deadline", ""))
+            if submission is not None and review is not None:
+                windows[(conf, year)] = (submission, review)
+    return windows
 
 
 def infer_venue_year_from_path(path: Path) -> tuple[str | None, int | None]:
@@ -165,7 +168,7 @@ def iter_candidate_csvs() -> list[Path]:
 
 
 def load_lead_time_records(
-    deadlines: dict[tuple[str, int], date],
+    windows: dict[tuple[str, int], tuple[date, date]],
 ) -> pd.DataFrame:
     # Keep earliest preprint date per (venue, year, normalized title).
     best: dict[tuple[str, int, str], dict[str, object]] = {}
@@ -197,11 +200,12 @@ def load_lead_time_records(
                     if preprint_date is None:
                         continue
 
-                    deadline = deadlines.get((venue, year))
-                    if deadline is None:
+                    window = windows.get((venue, year))
+                    if window is None:
                         continue
+                    submission, review = window
 
-                    lead_days = (deadline - preprint_date).days
+                    lead_days = (submission - preprint_date).days
                     key = (venue, year, normalize_title(title))
                     entry = {
                         "venue": venue,
@@ -209,8 +213,10 @@ def load_lead_time_records(
                         "title": title,
                         "date_raw": date_raw,
                         "preprint_date": preprint_date.isoformat(),
-                        "submission_deadline": deadline.isoformat(),
+                        "submission_deadline": submission.isoformat(),
+                        "review_deadline": review.isoformat(),
                         "lead_time_days": lead_days,
+                        "posted_by_review": int(preprint_date <= review),
                         "source_file": str(csv_path.relative_to(PROJECT_ROOT)),
                     }
                     existing = best.get(key)
@@ -275,73 +281,110 @@ def build_table6(df: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def missing_data_report(df: pd.DataFrame, deadlines: dict[tuple[str, int], date]) -> str:
+def missing_data_report(
+    df_main: pd.DataFrame,
+    df_all: pd.DataFrame,
+    windows: dict[tuple[str, int], tuple[date, date]],
+) -> str:
+    dropped = len(df_all) - len(df_main)
     lines = [
         "Task 6 missing-data / coverage report",
         "Lead time (days) = submission_deadline - preprint_date",
         "  positive = preprint before submission deadline",
-        "  negative = preprint after submission deadline",
+        "  negative = preprint after submission, on or before the review deadline",
         "",
-        f"Papers with computable lead time: {len(df)}",
+        "Main analysis: preprint date <= review deadline (visibility during peer review).",
+        "Supplementary: all parseable arXiv dates, including post-review archival posts.",
         "",
-        "Submission deadlines used:",
+        f"All parseable arXiv matches: {len(df_all)}",
+        f"Main sample (posted by review deadline): {len(df_main)}",
+        f"Dropped post-review postings: {dropped}",
+        "",
+        "Deadlines used (submission | review):",
     ]
     for venue in TARGET_VENUES:
         for year in TARGET_YEARS:
-            deadline = deadlines.get((venue, year))
-            lines.append(
-                f"  {venue} {year}: {deadline.isoformat() if deadline else 'MISSING'}"
-            )
+            window = windows.get((venue, year))
+            if window is None:
+                lines.append(f"  {venue} {year}: MISSING")
+            else:
+                submission, review = window
+                lines.append(
+                    f"  {venue} {year}: {submission.isoformat()} | {review.isoformat()}"
+                )
 
-    lines.extend(["", "By venue-year (N with lead time):"])
-    if df.empty:
+    lines.extend(["", "Main sample by venue-year:"])
+    if df_main.empty:
         lines.append("  (no rows)")
     else:
-        for (venue, year), grp in df.groupby(["venue", "year"]):
+        for (venue, year), grp in df_main.groupby(["venue", "year"]):
             lines.append(f"  {venue} {year}: n={len(grp)}")
 
-    if not df.empty:
+    if not df_main.empty:
         lines.extend(
             [
                 "",
-                f"Lead time overall: median={df['lead_time_days'].median():.0f} | "
-                f"min={df['lead_time_days'].min():.0f} | max={df['lead_time_days'].max():.0f}",
-                f"Share with lead_time > 0 (before deadline): "
-                f"{100 * float((df['lead_time_days'] > 0).mean()):.1f}%",
-                f"Share with lead_time < 0 (after deadline): "
-                f"{100 * float((df['lead_time_days'] < 0).mean()):.1f}%",
+                f"Main lead time: median={df_main['lead_time_days'].median():.0f} | "
+                f"min={df_main['lead_time_days'].min():.0f} | "
+                f"max={df_main['lead_time_days'].max():.0f}",
+                f"Share with lead_time > 0 (before submission): "
+                f"{100 * float((df_main['lead_time_days'] > 0).mean()):.1f}%",
+                f"Share with lead_time < 0 (after submission, by review): "
+                f"{100 * float((df_main['lead_time_days'] < 0).mean()):.1f}%",
             ]
         )
     return "\n".join(lines)
+
+
+def print_table(table: pd.DataFrame, title: str) -> None:
+    print(f"\n{title}")
+    print(
+        f"{'Venue':10} {'Year':4} {'N':>6}  {'Median':>8}  {'IQR':>14}  {'Range':>16}"
+    )
+    for _, row in table.iterrows():
+        print(
+            f"{str(row['Venue']):10} {str(row['Year']):4} {str(row['N']):>6}  "
+            f"{str(row['Median lead time']):>8}  {str(row['IQR']):>14}  {str(row['Range']):>16}"
+        )
 
 
 def main() -> None:
     if not DEADLINES_CSV.exists():
         raise FileNotFoundError(f"Deadlines file not found: {DEADLINES_CSV}")
 
-    deadlines = load_submission_deadlines(DEADLINES_CSV)
-    df = load_lead_time_records(deadlines)
+    windows = load_deadline_windows(DEADLINES_CSV)
+    df_all = load_lead_time_records(windows)
+    if df_all.empty:
+        df_main = df_all
+    else:
+        df_main = df_all[df_all["posted_by_review"] == 1].copy().reset_index(drop=True)
 
-    report = missing_data_report(df, deadlines)
+    report = missing_data_report(df_main, df_all, windows)
     _ = OUTPUT_REPORT.write_text(report, encoding="utf-8")
     print(report)
 
-    if not df.empty:
-        df.to_csv(OUTPUT_DATASET, index=False, encoding="utf-8")
-        print(f"\nSaved lead-time dataset: {OUTPUT_DATASET}")
+    if not df_all.empty:
+        df_all.to_csv(OUTPUT_DATASET_ALL, index=False, encoding="utf-8")
+        print(f"\nSaved all-arxiv dataset: {OUTPUT_DATASET_ALL}")
+    if not df_main.empty:
+        df_main.to_csv(OUTPUT_DATASET, index=False, encoding="utf-8")
+        print(f"Saved main lead-time dataset: {OUTPUT_DATASET}")
 
-    table6 = build_table6(df)
-    table6.to_csv(OUTPUT_TABLE, index=False, encoding="utf-8")
-    print(f"\nSaved Table 6: {OUTPUT_TABLE}")
-    print("\nTable 6: Continuous preprint lead time by venue and year")
-    print(
-        f"{'Venue':10} {'Year':4} {'N':>6}  {'Median':>8}  {'IQR':>14}  {'Range':>16}"
+    table_main = build_table6(df_main)
+    table_main.to_csv(OUTPUT_TABLE, index=False, encoding="utf-8")
+    print(f"Saved main table: {OUTPUT_TABLE}")
+    print_table(
+        table_main,
+        "Table 6 (main): preprint posted on or before the review deadline",
     )
-    for _, row in table6.iterrows():
-        print(
-            f"{str(row['Venue']):10} {str(row['Year']):4} {str(row['N']):>6}  "
-            f"{str(row['Median lead time']):>8}  {str(row['IQR']):>14}  {str(row['Range']):>16}"
-        )
+
+    table_all = build_table6(df_all)
+    table_all.to_csv(OUTPUT_TABLE_SUPP, index=False, encoding="utf-8")
+    print(f"Saved supplementary table: {OUTPUT_TABLE_SUPP}")
+    print_table(
+        table_all,
+        "Supplementary: all parseable arXiv dates, including post-review posts",
+    )
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
 Outcome,Predictor,Estimate,95% CI,p-value,N
 Confidence,Preprint visible,0.006,"[-0.027, 0.039]",7.4e-1,20076
 Confidence,Institution tier,0.025,"[-0.023, 0.073]",4.2e-1,20076
-Confidence,Country,-0.056,"[-0.169, 0.057]",1.9e-63,20076
+Confidence,Country,0.435,"[0.382, 0.489]",8.3e-57,20076

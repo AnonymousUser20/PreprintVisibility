@@ -1,0 +1,8 @@
+Timing bucket,Code,N,Odds ratio,95% CI,p-value,Test,Interpretation
+>180 days before submission,more_than_180d,622,1.00,—,—,reference,Reference category: preprint posted >180 days before submission (n=622).
+90-180 days before submission,within_180d,1293,1.23,"[1.00, 1.50]",4.5e-2,pairwise coefficient,"Compared with >180 days before submission, 90-180 days before submission has OR=1.23 for acceptance, adjusted for institution tier, country, and year."
+60-90 days before submission,within_90d,370,1.46,"[1.12, 1.91]",5.4e-3,pairwise coefficient,"Compared with >180 days before submission, 60-90 days before submission has OR=1.46 for acceptance, adjusted for institution tier, country, and year."
+30-60 days before submission,within_60d,203,0.99,"[0.71, 1.38]",9.6e-1,pairwise coefficient,"Compared with >180 days before submission, 30-60 days before submission has OR=0.99 for acceptance, adjusted for institution tier, country, and year."
+<30 days before submission,within_30d,437,1.14,"[0.89, 1.48]",3e-1,pairwise coefficient,"Compared with >180 days before submission, <30 days before submission has OR=1.14 for acceptance, adjusted for institution tier, country, and year."
+CfP to review window,cfp_to_review,2362,1.42,"[1.18, 1.71]",1.8e-4,pairwise coefficient,"Compared with >180 days before submission, cfp to review window has OR=1.42 for acceptance, adjusted for institution tier, country, and year."
+No preprint date,no_preprint,9596,0.54,"[0.46, 0.64]",1.8e-12,pairwise coefficient,"Compared with >180 days before submission, no preprint date has OR=0.54 for acceptance, adjusted for institution tier, country, and year."

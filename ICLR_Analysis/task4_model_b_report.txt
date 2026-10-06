@@ -1,0 +1,16 @@
+Task 4 Model B report (ICLR submissions)
+Total unique submissions: 14883
+Accepted: 5800 | Rejected: 9083
+
+Timing encoding: original buckets kept, including cfp_to_review.
+no_preprint = missing date or posted after the review deadline.
+Reference category: cfp_to_review (CfP to review window).
+
+Preprint timing distribution:
+  cfp_to_review: 2362
+  more_than_180d: 622
+  within_180d: 1293
+  within_90d: 370
+  within_60d: 203
+  within_30d: 437
+  no_preprint: 9596

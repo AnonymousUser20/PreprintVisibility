@@ -1,0 +1,3 @@
+Outcome,Comparison,Country,Reference,N (country),N (model),Estimate,95% CI,p-value,Interpretation
+Rating,Singapore vs United States,Singapore,United States,392,23333,-0.133,"[-0.240, -0.027]",1.4e-2,"Rating: Singapore papers have 0.133 SD lower mean scores than United States papers (95% CI [-0.240, -0.027], p=1.4e-2), adjusted for preprint visibility, institution tier, venue, and year."
+Confidence,Singapore vs United States,Singapore,United States,334,20076,0.352,"[0.237, 0.466]",1.6e-9,"Confidence: Singapore papers have 0.352 SD higher mean scores than United States papers (95% CI [0.237, 0.466], p=1.6e-9), adjusted for preprint visibility, institution tier, venue, and year."

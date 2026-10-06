@@ -476,7 +476,7 @@ def main() -> None:
         )
         fig.colorbar(image, ax=ax, label="Unique papers")
 
-    fig.suptitle("Between CfP-Review", fontsize=30, fontweight="bold")
+    fig.suptitle("CfP-Review", fontsize=30, fontweight="bold")
     output_path = Path(__file__).resolve().parent / "CfP-Review.png"
     plt.tight_layout(rect=(0, 0, 1, 0.97))
     fig.savefig(output_path, dpi=300, bbox_inches="tight")

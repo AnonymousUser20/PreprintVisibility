@@ -1,4 +1,4 @@
 Outcome,Predictor,Estimate,95% CI,p-value,N
 Rating,Preprint visible,0.056,"[0.026, 0.087]",3.3e-4,23333
 Rating,Institution tier,0.038,"[-0.008, 0.083]",2.1e-1,23333
-Rating,Country,0.071,"[-0.036, 0.177]",9.7e-17,23333
+Rating,Country,-0.160,"[-0.211, -0.110]",5.6e-10,23333

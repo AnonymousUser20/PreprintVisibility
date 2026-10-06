@@ -1,0 +1,26 @@
+Task 5b ICLR sample accumulation
+Unique papers with both rating and confidence: 18201
+Accepted: 7537
+Rejected: 10664
+Unknown outcome: 0
+
+By year:
+  2023: n=2696 | accepted=1573 | rejected=1123
+  2024: n=3985 | accepted=2260 | rejected=1725
+  2025: n=11520 | accepted=3704 | rejected=7816
+
+By source folder:
+  reject: 6620
+  accepted(poster): 4918
+  withdrawn: 2894
+  Poster: 1202
+  Withdrawn_Rejected: 1123
+  accepted(spotlight): 747
+  accepted(oral): 299
+  top25: 281
+  top_5: 90
+  desk_rejected: 27
+
+PreprintVisible (date strictly before ICLR submission deadline):
+  1: 3591 (19.7%)
+  0: 14610 (80.3%)

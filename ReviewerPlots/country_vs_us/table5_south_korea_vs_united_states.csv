@@ -1,0 +1,3 @@
+Outcome,Comparison,Country,Reference,N (country),N (model),Estimate,95% CI,p-value,Interpretation
+Rating,South Korea vs United States,South Korea,United States,428,23333,-0.250,"[-0.350, -0.150]",9.1e-7,"Rating: South Korea papers have 0.250 SD lower mean scores than United States papers (95% CI [-0.350, -0.150], p=9.1e-7), adjusted for preprint visibility, institution tier, venue, and year."
+Confidence,South Korea vs United States,South Korea,United States,380,20076,0.312,"[0.207, 0.417]",5.7e-9,"Confidence: South Korea papers have 0.312 SD higher mean scores than United States papers (95% CI [0.207, 0.417], p=5.7e-9), adjusted for preprint visibility, institution tier, venue, and year."

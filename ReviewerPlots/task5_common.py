@@ -17,11 +17,14 @@ OUTPUT_RATING_ROWS = SCRIPT_DIR / "table5_rating_model_rows.csv"
 OUTPUT_CONFIDENCE_ROWS = SCRIPT_DIR / "table5_confidence_model_rows.csv"
 OUTPUT_DATASET = SCRIPT_DIR / "task5_model_dataset.csv"
 OUTPUT_MISSING = SCRIPT_DIR / "task5_missing_data_report.txt"
+OUTPUT_RATING_COUNTRY_VS_US = SCRIPT_DIR / "table5_rating_country_vs_us.csv"
+OUTPUT_CONFIDENCE_COUNTRY_VS_US = SCRIPT_DIR / "table5_confidence_country_vs_us.csv"
+COUNTRY_VS_US_DIR = SCRIPT_DIR / "country_vs_us"
 
 NULL_LIKE = {"", "nan", "none", "null", "na", "not found"}
 BOTTOM_RANK_THRESHOLD = {2023: 465, 2024: 475, 2025: 476}
-COUNTRY_REFERENCE = "Canada"
-COUNTRY_EXAMPLE = "United States"
+COUNTRY_REFERENCE = "United States"
+COUNTRY_EXAMPLE = "China"
 TIER_REFERENCE = "not_listed"
 TIER_EXAMPLE = "top"
 VENUE_REFERENCE = "ICLR"
@@ -172,9 +175,11 @@ def fit_ols(df: pd.DataFrame, outcome: str) -> sm.RegressionResultsWrapper:
 
     formula = (
         f"{outcome} ~ preprint_visible + "
-        "C(institution_tier) + C(country_group) + C(venue) + C(year)"
+        "C(institution_tier) + "
+        f"C(country_group, Treatment(reference='{COUNTRY_REFERENCE}')) + "
+        "C(venue) + C(year)"
     )
-    return smf.ols(formula, data=model_df).fit()
+    return smf.ols(formula, data=model_df).fit(cov_type="HC3")
 
 
 def format_pvalue(p: float) -> str:
@@ -244,26 +249,129 @@ def build_outcome_rows(
         }
     )
 
-    country_param = f"C(country_group)[T.{COUNTRY_EXAMPLE}]"
+    country_param = (
+        f"C(country_group, Treatment(reference='{COUNTRY_REFERENCE}'))[T.{COUNTRY_EXAMPLE}]"
+    )
     if country_param not in result.params.index:
         candidates = [
-            name for name in result.params.index if name.startswith("C(country_group)[T.")
+            name
+            for name in result.params.index
+            if "country_group" in name and "[T." in name
         ]
         country_param = candidates[0] if candidates else ""
-    est, lo, hi, _p_level = coef_ci_p(result, country_param)
-    p_omni = wald_omnibus_p(result, "C(country_group)")
+    est, lo, hi, p_level = coef_ci_p(result, country_param)
     rows.append(
         {
             "Outcome": outcome_label,
             "Predictor": "Country",
             "Estimate": f"{est:.3f}" if not np.isnan(est) else "—",
             "95% CI": f"[{lo:.3f}, {hi:.3f}]" if not np.isnan(est) else "—",
-            "p-value": format_pvalue(p_omni),
+            "p-value": format_pvalue(p_level),
             "N": n,
         }
     )
 
     return pd.DataFrame(rows)
+
+
+def country_dummy_name(level: str) -> str:
+    return (
+        f"C(country_group, Treatment(reference='{COUNTRY_REFERENCE}'))[T.{level}]"
+    )
+
+
+def build_country_contrasts_vs_us(
+    result: sm.RegressionResultsWrapper,
+    df: pd.DataFrame,
+    outcome_label: str,
+    n: int,
+) -> pd.DataFrame:
+    rows: list[dict[str, str | int]] = []
+    levels = sorted(
+        str(level)
+        for level in df["country_group"].dropna().unique()
+        if str(level) != COUNTRY_REFERENCE
+    )
+    for level in levels:
+        n_level = int((df["country_group"] == level).sum())
+        est, lo, hi, p = coef_ci_p(result, country_dummy_name(level))
+        direction = "higher" if (not np.isnan(est) and est >= 0) else "lower"
+        rows.append(
+            {
+                "Comparison": f"{level} vs {COUNTRY_REFERENCE}",
+                "Country": level,
+                "Reference": COUNTRY_REFERENCE,
+                "N (country)": n_level,
+                "N (model)": n,
+                "Estimate": f"{est:.3f}" if not np.isnan(est) else "—",
+                "95% CI": f"[{lo:.3f}, {hi:.3f}]" if not np.isnan(est) else "—",
+                "p-value": format_pvalue(p),
+                "Interpretation": (
+                    f"{outcome_label}: {level} papers have {abs(est):.3f} SD {direction} "
+                    f"mean scores than {COUNTRY_REFERENCE} papers (95% CI "
+                    f"[{lo:.3f}, {hi:.3f}], p={format_pvalue(p)}), adjusted for preprint "
+                    "visibility, institution tier, venue, and year."
+                    if not np.isnan(est)
+                    else f"Could not estimate {level} vs {COUNTRY_REFERENCE}."
+                ),
+            }
+        )
+    return pd.DataFrame(rows)
+
+
+def write_per_country_vs_us_csvs(
+    rating_table: pd.DataFrame,
+    confidence_table: pd.DataFrame,
+) -> list[Path]:
+    COUNTRY_VS_US_DIR.mkdir(parents=True, exist_ok=True)
+    written: list[Path] = []
+    rating_by = {
+        str(row["Country"]): row for _, row in rating_table.iterrows()
+    }
+    conf_by = {
+        str(row["Country"]): row for _, row in confidence_table.iterrows()
+    }
+    for country in sorted(set(rating_by) | set(conf_by)):
+        slug = country.lower().replace(" ", "_")
+        path = COUNTRY_VS_US_DIR / f"table5_{slug}_vs_united_states.csv"
+        combined = pd.concat(
+            [
+                pd.DataFrame(
+                    [
+                        {
+                            "Outcome": "Rating",
+                            **{
+                                k: rating_by[country][k]
+                                for k in rating_by[country].index
+                                if k != "Interpretation"
+                            },
+                            "Interpretation": rating_by[country]["Interpretation"],
+                        }
+                    ]
+                )
+                if country in rating_by
+                else pd.DataFrame(),
+                pd.DataFrame(
+                    [
+                        {
+                            "Outcome": "Confidence",
+                            **{
+                                k: conf_by[country][k]
+                                for k in conf_by[country].index
+                                if k != "Interpretation"
+                            },
+                            "Interpretation": conf_by[country]["Interpretation"],
+                        }
+                    ]
+                )
+                if country in conf_by
+                else pd.DataFrame(),
+            ],
+            ignore_index=True,
+        )
+        combined.to_csv(path, index=False, encoding="utf-8")
+        written.append(path)
+    return written
 
 
 def merge_table5(

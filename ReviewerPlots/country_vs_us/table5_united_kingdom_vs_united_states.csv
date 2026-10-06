@@ -1,0 +1,3 @@
+Outcome,Comparison,Country,Reference,N (country),N (model),Estimate,95% CI,p-value,Interpretation
+Rating,United Kingdom vs United States,United Kingdom,United States,689,23333,0.111,"[0.031, 0.191]",6.6e-3,"Rating: United Kingdom papers have 0.111 SD higher mean scores than United States papers (95% CI [0.031, 0.191], p=6.6e-3), adjusted for preprint visibility, institution tier, venue, and year."
+Confidence,United Kingdom vs United States,United Kingdom,United States,600,20076,-0.044,"[-0.130, 0.041]",3.1e-1,"Confidence: United Kingdom papers have 0.044 SD lower mean scores than United States papers (95% CI [-0.130, 0.041], p=3.1e-1), adjusted for preprint visibility, institution tier, venue, and year."

@@ -1,0 +1,8 @@
+Predictor,Odds ratio,95% CI,p-value,Test,Interpretation
+within_30d vs CfP-review,0.80,"[0.65, 0.99]",4.3e-2,pairwise coefficient,"Posting within 30 days of submission had about 0.80x the odds of acceptance of posting in the CfP-to-review window, after adjusting for institution tier, country, and year."
+"Preprint timing, overall",—,—,1.7e-117,joint Wald test,"Joint Wald test that all preprint-timing coefficients are jointly zero, after adjusting for institution tier, country, and year."
+Institution tier,10.55,"[3.18, 35.05]",1.2e-4,pairwise coefficient,Top-20 first-author institutes had about 10.6x the odds of acceptance of bottom-ranked institutes (top vs bottom).
+China vs. US,0.79,"[0.69, 0.90]",5.1e-4,pairwise coefficient,"China-affiliated submissions had about 0.79x the odds of acceptance of US-affiliated submissions (pairwise coefficient, China vs US)."
+"Country, overall",—,—,1.5e-15,joint Wald test,"Joint Wald test that all country-group coefficients are jointly zero, after adjusting for preprint timing, institution tier, and year."
+2025 vs 2023,0.24,"[0.22, 0.26]",4.8e-180,pairwise coefficient,ICLR 2025 submissions had about 0.24x the odds of acceptance of ICLR 2023 submissions (2025 vs 2023).
+"Year, overall",—,—,1.4e-178,joint Wald test,"Joint Wald test that all year coefficients are jointly zero, after adjusting for preprint timing, institution tier, and country."

@@ -8,7 +8,7 @@ By year:
   2025: n=6880 | accepted=1966 | rejected=4914
 
 Predictor completeness:
-  preprint_visible=1: 6188 (41.6%)
+  preprint_visible=1: 2925 (19.7%)
   preprint_timing=no_preprint: 9596 (64.5%)
   institution_tier=not_listed: 12955 (87.0%)
   country=Unknown: 6528 (43.9%)

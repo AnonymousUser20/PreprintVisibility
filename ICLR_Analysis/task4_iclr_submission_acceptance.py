@@ -188,19 +188,19 @@ def preprint_visible_flag(
     year: int,
     deadline_windows: dict[tuple[str, int], tuple[date, date]],
 ) -> int:
-    """1 if preprint is on/after (CfP - 30d); 0 if earlier than that or missing.
+    """1 if a recorded preprint is dated before the submission deadline; else 0.
 
-    CfP is the ICLR submission deadline in conference_deadlines.csv.
+    Missing dates and dates on/after the ICLR submission deadline (CfP) are 0.
     """
     if preprint_date is None:
         return 0
     window = deadline_windows.get(("ICLR", year))
     if window is None:
         return 0
-    cfp, _review = window
-    if preprint_date < cfp - timedelta(days=30):
-        return 0
-    return 1
+    submission, _review = window
+    if preprint_date < submission:
+        return 1
+    return 0
 
 
 def load_submissions(
@@ -328,11 +328,8 @@ def fit_logit(df: pd.DataFrame) -> sm.BinaryResultsWrapper:
         model_df["institution_tier"],
         categories=["not_listed", "top", "bottom"],
     )
-    model_df["preprint_timing"] = model_df["preprint_timing"].astype("category")
-
     formula = (
         "accepted ~ preprint_visible + "
-        f"C(preprint_timing, Treatment(reference='{TIMING_REFERENCE}')) + "
         "C(institution_tier) + C(country_group) + C(year)"
     )
     return smf.logit(formula, data=model_df).fit(disp=False, maxiter=200)
@@ -352,6 +349,20 @@ def or_ci_p(result: sm.BinaryResultsWrapper, param: str) -> tuple[float, float, 
 
 def country_group_param(level: str) -> str:
     return f"C(country_group)[T.{level}]"
+
+
+def tier_top_vs_bottom_contrast(
+    result: sm.BinaryResultsWrapper,
+) -> tuple[float, float, float, float]:
+    contrast = np.zeros(len(result.params))
+    names = list(result.params.index)
+    top_param = "C(institution_tier)[T.top]"
+    bottom_param = "C(institution_tier)[T.bottom]"
+    if top_param not in names or bottom_param not in names:
+        return float("nan"), float("nan"), float("nan"), float("nan")
+    contrast[names.index(top_param)] = 1.0
+    contrast[names.index(bottom_param)] = -1.0
+    return wald_contrast_or_ci_p(result, contrast)
 
 
 def wald_contrast_or_ci_p(
@@ -505,10 +516,10 @@ def simple_interpretation(
 
     if predictor == "Preprint visible":
         return (
-            f"Papers whose preprint appears on or after 30 days before the CfP "
-            f"(submission deadline) had about {or_val:.1f}x the odds of acceptance "
-            "compared with papers with no preprint or an earlier preprint, after "
-            "adjusting for timing, institution tier, country, and year."
+            f"Papers with a recorded preprint dated before the submission deadline "
+            f"had about {or_val:.1f}x the odds of acceptance compared with papers "
+            "with no recorded pre-submission preprint, after adjusting for "
+            "institution tier, country, and year."
         )
 
     if predictor == "Preprint timing":
@@ -524,17 +535,21 @@ def simple_interpretation(
     if predictor == "Institution tier":
         return (
             f"Submissions whose first author comes from a top-20 CS-ranked institute "
-            f"had about {pct_change(or_val)} higher odds of acceptance than submissions "
-            "from unlisted or mid-ranked institutes."
+            f"had about {or_val:.1f}x the odds of acceptance of submissions from "
+            "bottom-ranked institutes (top vs bottom)."
         )
 
-    if predictor == "Country":
-        label = contrast or "the reference country group"
-        direction = "higher" if or_val >= 1 else "lower"
+    if predictor == "China vs. US":
         return (
-            "Author country is linked to acceptance differences in the model. "
-            f"Overall, country groups differ significantly; for example, {label} shows "
-            f"{direction} odds than the reference group (OR={or_val:.2f})."
+            f"China-affiliated submissions had about {or_val:.2f}x the odds of "
+            "acceptance of US-affiliated submissions (pairwise coefficient, "
+            "China vs US)."
+        )
+
+    if predictor == "Country, overall":
+        return (
+            "Joint Wald test that all country-group coefficients are jointly zero, "
+            "after adjusting for preprint visibility, institution tier, and year."
         )
 
     if predictor == "Year":
@@ -579,66 +594,62 @@ def build_table4(result: sm.BinaryResultsWrapper) -> pd.DataFrame:
             "Odds ratio": f"{or_val:.2f}" if not np.isnan(or_val) else "—",
             "95% CI": f"[{ci_lo:.2f}, {ci_hi:.2f}]" if not np.isnan(or_val) else "—",
             "p-value": format_pvalue(p),
+            "Test": "pairwise coefficient",
             "Interpretation": simple_interpretation("Preprint visible", or_val),
         }
     )
 
-    timing_param = timing_contrast_param(result)
-    or_val, ci_lo, ci_hi, _p_level = or_ci_p(result, timing_param)
-    p_omni = wald_omnibus_p(result, timing_omnibus_prefix(result))
-    rows.append(
-        {
-            "Predictor": "Preprint timing",
-            "Odds ratio": f"{or_val:.2f}" if not np.isnan(or_val) else "—",
-            "95% CI": f"[{ci_lo:.2f}, {ci_hi:.2f}]" if not np.isnan(or_val) else "—",
-            "p-value": format_pvalue(p_omni),
-            "Interpretation": simple_interpretation("Preprint timing", or_val),
-        }
-    )
-
-    tier_param = "C(institution_tier)[T.top]"
-    or_val, ci_lo, ci_hi, p = or_ci_p(result, tier_param)
-    p_omni = wald_omnibus_p(result, "C(institution_tier)")
+    or_val, ci_lo, ci_hi, p = tier_top_vs_bottom_contrast(result)
     rows.append(
         {
             "Predictor": "Institution tier",
             "Odds ratio": f"{or_val:.2f}" if not np.isnan(or_val) else "—",
             "95% CI": f"[{ci_lo:.2f}, {ci_hi:.2f}]" if not np.isnan(or_val) else "—",
-            "p-value": format_pvalue(p_omni),
+            "p-value": format_pvalue(p),
+            "Test": "pairwise coefficient",
             "Interpretation": simple_interpretation("Institution tier", or_val),
         }
     )
 
-    country_param = "C(country_group)[T.United States]"
-    if country_param not in result.params.index:
-        country_candidates = [
-            n for n in result.params.index if n.startswith("C(country_group)[T.")
-        ]
-        country_param = country_candidates[0] if country_candidates else ""
-    or_val, ci_lo, ci_hi, p = or_ci_p(result, country_param)
-    p_omni = wald_omnibus_p(result, "C(country_group)")
-    country_label = country_param.replace("C(country_group)[T.", "").rstrip("]") if country_param else "reference"
+    or_val, ci_lo, ci_hi, p = focal_vs_country_contrast(
+        result, CHINA_COUNTRY, US_COUNTRY
+    )
     rows.append(
         {
-            "Predictor": "Country",
+            "Predictor": "China vs. US",
             "Odds ratio": f"{or_val:.2f}" if not np.isnan(or_val) else "—",
             "95% CI": f"[{ci_lo:.2f}, {ci_hi:.2f}]" if not np.isnan(or_val) else "—",
+            "p-value": format_pvalue(p),
+            "Test": "pairwise coefficient",
+            "Interpretation": simple_interpretation("China vs. US", or_val),
+        }
+    )
+
+    p_omni = wald_omnibus_p(result, "C(country_group)")
+    rows.append(
+        {
+            "Predictor": "Country, overall",
+            "Odds ratio": "—",
+            "95% CI": "—",
             "p-value": format_pvalue(p_omni),
-            "Interpretation": simple_interpretation(
-                "Country", or_val, contrast=country_label
+            "Test": "joint Wald test",
+            "Interpretation": (
+                "Joint Wald test that all country-group coefficients are jointly "
+                "zero, after adjusting for preprint visibility, institution tier, "
+                "and year."
             ),
         }
     )
 
     year_param = "C(year)[T.2025]"
     or_val, ci_lo, ci_hi, p = or_ci_p(result, year_param)
-    p_omni = wald_omnibus_p(result, "C(year)")
     rows.append(
         {
-            "Predictor": "Year",
+            "Predictor": "2025 vs 2023",
             "Odds ratio": f"{or_val:.2f}" if not np.isnan(or_val) else "—",
             "95% CI": f"[{ci_lo:.2f}, {ci_hi:.2f}]" if not np.isnan(or_val) else "—",
-            "p-value": format_pvalue(p_omni),
+            "p-value": format_pvalue(p),
+            "Test": "pairwise coefficient",
             "Interpretation": simple_interpretation("Year", or_val),
         }
     )

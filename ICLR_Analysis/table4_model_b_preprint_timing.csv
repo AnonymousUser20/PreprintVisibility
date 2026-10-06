@@ -1,0 +1,12 @@
+Predictor,Odds ratio,95% CI,p-value,Test,Interpretation
+90-180 days before submission vs >180 days before submission,1.23,"[1.00, 1.50]",4.5e-2,pairwise coefficient,"Compared with >180 days before submission, 90-180 days before submission has OR=1.23 for ICLR acceptance, adjusted for institution tier, country, and year."
+60-90 days before submission vs >180 days before submission,1.46,"[1.12, 1.91]",5.4e-3,pairwise coefficient,"Compared with >180 days before submission, 60-90 days before submission has OR=1.46 for ICLR acceptance, adjusted for institution tier, country, and year."
+30-60 days before submission vs >180 days before submission,0.99,"[0.71, 1.38]",9.6e-1,pairwise coefficient,"Compared with >180 days before submission, 30-60 days before submission has OR=0.99 for ICLR acceptance, adjusted for institution tier, country, and year."
+<30 days before submission vs >180 days before submission,1.14,"[0.89, 1.48]",3e-1,pairwise coefficient,"Compared with >180 days before submission, <30 days before submission has OR=1.14 for ICLR acceptance, adjusted for institution tier, country, and year."
+CfP to review window vs >180 days before submission,1.42,"[1.18, 1.71]",1.8e-4,pairwise coefficient,"Compared with >180 days before submission, cfp to review window has OR=1.42 for ICLR acceptance, adjusted for institution tier, country, and year."
+No preprint date vs >180 days before submission,0.54,"[0.46, 0.64]",1.8e-12,pairwise coefficient,"Compared with >180 days before submission, no preprint date has OR=0.54 for ICLR acceptance, adjusted for institution tier, country, and year."
+"Preprint timing, overall",—,—,1.7e-117,joint Wald test,"Joint Wald test that all preprint-timing coefficients are jointly zero, after adjusting for institution tier, country, and year."
+Institution tier (top vs bottom),10.55,"[3.18, 35.05]",1.2e-4,pairwise coefficient,Top-20 first-author institutes had about 10.6x the odds of acceptance of bottom-ranked institutes.
+China vs. US,0.79,"[0.69, 0.90]",5.1e-4,pairwise coefficient,China-affiliated submissions had about 0.79x the odds of acceptance of US-affiliated submissions.
+"Country, overall",—,—,1.5e-15,joint Wald test,"Joint Wald test that all country-group coefficients are jointly zero, after adjusting for preprint timing, institution tier, and year."
+2025 vs 2023,0.24,"[0.22, 0.26]",4.8e-180,pairwise coefficient,ICLR 2025 submissions had about 0.24x the odds of acceptance of ICLR 2023 submissions.

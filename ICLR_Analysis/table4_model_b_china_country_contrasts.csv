@@ -1,0 +1,9 @@
+Comparison,Reference group,N (reference group),Odds ratio,95% CI,p-value,Interpretation,Notes
+China vs Canada,Canada,292,0.87,"[0.66, 1.15]",3.3e-1,"China submissions have 13% lower odds of acceptance than Canada submissions (OR=0.87), adjusted for preprint, institution tier, and year.",
+China vs Hong Kong,Hong Kong,367,0.93,"[0.73, 1.19]",5.7e-1,"China submissions have 7% lower odds of acceptance than Hong Kong submissions (OR=0.93), adjusted for preprint, institution tier, and year.",
+China vs Other,Other,1476,0.73,"[0.62, 0.85]",1e-4,"China submissions have 27% lower odds of acceptance than Other submissions (OR=0.73), adjusted for preprint, institution tier, and year.","Includes: Germany (260), Switzerland (183), Australia (145), Israel (109), France (107), Japan (105), Netherlands (70), Italy (56); +32 more countries"
+China vs Singapore,Singapore,263,0.88,"[0.67, 1.16]",3.8e-1,"China submissions have 12% lower odds of acceptance than Singapore submissions (OR=0.88), adjusted for preprint, institution tier, and year.",
+China vs South Korea,South Korea,345,0.87,"[0.68, 1.11]",2.5e-1,"China submissions have 13% lower odds of acceptance than South Korea submissions (OR=0.87), adjusted for preprint, institution tier, and year.",
+China vs United Kingdom,United Kingdom,506,0.89,"[0.71, 1.11]",2.9e-1,"China submissions have 11% lower odds of acceptance than United Kingdom submissions (OR=0.89), adjusted for preprint, institution tier, and year.",
+China vs United States,United States,3391,0.79,"[0.69, 0.90]",5.1e-4,"China submissions have 21% lower odds of acceptance than United States submissions (OR=0.79), adjusted for preprint, institution tier, and year.",
+China vs Unknown,Unknown,6528,1.15,"[1.00, 1.31]",5.2e-2,"China submissions have 15% higher odds of acceptance than Unknown submissions (OR=1.15), adjusted for preprint, institution tier, and year.",

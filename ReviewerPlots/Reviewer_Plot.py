@@ -124,6 +124,10 @@ def main() -> None:
     )
 
     plt.tight_layout(rect=[0, 0.03, 1, 1])
+    fig.subplots_adjust(wspace=0.32)
+    # ICLR confidence uses wide decimal ticks (5.0, 4.5, ...); keep a small
+    # gap from the numbers while sitting closer to the axis than the column gap.
+    axes[0, 1].yaxis.set_label_coords(-0.08, 0.5)
     plt.savefig(OUTPUT_PNG, dpi=300, bbox_inches="tight")
     plt.show()
 

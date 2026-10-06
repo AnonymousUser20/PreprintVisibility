@@ -558,6 +558,9 @@ def draw_plot(labels: list[tuple[str, str]], raw_counts: dict[tuple[str, str], d
         ax.spines["right"].set_visible(False)
 
     handles, legend_labels = axes[0].get_legend_handles_labels()
+    legend_labels = [
+        "CfP-Review" if label == "CfP->Review" else label for label in legend_labels
+    ]
     fig.legend(
         handles,
         legend_labels,
