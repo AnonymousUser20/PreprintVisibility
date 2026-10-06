@@ -162,18 +162,6 @@ For merging multiple csv-s into 1. use `df = pandas.concat(df1, df2, index = Fal
   ```
 </p>
 
-## PRE-PRINT POLICIES 
-- ICLR : https://iclr.cc/Conferences/2026/AuthorGuide
-- NeurIPS : https://neurips.cc/Conferences/2025/CallForPapers
-- ICML : https://icml.cc/Conferences/2025/CallForPapers
-- AAAI : https://aaai.org/conference/aaai/aaai-25/review-process/
-- ACL : https://aclrollingreview.org/anonymity/
-- EMNLP : https://2025.emnlp.org/calls/main_conference_papers/
-- COLING : https://coling2025.org/calls/main_conference_papers/?utm_source=chatgpt.com#anonymity-period
-- KDD : https://kdd2025.kdd.org/research-track-call-for-papers/
-- CVPR : https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines
-
-
 ---
 
 **Code and data for analyses of preprint visibility, author country, institutional CSRankings tier, and reviewer outcomes across major CS venues (2023–2025).**
