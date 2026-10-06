@@ -190,7 +190,7 @@ For merging multiple csv-s into 1. use `df = pandas.concat(df1, df2, index = Fal
 | `ConfusionMatrix/` | Conference **submission / review deadlines** and timing-window figures. |
 | `WorldMapPlots/` | Geographic preprint maps by lead-time bucket. |
 | `OPS/` | Oral/poster style summaries. |
-| `COLING2025_Remaining/` | Local PDFs for remaining COLING 2025 main papers (gitignored). |
+
 
 ---
 
@@ -330,7 +330,7 @@ H0: common odds ratio of preprint vs no-preprint is the same for US and China ac
 
 ## Regression data and code
 
-### ICLR acceptance (Task 4 logistic): Models A and B
+### ICLR acceptance (logistic regression): Models A and B
 
 Both models use the same **14,883** unique ICLR 2023–2025 submissions from `OldOutputs/ICLR/` (papers with affiliation records) and deadlines in `ConfusionMatrix/conference_deadlines.csv`.
 
@@ -372,7 +372,7 @@ Reference timing category: **CfP to review** (`cfp_to_review`).
 accepted ~ C(preprint_timing) + C(institution_tier) + C(country_group) + C(year)
 ```
 
-### Reviewer rating and confidence (Task 5b OLS, ICLR only)
+### Reviewer rating and confidence (OLS, ICLR only)
 
 This is the **correct** rating/confidence regression for the manuscript: ICLR 2023–2025 papers with **both** mean rating and mean confidence, including accepted and reject/withdrawn reviews (`n = 18,201`).
 
