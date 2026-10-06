@@ -181,8 +181,8 @@ For merging multiple csv-s into 1. use `df = pandas.concat(df1, df2, index = Fal
 | `PipelineFiles/` | Country → rank → arXiv-date mapping pipeline. |
 | `ReviewsICLR/`, `ReviewsICML/`, `ReviewsNeurIPS/` | OpenReview JSON dumps + scraper scripts. |
 | `NeurIPS Dataset and Benchmark/` | Extra NeurIPS D&B reviews (2023–2025). |
-| `ReviewerPlots/` | Paper-level mean rating/confidence, plots, and **rating/confidence OLS** (Task 5). |
-| `ICLR_Analysis/` | **ICLR acceptance logistic regression** (Task 4 / Table 6 in the manuscript). |
+| `ReviewerPlots/` | Paper-level mean rating/confidence, plots, original multi-venue OLS (Task 5), and **ICLR-only rating/confidence OLS (Task 5b)**. |
+| `ICLR_Analysis/` | **ICLR acceptance logistic regression** (Task 4 Models A and B). |
 | `LeadTimeAnalysis/` | Continuous preprint lead-time descriptives (Task 6). |
 | `InstitutionalTierAnalysis/` | Institutional-tier robustness OLS (Task 7). |
 | `MetadataAvailability/` | Table 3 metadata-availability counts. |
@@ -302,8 +302,9 @@ Tracks include accepted oral/poster/spotlight and rejected/withdrawn folders. Sc
 NeurIPS Datasets & Benchmarks reviews: `NeurIPS Dataset and Benchmark/Reviews/<year>/`.
 
 **Aggregated reviewer scores (one row per paper)**  
-- `ReviewerPlots/paper_review_scores.csv` — mean official rating and confidence, preprint group, country, rank  
-- Built by `ReviewerPlots/extract_review_scores.py` (reads the JSON folders above)
+- `ReviewerPlots/paper_review_scores.csv` — mean official rating and confidence, preprint group, country, rank (accepted-track extract; skips reject folders)  
+- Built by `ReviewerPlots/extract_review_scores.py` (reads the JSON folders above)  
+- **Task 5b ICLR sample (accepted + reject/withdrawn with both scores):** `ReviewerPlots/task5b_iclr_sample.csv` (`n = 18,201`), built by `ReviewerPlots/task5b_iclr_accumulate.py`
 
 ICML 2023–2024 have **no** OpenReview confidence/rating in this corpus; ICML 2025 ratings are present.
 
@@ -329,32 +330,66 @@ H0: common odds ratio of preprint vs no-preprint is the same for US and China ac
 
 ## Regression data and code
 
-### ICLR acceptance (logistic)
+### ICLR acceptance (Task 4 logistic): Models A and B
+
+Both models use the same **14,883** unique ICLR 2023–2025 submissions from `OldOutputs/ICLR/` (papers with affiliation records) and deadlines in `ConfusionMatrix/conference_deadlines.csv`.
+
+`preprint_visible = 1` if the recorded arXiv date is **strictly before** the ICLR submission deadline; else 0 (missing date or on/after the deadline).
+
+#### Model A (preprint visibility)
 
 - **Code:** `ICLR_Analysis/task4_iclr_submission_acceptance.py`  
 - **Run:** `ICLR_Analysis/run_task4.ps1`  
-- **Model data:** `ICLR_Analysis/task4_submission_dataset.csv` (one row per unique ICLR 2023–2025 submission)  
+- **Model data:** `ICLR_Analysis/task4_submission_dataset.csv`  
 - **Results:**  
-  - `table4_iclr_submission_logistic.csv` — preprint visibility, timing, tier, country, year  
+  - `table4_iclr_submission_logistic.csv` — preprint visibility, institution tier (top vs bottom), China vs US, country overall, 2025 vs 2023  
   - `table4_us_country_contrasts.csv`  
-  - `table4_china_country_contrasts.csv`  
-- **Source papers:** `OldOutputs/ICLR/` plus deadlines in `ConfusionMatrix/conference_deadlines.csv`  
-- `preprint_visible = 1` if the arXiv date is **on/after CfP − 30 days**; else 0 (including no date).
+  - `table4_china_country_contrasts.csv`
 
-Formula (simplified):
+```
+accepted ~ preprint_visible + C(institution_tier) + C(country_group) + C(year)
+```
 
-`accepted ~ preprint_visible + C(preprint_timing) + C(institution_tier) + C(country_group) + C(year)`
+#### Model B (preprint timing)
 
-### Reviewer rating and confidence (OLS)
+Fits timing buckets on the **same 14,883** papers. Does not overwrite Model A files.
 
-- **Code:** `ReviewerPlots/task5_common.py`, `task5_rating_ols.py`, `task5_confidence_ols.py`  
-- **Run:** `ReviewerPlots/run_task5.ps1`  
-- **Input:** `ReviewerPlots/paper_review_scores.csv`  
-- **Model data:** `ReviewerPlots/task5_model_dataset.csv`  
-- **Results:** `ReviewerPlots/table5_reviewer_rating_confidence.csv`  
-- Outcomes are **z-scored within venue × year**. Rating model uses ICLR + ICML + NeurIPS; confidence drops ICML (no scores).
+- **Code:** `ICLR_Analysis/task4_iclr_model_b_timing.py`  
+- **Run:** `python ICLR_Analysis/task4_iclr_model_b_timing.py`  
+- **Model data:** `ICLR_Analysis/task4_model_b_dataset.csv`  
+- **Results:**  
+  - `table4_model_b_timing.csv` — within-30d vs CfP–review and other reported contrasts  
+  - `table4_model_b_iclr_submission_logistic.csv` — full predictor table (timing, tier, country, year)  
+  - `table4_model_b_timing_levels.csv`  
+  - `table4_model_b_us_country_contrasts.csv`  
+  - `table4_model_b_china_country_contrasts.csv`  
+  - `task4_model_b_report.txt`
 
-`rating_z / confidence_z ~ preprint_visible + C(institution_tier) + C(country_group) + C(venue) + C(year)`
+Reference timing category: **CfP to review** (`cfp_to_review`).  
+`no_preprint` = missing date **or** posted after the review deadline.
+
+```
+accepted ~ C(preprint_timing) + C(institution_tier) + C(country_group) + C(year)
+```
+
+### Reviewer rating and confidence (Task 5b OLS, ICLR only)
+
+This is the **correct** rating/confidence regression for the manuscript: ICLR 2023–2025 papers with **both** mean rating and mean confidence, including accepted and reject/withdrawn reviews (`n = 18,201`).
+
+- **Accumulate sample:** `ReviewerPlots/task5b_iclr_accumulate.py` → `task5b_iclr_sample.csv`  
+- **OLS code:** `ReviewerPlots/task5b_iclr_ols.py` (uses helpers in `task5_common.py`)  
+- **Run:** `python ReviewerPlots/task5b_iclr_accumulate.py` then `python ReviewerPlots/task5b_iclr_ols.py`  
+- **Model data:** `ReviewerPlots/task5b_iclr_model_dataset.csv`  
+- **Results:** `ReviewerPlots/table5b_iclr_rating_confidence.csv`  
+- Rating and confidence are **z-scored within each ICLR year** (not pooled across years).  
+- Standard errors are **HC3** heteroskedasticity-robust.  
+- `PreprintVisible = 1` if the arXiv date is strictly before the ICLR submission deadline.
+
+```
+rating_z / confidence_z ~ preprint_visible + C(institution_tier) + C(country_group) + C(year)
+```
+
+The earlier multi-venue Task 5 (`task5_rating_ols.py`, `task5_confidence_ols.py`, `table5_reviewer_rating_confidence.csv`) remains in the repo but is **not** the ICLR rating/confidence specification used in the paper.
 
 ### Other models
 
